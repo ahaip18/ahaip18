@@ -6,6 +6,9 @@
 ![image](https://user-images.githubusercontent.com/101486416/158048354-2be41de0-55b3-4284-8023-3d1f958d7fab.png)
 > 怕什么真理无穷，进一寸有一寸的欢喜。——胡适
 
+![image](https://user-images.githubusercontent.com/101486416/158055518-c8ba3958-b8ff-4f4a-9db3-c01cb0593ec3.png)
+> Life is like a journey 人生就像一场旅行，不必在乎目的地，在乎的是沿途的风景以及看风景的心情，让心灵去旅行!
+
 ![image](https://user-images.githubusercontent.com/101486416/158055353-7c426a1b-6999-4d2b-8ade-2bea49d41e0f.png)
 ![image](https://user-images.githubusercontent.com/101486416/158055357-52e994d3-0613-4aa9-8185-b9e6ad98f11e.png)
 ![image](https://user-images.githubusercontent.com/101486416/158055359-b835b0e6-b952-443f-a54e-c73141e9ba4d.png)
