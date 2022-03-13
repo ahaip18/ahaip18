@@ -6,17 +6,6 @@
 ![image](https://user-images.githubusercontent.com/101486416/158048354-2be41de0-55b3-4284-8023-3d1f958d7fab.png)
 > 怕什么真理无穷，进一寸有一寸的欢喜。——胡适
 
-![image](https://user-images.githubusercontent.com/101486416/158055518-c8ba3958-b8ff-4f4a-9db3-c01cb0593ec3.png)
-> Life is like a journey 人生就像一场旅行，不必在乎目的地，在乎的是沿途的风景以及看风景的心情，让心灵去旅行!
-
-![image](https://user-images.githubusercontent.com/101486416/158055353-7c426a1b-6999-4d2b-8ade-2bea49d41e0f.png)
-![image](https://user-images.githubusercontent.com/101486416/158055357-52e994d3-0613-4aa9-8185-b9e6ad98f11e.png)
-![image](https://user-images.githubusercontent.com/101486416/158055359-b835b0e6-b952-443f-a54e-c73141e9ba4d.png)
-![image](https://user-images.githubusercontent.com/101486416/158055361-9568fa06-927c-4ae9-8d4a-56d135cc53d7.png)
-![image](https://user-images.githubusercontent.com/101486416/158055362-4cb13397-02ba-4210-985b-4c440a3b8e52.png)
-![image](https://user-images.githubusercontent.com/101486416/158055364-29090187-9259-4345-892a-3d6240947777.png)
-> 人们追随勇敢者，而不是高位者，没有人一直站在巅峰，但永远有人站在巅峰，只有那些不断勇敢攀登巅峰的人，才会赢得更多巅峰时刻。
-
 ## 富兰克林
 
 ![image](https://user-images.githubusercontent.com/101486416/158048399-b19d578d-b177-4616-bce5-34093297a7f4.png)
@@ -103,6 +92,19 @@
 1789年撰写《关于奴隶贸易》。
 1790年逝世于费城（4月17日）。
 ```
+
+## 知识产权
+
+![image](https://user-images.githubusercontent.com/101486416/158055855-75c65355-8639-4744-8e14-1c7707ae3bbb.png)
+![image](https://user-images.githubusercontent.com/101486416/158055857-80cc92f8-941c-4f79-8cbc-729c3f0966ea.png)
+![image](https://user-images.githubusercontent.com/101486416/158055861-919fca76-3340-4496-a8c3-e032d9b78dff.png)
+![image](https://user-images.githubusercontent.com/101486416/158055863-7051c2d9-ad75-4dfb-a964-edd08e0fa46c.png)
+![image](https://user-images.githubusercontent.com/101486416/158055867-01ff7978-61ee-4525-a56c-b6f385eceb2d.png)
+![image](https://user-images.githubusercontent.com/101486416/158055871-0fea5680-b4db-4f82-bd25-34bdac4268f5.png)
+![image](https://user-images.githubusercontent.com/101486416/158055872-35015cb0-8840-40c9-8615-6c08416d5fe8.png)
+![image](https://user-images.githubusercontent.com/101486416/158055875-ec305983-6e35-437f-80f8-f1fc464e3605.png)
+![image](https://user-images.githubusercontent.com/101486416/158055876-0c5e43f4-e01e-4448-8194-1eb6d7afc2ef.png)
+
 
 ## 参考
 
