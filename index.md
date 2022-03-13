@@ -6,6 +6,14 @@
 ![image](https://user-images.githubusercontent.com/101486416/158048354-2be41de0-55b3-4284-8023-3d1f958d7fab.png)
 > 怕什么真理无穷，进一寸有一寸的欢喜。——胡适
 
+![image](https://user-images.githubusercontent.com/101486416/158055353-7c426a1b-6999-4d2b-8ade-2bea49d41e0f.png)
+![image](https://user-images.githubusercontent.com/101486416/158055357-52e994d3-0613-4aa9-8185-b9e6ad98f11e.png)
+![image](https://user-images.githubusercontent.com/101486416/158055359-b835b0e6-b952-443f-a54e-c73141e9ba4d.png)
+![image](https://user-images.githubusercontent.com/101486416/158055361-9568fa06-927c-4ae9-8d4a-56d135cc53d7.png)
+![image](https://user-images.githubusercontent.com/101486416/158055362-4cb13397-02ba-4210-985b-4c440a3b8e52.png)
+![image](https://user-images.githubusercontent.com/101486416/158055364-29090187-9259-4345-892a-3d6240947777.png)
+> 人们追随勇敢者，而不是高位者，没有人一直站在巅峰，但永远有人站在巅峰，只有那些不断勇敢攀登巅峰的人，才会赢得更多巅峰时刻。
+
 ## 富兰克林
 
 ![image](https://user-images.githubusercontent.com/101486416/158048399-b19d578d-b177-4616-bce5-34093297a7f4.png)
