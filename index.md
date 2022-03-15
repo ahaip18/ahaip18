@@ -6,6 +6,9 @@
 ![image](https://user-images.githubusercontent.com/101486416/158048354-2be41de0-55b3-4284-8023-3d1f958d7fab.png)
 > 怕什么真理无穷，进一寸有一寸的欢喜。——胡适
 
+![image](https://user-images.githubusercontent.com/101486416/158368753-aec6d351-51e6-492c-9e69-c0865e8e333c.png)
+> [“朝闻道，夕死可矣”](https://baike.baidu.com/item/朝闻道，夕死可矣/10619035)这句话中“道”指的是宇宙间的一切法则、道理。即“道可道非常道”。
+
 ## 富兰克林
 
 ![image](https://user-images.githubusercontent.com/101486416/158048399-b19d578d-b177-4616-bce5-34093297a7f4.png)
