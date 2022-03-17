@@ -293,6 +293,26 @@
 
 `知识产权的保护和实施应有助于促进技术革新及技术转让和传播，有助于技术知识的创造者和使用者的相互利益，并有助于社会和经济福利及权利与义务的平衡。`
 
+### 走钢丝的知识产权
+
+![image](https://user-images.githubusercontent.com/101486416/158752024-9f081fd1-32b8-48cf-a1e0-905529c2e79e.png)
+![image](https://user-images.githubusercontent.com/101486416/158752046-ca58cd1c-4ba1-47f0-bad4-cb12393a26e8.png)
+![image](https://user-images.githubusercontent.com/101486416/158752073-0bc5acee-a1e2-47e9-9bc9-4421de630c4e.png)
+![image](https://user-images.githubusercontent.com/101486416/158752106-d0929422-9a24-4e3f-b986-0e81accad0ce.png)
+![image](https://user-images.githubusercontent.com/101486416/158752093-0be8f004-1c19-4330-9cf0-c8c233531e0c.png)
+![image](https://user-images.githubusercontent.com/101486416/158752211-f242a53a-d14e-47f0-9ad6-91bc1c77364d.png)
+![image](https://user-images.githubusercontent.com/101486416/158752342-5ecac696-72e5-4278-83d6-4fb6d7ac2766.png)
+![image](https://user-images.githubusercontent.com/101486416/158752300-5340e0cd-2660-4214-81a2-a57880bc87c9.png)
+![image](https://user-images.githubusercontent.com/101486416/158752240-b19939bb-eefa-481c-9df4-234c7ffd5574.png)
+![image](https://user-images.githubusercontent.com/101486416/158752319-56499e1b-2af9-4d8a-b9f7-7273f990260b.png)
+![image](https://user-images.githubusercontent.com/101486416/158752333-9d826fbe-bd4c-4721-96d2-fb485a03148b.png)
+![image](https://user-images.githubusercontent.com/101486416/158752404-08e01fa3-5686-4752-a5ba-023679610f02.png)
+![image](https://user-images.githubusercontent.com/101486416/158752408-b7cdbdeb-619c-4f48-bf03-ea2d65c2cf91.png)
+![image](https://user-images.githubusercontent.com/101486416/158752428-2d49738e-540b-4b49-85a8-288b23f531b8.png)
+![image](https://user-images.githubusercontent.com/101486416/158752433-aba56c05-fe54-40f0-a401-6e2936eb551b.png)
+![image](https://user-images.githubusercontent.com/101486416/158752462-c918ac9b-b4fa-49e4-b18c-864db5a6dfe9.png)
+
+
 ![image](https://user-images.githubusercontent.com/101486416/158055855-75c65355-8639-4744-8e14-1c7707ae3bbb.png)
 ![image](https://user-images.githubusercontent.com/101486416/158055857-80cc92f8-941c-4f79-8cbc-729c3f0966ea.png)
 ![image](https://user-images.githubusercontent.com/101486416/158055861-919fca76-3340-4496-a8c3-e032d9b78dff.png)
@@ -370,5 +390,6 @@
 ## 参考
 
 1. [与贸易有关的知识产权协定](http://ipr.mofcom.gov.cn/zhuanti/law/conventions/wto/trips.html) 
+2. [秒懂知识产权法](https://book.douban.com/subject/35220294/) 
 
 ![Alt](https://repobeats.axiom.co/api/embed/5694f8a5725db3353a697fd63a6a2c34fc8bd3a6.svg "Repobeats analytics image")
