@@ -1,7 +1,10 @@
 # 啊哈，IP工匠
 
-![image](https://user-images.githubusercontent.com/101486416/158041572-8ef39511-6bd1-4079-9a11-27bce9c715d5.png)
-> 大言不惭，只有这唯一的理由，那就是：傲慢即是愚蠢。
+![image](https://user-images.githubusercontent.com/101486416/158756211-139615f7-44f5-4bf3-8041-05e5ba952ea5.png)
+> [敬业、责任和技术的组合就是工匠精神](http://news.cctv.com/special/zgmdggj/index.shtml)
+
+![image](https://user-images.githubusercontent.com/101486416/158756357-85567183-22a8-47e2-937e-cfdb6c89c975.png)
+> 一生干好一件事：高价值专利产品及经典案例，创造美感，沉浸并乐在其中...
 
 ![image](https://user-images.githubusercontent.com/101486416/158048354-2be41de0-55b3-4284-8023-3d1f958d7fab.png)
 > 怕什么真理无穷，进一寸有一寸的欢喜。——胡适
