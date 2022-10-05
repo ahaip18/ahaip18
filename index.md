@@ -1,7 +1,17 @@
 # 啊哈，IP工匠
 
+![image](https://user-images.githubusercontent.com/101486416/193951529-1bc9ed2b-39c9-4677-b087-d8a724eedbbd.png)
 ![image](https://user-images.githubusercontent.com/101486416/193949815-127e5b0c-a5d7-446d-8704-b5ae07d3acfc.png)
 > 聚焦并持续干好一件事：高价值专利产品及经典案例，创造美感，沉浸并乐在其中...
+
+![image](https://user-images.githubusercontent.com/101486416/193952073-bc57696d-78ce-4035-976e-5b76ac57ceba.png)
+> [最好的投资就是投资自己。](https://finance.sina.com.cn/stock/hkstock/ggscyd/2021-08-10/doc-ikqciyzm0707528.shtml)
+
+> 今天最好的表现，是明天最低的要求。通过成就他人来成就自己的人，就是管理者。管理者不仅自己把事情做对，而且可以带着团队做成。做正确且难的事，做难事必有所得，天下难做的事易成。
+管理者天天都要面对既可爱而又不完美的人，面对人性中的善，人性中的恶，人的潜能、长处和人的弱点。管理的本质，是激发和释放每一个人的善意，管理者要激发和释放人本身固有的潜能，创造价值，为他人谋福祉。
+
+![image](https://user-images.githubusercontent.com/101486416/193952119-a822e9c6-6821-4b3f-9d24-43c786bcf7e4.png)
+> [等不是办法，干才有希望。](http://www.yn.xinhuanet.com/original/2020-12/05/c_139562797.htm)
 
 ```
 1. 节制：食不过饱，酒不过量。
@@ -19,7 +29,73 @@
 13. 谦逊：效法耶稣和苏格拉底。
 ```
 
+![image](https://user-images.githubusercontent.com/101486416/193951825-2d74ffae-cefe-4531-a394-72c99aebb646.png)
+> “一个人生命中最大的幸运，莫过于在他的人生中途，即在他年富力强的时候发现了自己的使命”。 ——茨威格，《人类群星闪耀时》
+
+> 不谋万世者，不足谋一时；不谋全局者，不足谋一域。
+
+> 《诗》有之：“高山仰止，景行行止。”虽不能至，然心乡往之。余读孔氏书，想见其为人。
+
+> 子曰：君子求诸己，小人求诸人。
+
+```
+井蛙不可以语于海者，拘于虚也；
+夏虫不可以语于冰者，笃于时也；
+曲士不可以语于道者，束于教也。
+——庄子，“井底之蛙”源于此。
+```
+
+```
+荡胸生层云，决眦入归鸟。
+会当凌绝顶，一览众山小。
+——杜甫《望岳》
+```
+
+> 成年人：自己选择，自己负责，选择不同，结果迥异，思维习惯，量变质变，天道酬勤…
+
+> 不是每个人都能成为自己想要的样子，但每个人都可以努力成为自己想要的样子。相信自己，你能作茧自缚，就能破茧成蝶。限制客观存在，成功多从外部找原因，失败多从自身找原因。人生下来不是为了拖着锁链，而是为了展开双翼。
+
+```
+多or少
+快or慢
+表现or成长
+眼前or长远
+局部or全局
+消费or投资
+依赖or独立
+被动or主动
+懒散or自律
+肤浅or专业
+应付or负责
+过程or结果
+个人or团队
+质疑or信任
+否定or肯定
+抱怨or建设
+看见or相信
+有才的人
+有用的人
+能成事的人
+有价值的人
+…
+```
+
+![image](https://user-images.githubusercontent.com/101486416/193951917-370e7d07-85f2-4a3a-ad1b-1b8197c53578.png)
+> [问题到此为止。](https://www.canadianbusiness.com/blogs-and-comment/the-buck-stops-here-why-leadership-requires-taking-responsibility/)
+
+![image](https://user-images.githubusercontent.com/101486416/193951934-90bfc6ea-6457-45d6-b4e9-bcbce812708b.png)
+> [我能为你做些什么。](https://www.ushistory.org/documents/ask-not.htm)
+
 ## [如何在工作中快速晋升](https://www.dedao.cn/course/article?id=3bezDG7wBonmJwmmNKvQkAg5PyO1x9&source=search)
+
+![image](https://user-images.githubusercontent.com/101486416/193951579-ad7b7b84-8dcc-407b-a36b-5322c78561a0.png)
+![image](https://user-images.githubusercontent.com/101486416/193952188-7f0a3b76-1a3c-4b6d-9830-6aa181ba17c1.png)
+![image](https://user-images.githubusercontent.com/101486416/193952211-57094482-116b-455b-92d2-bd81a8dc1b1c.png)
+![image](https://user-images.githubusercontent.com/101486416/193952214-499eee49-bdbd-4db6-9fd8-72ee35b427a6.png)
+![image](https://user-images.githubusercontent.com/101486416/193952251-d1c29491-2088-4820-889e-a3bd1b95e3d2.png)
+![image](https://user-images.githubusercontent.com/101486416/193952318-19a1c441-0bbb-4234-9086-ad4ff591d4a8.png)
+![image](https://user-images.githubusercontent.com/101486416/193952271-0fd94a1d-e265-490b-9160-d2e02265b0fe.png)
+
 
 先来说说什么是正确的职场思维方式。吴军认为，在职场中，首先要分清工作和职业的区别，`工作是大家谋生的手段，一个公司给你一份工作，你完成任务，它付你工资，就算是钱货两清，所以你的上一份工作和下一份工作可以没有必然的联系`，但是职业不一样，职业是我们一辈子要从事的事业，是你选择的发展方向，`每一件事都是下一件事的铺路石`。比如你的职业是医生，那你就要努力提高医术，每治疗一个病人，你就为这个职业积累了更多的经验。那分清这个区别有什么价值呢？吴军说，
 
@@ -47,6 +123,8 @@
 > The protection and enforcement of intellectual property rights should contribute to the promotion of technological innovation and to the transfer and dissemination of technology, to the mutual advantage of producers and users of technological knowledge and in a manner conducive to social and economic welfare, and to a balance of rights and obligations.
 
 `知识产权的保护和实施应有助于促进技术革新及技术转让和传播，有助于技术知识的创造者和使用者的相互利益，并有助于社会和经济福利及权利与义务的平衡。`
+
+![image](https://user-images.githubusercontent.com/101486416/193952029-d446f389-07f5-4823-bd4c-40d7afd733ef.png)
 
 ### 走钢丝的知识产权
 
@@ -157,6 +235,12 @@
 
 总结一下，这封信我们梳理了`近代以来人类社会改善不平等状况的发展脉络，尽管历史总是在用一种不平等取代另一种不平等，但在这种迭代之中，历史无疑也在向前迈进。`
 最后，谈一句题外话，其实`任何可以通过钱解决的问题，都不是无解的难题`。最可怕的总是那些花钱也解决不了的问题，就如同`大革命之前的法国社会，人们无法改变被设定好的命运。`
+
+![image](https://user-images.githubusercontent.com/101486416/193952326-f50cfa35-953f-46f2-a265-cce892ea02b4.png)
+![image](https://user-images.githubusercontent.com/101486416/193952284-bb0140b5-4a1b-4b54-99c9-dcdae4c67f0a.png)
+![image](https://user-images.githubusercontent.com/101486416/193952384-3004af88-3f15-44ed-ac8f-809404b22b53.png)
+![image](https://user-images.githubusercontent.com/101486416/193952340-a77c2d85-39f7-4225-a55a-7678512eaeaf.png)
+
 
 ## 参考
 
