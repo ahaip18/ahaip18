@@ -119,6 +119,12 @@
 
 ## 知识产权
 
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/101486416/194175224-be6da879-8ca9-44dc-a54e-b55d696fd187.png">
+
+![image](https://user-images.githubusercontent.com/101486416/194175291-0b66848a-0bde-493a-8e13-f78f97becab3.png)
+![image](https://user-images.githubusercontent.com/101486416/194175310-32e24dd5-8899-416a-b46a-a2d723bc0fb3.png)
+![image](https://user-images.githubusercontent.com/101486416/194175347-d4d325af-fd2f-4c62-a100-dab8a2e41a86.png)
+
 ![image](https://user-images.githubusercontent.com/101486416/158751163-abfd2052-0897-4a40-a86c-4c76597d95b9.png)
 > The protection and enforcement of intellectual property rights should contribute to the promotion of technological innovation and to the transfer and dissemination of technology, to the mutual advantage of producers and users of technological knowledge and in a manner conducive to social and economic welfare, and to a balance of rights and obligations.
 
