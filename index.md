@@ -3,6 +3,10 @@
 ![image](https://user-images.githubusercontent.com/101486416/205486959-00a4b49c-c8d1-42b7-9408-969cd163a0dd.png)
 > 天道酬勤，地道酬善，人道酬诚、商道酬信、家道酬爱。
 
+![image](https://user-images.githubusercontent.com/101486416/205488081-53dec8ee-9b5b-4db1-9c4a-844759c5f7a8.png)
+![image](https://user-images.githubusercontent.com/101486416/205488087-563fce50-5889-48f6-a17f-83cf75ce23db.png)
+> 暂时的、动态的、团队的...
+
 ```
 1. 休息vs工作：暂停是为了更好地前进，及储备能量
 2. 自我vs他人：帮助他人实现梦想进而实现自我价值
