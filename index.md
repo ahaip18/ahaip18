@@ -15,6 +15,14 @@
 9. 少vs多：少就是多，多就是少
 10. 快vs慢：快就是慢，慢就是快
 ```
+![image](https://user-images.githubusercontent.com/101486416/205487821-939bcdee-38f4-451e-b945-388ba3f716c2.png)
+![image](https://user-images.githubusercontent.com/101486416/205487824-6098737f-e295-4c1e-a94f-5526c4c4e12c.png)
+![image](https://user-images.githubusercontent.com/101486416/205487834-2a9fc8ec-31da-43cc-9f45-dc38572f1353.png)
+![image](https://user-images.githubusercontent.com/101486416/205487827-505f3da9-cad7-4866-b7f8-f8665ed43418.png)
+![image](https://user-images.githubusercontent.com/101486416/205487843-25af143d-ddfa-41b6-b5e3-773049a27539.png)
+![image](https://user-images.githubusercontent.com/101486416/205487848-dd47c98a-a927-4b0b-9cbd-a7acaf95eddc.png)
+![image](https://user-images.githubusercontent.com/101486416/205487854-f53eba8f-26e9-4bbe-9cf3-b234d086a71c.png)
+> 兔与龟，虎与羊，金丝猴...
 
 1. [“天道酬勤”](https://www.sohu.com/a/304310268_488223)取典于《周易》卦辞“天行健，君子以自强不息”和《尚书》“天道酬勤”，昭示勤奋逆转人生的真谛。
 2. “地道酬善”出自《周易》卦辞“地势坤，君子以厚德载物”，寓意助人行善，逢凶化吉。
