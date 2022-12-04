@@ -5,7 +5,8 @@
 
 ![image](https://user-images.githubusercontent.com/101486416/205488081-53dec8ee-9b5b-4db1-9c4a-844759c5f7a8.png)
 ![image](https://user-images.githubusercontent.com/101486416/205488087-563fce50-5889-48f6-a17f-83cf75ce23db.png)
-> 暂时的、动态的、团队的...
+![image](https://user-images.githubusercontent.com/101486416/205488294-034eff56-7bea-4dca-8582-3dd35d0acec1.png)
+> 暂时的、动态的、团队的...驾驭欲望与情绪
 
 ```
 1. 休息vs工作：暂停是为了更好地前进，及储备能量
@@ -41,6 +42,7 @@
 ![image](https://user-images.githubusercontent.com/101486416/193952073-bc57696d-78ce-4035-976e-5b76ac57ceba.png)
 > [最好的投资就是投资自己。](https://finance.sina.com.cn/stock/hkstock/ggscyd/2021-08-10/doc-ikqciyzm0707528.shtml)
 
+![image](https://user-images.githubusercontent.com/101486416/205488370-26d3b478-7b33-4fdf-a635-0d92e0cb00f3.png)
 > 今天最好的表现，是明天最低的要求。通过成就他人来成就自己的人，就是管理者。管理者不仅自己把事情做对，而且可以带着团队做成。做正确且难的事，做难事必有所得，天下难做的事易成。
 管理者天天都要面对既可爱而又不完美的人，面对人性中的善，人性中的恶，人的潜能、长处和人的弱点。管理的本质，是激发和释放每一个人的善意，管理者要激发和释放人本身固有的潜能，创造价值，为他人谋福祉。
 
