@@ -22,6 +22,10 @@
 11. 事情背后的人、关系及利益
 12. 正确地做正确的事，复利，睡后收入...
 ```
+
+![6e71bd3d13f8831edf33d487832b442](https://user-images.githubusercontent.com/101486416/206841982-4ba7aee1-d5d8-4314-8018-326d2cbcf9de.png)
+> [1043](https://www.dedao.cn/course/article?id=R2Mo65zY4QZ3Vnm3A7KqEdNAa98jGB) 普朗克长度，是物理学在理论上能够测量的最短距离；光速，是信息传递的最快速度。所以普朗克时间，是任何物理过程，被任何仪器测量感知到所需要的最起码时间。
+
 ![b03ea135c7aa66bd9e4de600c026c75](https://user-images.githubusercontent.com/101486416/206827417-c2efcdbf-4693-4d70-a2f9-ce7e707f6dcb.jpg)
 ![82a5e8aa64f320eb06c6346def5f718](https://user-images.githubusercontent.com/101486416/206827460-37022003-1aa1-4882-ad61-65386c43f734.jpg)
 ![fc2614f96bf27fb86e44f99e0fad5bd](https://user-images.githubusercontent.com/101486416/206827474-5de8a82d-a301-4067-afc1-33ef82323388.jpg)
