@@ -11,6 +11,16 @@
 [心流的成因和特征。](https://www.bjnews.com.cn/detail/163497866114609.html)
 米哈里说：“开始时靠目标证明努力的必要，到后来却变成靠努力证明目标的重要性。”“登上山顶之所以重要，只因它证明了我们爬过山，爬山的过程才是真正的目标。”
 
+![48b2988560b4a5311f7d87ca684b336](https://user-images.githubusercontent.com/101486416/206858158-8f5fa576-5a50-4b02-89a2-1b99be7afb8a.png)
+![51ff0f2e09c5d1746cefbaa2c281e67](https://user-images.githubusercontent.com/101486416/206858172-a3ec63af-b94a-45d0-b79c-93a3e2bb6055.png)
+![eba06fb457b124b3be4b4d040a432e5](https://user-images.githubusercontent.com/101486416/206858182-8ca292c8-6c36-4cef-8794-8e9b534e2421.png)
+![b208a14822c538bb4a5672ba9cbe659](https://user-images.githubusercontent.com/101486416/206858186-d0e408e6-77b7-4812-b8da-bafb3c0cce0c.png)
+![4e1df04b7e3e0d2100364b948e9ba9b](https://user-images.githubusercontent.com/101486416/206858195-0a801e9e-161e-4e90-aea1-8d74fb5cc6bd.png)
+![ef83529bf733b6eb25e75be0974ff78](https://user-images.githubusercontent.com/101486416/206858205-9366ddae-5072-44f6-a2fa-fd7a6804547a.png)
+![b7b2932bc948fe553b27e59534869d2](https://user-images.githubusercontent.com/101486416/206858208-8ac08d7a-2367-490a-aad0-ae24e213bd5f.png)
+![b6f36e58e62228cda8834ff8caa2b79](https://user-images.githubusercontent.com/101486416/206858215-d2d88259-f95e-4c58-86cb-11c59f6bf405.png)
+> [matepad-paper](https://consumer.huawei.com/cn/tablets/matepad-paper/) + [RedmiBook Pro 14锐龙版](https://www.mi.com/shop/buy/detail?product_id=10000297)
+
 ```
 第一，注意力。他说：体验过心流的人都知道，那份深沉的快乐是严格的自律、集中注意力换来的。
 第二，有一个他愿意为之付出的目标。那目标是什么不要紧，只要那目标将他的注意力集中于此。
