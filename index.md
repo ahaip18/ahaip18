@@ -3,6 +3,11 @@
 ![image](https://user-images.githubusercontent.com/101486416/205486959-00a4b49c-c8d1-42b7-9408-969cd163a0dd.png)
 > 天道酬勤，地道酬善，人道酬诚、商道酬信、家道酬爱。
 
+![d827e8a5eee22feb653753b831131f2](https://user-images.githubusercontent.com/101486416/206856521-46fab1ea-9a95-42b7-bf4b-16b781332d1a.png)
+> 脑力、精力和体力，活在当下、知行合一、物我两忘 、天人合一
+
+`HWPM、Andy Amy Alisa、MVP、WWH...`
+
 ![image](https://user-images.githubusercontent.com/101486416/205488081-53dec8ee-9b5b-4db1-9c4a-844759c5f7a8.png)
 ![image](https://user-images.githubusercontent.com/101486416/205488087-563fce50-5889-48f6-a17f-83cf75ce23db.png)
 ![image](https://user-images.githubusercontent.com/101486416/205488294-034eff56-7bea-4dca-8582-3dd35d0acec1.png)
