@@ -19,7 +19,22 @@
 8. 保守vs；创新：走老路到不了新目的地
 9. 少vs多：少就是多，多就是少
 10. 快vs慢：快就是慢，慢就是快
+11. 事情背后的人、关系及利益
+12. 正确地做正确的事，复利，睡后收入...
 ```
+![b03ea135c7aa66bd9e4de600c026c75](https://user-images.githubusercontent.com/101486416/206827417-c2efcdbf-4693-4d70-a2f9-ce7e707f6dcb.jpg)
+![82a5e8aa64f320eb06c6346def5f718](https://user-images.githubusercontent.com/101486416/206827460-37022003-1aa1-4882-ad61-65386c43f734.jpg)
+![fc2614f96bf27fb86e44f99e0fad5bd](https://user-images.githubusercontent.com/101486416/206827474-5de8a82d-a301-4067-afc1-33ef82323388.jpg)
+![81fd4f3c82d9230ff3cd8e83923636a](https://user-images.githubusercontent.com/101486416/206827483-c6c3c70e-a346-4c9a-92f8-d5d0c45974d3.jpg)
+![af0cf631bbd7cf54d98868bbf1faf97](https://user-images.githubusercontent.com/101486416/206827488-2e191e67-e1a3-45a4-b3ae-efa99cad7a4c.jpg)
+> 足球的魅力，拼到最后，不放弃，过程最精彩，最值得品味及回味，坚持就是胜利...
+
+![74980d9af7e682596c418d180667990](https://user-images.githubusercontent.com/101486416/206827549-46f8da6c-a414-458c-8256-94e625e0d880.jpg)
+![58f5c51afc5233318f14f2bb8239308](https://user-images.githubusercontent.com/101486416/206827553-ed31c5f2-d6fd-4b97-8f7f-595662fc3017.jpg)
+![baad8cc2c2d61f74b551ffa81f7ae4c](https://user-images.githubusercontent.com/101486416/206827554-41361b6f-74fc-4eed-aace-3c663ee46e62.jpg)
+> 一个输入，一个输出，一个书店，终生学习及进化。
+
+
 ![image](https://user-images.githubusercontent.com/101486416/205487821-939bcdee-38f4-451e-b945-388ba3f716c2.png)
 ![image](https://user-images.githubusercontent.com/101486416/205487824-6098737f-e295-4c1e-a94f-5526c4c4e12c.png)
 ![image](https://user-images.githubusercontent.com/101486416/205487834-2a9fc8ec-31da-43cc-9f45-dc38572f1353.png)
