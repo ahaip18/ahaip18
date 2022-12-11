@@ -691,6 +691,25 @@
 
 所以，我要用一种形象化的语言说：“[背上一个小小的行囊，去做一些并不起眼的小事情。](https://book.douban.com/subject/36108573/)”
 
+软件工程师和项目主管每周都必须发布代码，否则就要走人。
+项目分析、开发文档、帮助队友......这些都是工作的基础部分，但不能替代编写代码。
+-- [马斯克发给推特员工的邮件](https://www.firstpost.com/tech/news-analysis/musks-latest-twitter-dictum-engineers-to-send-weekly-reports-managers-to-fire-weak-performers-every-week-11725821.html)
+
+21世纪的头几年是 Web 开发的黄金时代，当时技术和工具快速发展，即使是最没有才能的程序员，也可以非常容易地快速做出各种好玩的网页效果。
+AI 的内容生成，目前就处在这个阶段。为模型搭建一个基本的 Web 前端，调用一些新的 API，就可以推出一个非常令人惊叹的新功能。
+-- [《现阶段的人工智能》](https://www.jonstokes.com/p/good-news-ai-is-now-in-its-midwit)
+
+如果从10岁开始，一直到80岁，你每天浏览90个网页，每个网页的加载需要4秒，你一共会花费103.66天等待网页加载。
+如果网页加载时间减少1秒，你会多出来27天的生命！
+-- [《我们浪费了多少时间等待网站加载？》](https://www.datafantic.com/how-much-time-do-we-waste-waiting-for-websites-to-load/)
+
+程序员分成两派，一派是"如果东西没有损坏，就不要去修它"，另一派是"尽早更新，并经常发布"。
+我的想法是，即使"东西没有坏"，你仍然可以改进它。你的客户会喜欢这样，你的竞争对手不会。永远不要停止挑战自己。
+-- [《"不坏不修"和"尽早更新"之间的平衡》](https://www.redhat.com/en/blog/balancing-if-it-aint-broke-dont-fix-it-vs-release-early-and-often)
+
+容易内疚的人可能更具有领导潜力，因为具有内疚感倾向的人往往对他人抱有强烈的责任感，这种责任感让其他人信任他们。
+-- [《为什么内疚感可能预示着领导潜力》](https://www.gsb.stanford.edu/insights/why-feelings-guilt-may-signal-leadership-potential)
+
 ## 参考
 
 1. [与贸易有关的知识产权协定](http://ipr.mofcom.gov.cn/zhuanti/law/conventions/wto/trips.html) 
