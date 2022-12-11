@@ -1,24 +1,57 @@
 # 啊哈，IP工匠
 
+![](https://user-images.githubusercontent.com/101486416/206900119-061d421a-cb74-4af8-b43b-63e0e2d4d608.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900168-654efe69-572e-47f5-b045-59036f5ef0a6.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900198-01b0a6e3-9f68-4401-85ad-cafc1139841e.jpg)
+> 云破天开，大沙河公园，深圳湾公园，莲花山公园...
+
 ![image](https://user-images.githubusercontent.com/101486416/205486959-00a4b49c-c8d1-42b7-9408-969cd163a0dd.png)
 > 天道酬勤，地道酬善，人道酬诚、商道酬信、家道酬爱。
 
-![d827e8a5eee22feb653753b831131f2](https://user-images.githubusercontent.com/101486416/206856521-46fab1ea-9a95-42b7-bf4b-16b781332d1a.png)
+![](https://user-images.githubusercontent.com/101486416/206856521-46fab1ea-9a95-42b7-bf4b-16b781332d1a.png)
 > 脑力、精力和体力，活在当下、知行合一、物我两忘 、天人合一
 
 `HWPM、Andy Amy Alisa、MVP、WWH...`
 
+![](https://user-images.githubusercontent.com/101486416/206900215-0fb51c17-8163-4bcb-b241-c76a30457378.jpg)
+> 在投资这门学科里，没有金科玉律，也没有绝对真理。尽信书不如无书，时时刻刻保持独立思考，求真求实，相信理性，不依据感觉行事，不去相信和追求一劳永逸的必胜之法，而是和`常识、概率以及时间`站在一起，才是最最重要的。如果你真的坚持这样做，生活不但会奖励给你`财富`，还会帮助你成为`更好的自己`。
+
 [心流的成因和特征。](https://www.bjnews.com.cn/detail/163497866114609.html)
 米哈里说：“开始时靠目标证明努力的必要，到后来却变成靠努力证明目标的重要性。”“登上山顶之所以重要，只因它证明了我们爬过山，爬山的过程才是真正的目标。”
 
-![48b2988560b4a5311f7d87ca684b336](https://user-images.githubusercontent.com/101486416/206858158-8f5fa576-5a50-4b02-89a2-1b99be7afb8a.png)
-![51ff0f2e09c5d1746cefbaa2c281e67](https://user-images.githubusercontent.com/101486416/206858172-a3ec63af-b94a-45d0-b79c-93a3e2bb6055.png)
-![eba06fb457b124b3be4b4d040a432e5](https://user-images.githubusercontent.com/101486416/206858182-8ca292c8-6c36-4cef-8794-8e9b534e2421.png)
-![b208a14822c538bb4a5672ba9cbe659](https://user-images.githubusercontent.com/101486416/206858186-d0e408e6-77b7-4812-b8da-bafb3c0cce0c.png)
-![4e1df04b7e3e0d2100364b948e9ba9b](https://user-images.githubusercontent.com/101486416/206858195-0a801e9e-161e-4e90-aea1-8d74fb5cc6bd.png)
-![ef83529bf733b6eb25e75be0974ff78](https://user-images.githubusercontent.com/101486416/206858205-9366ddae-5072-44f6-a2fa-fd7a6804547a.png)
-![b7b2932bc948fe553b27e59534869d2](https://user-images.githubusercontent.com/101486416/206858208-8ac08d7a-2367-490a-aad0-ae24e213bd5f.png)
-![b6f36e58e62228cda8834ff8caa2b79](https://user-images.githubusercontent.com/101486416/206858215-d2d88259-f95e-4c58-86cb-11c59f6bf405.png)
+![](https://user-images.githubusercontent.com/101486416/206900037-9d8cbe42-a5a8-4366-8917-90763e364fc1.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900041-0475d178-f9b4-468f-9ae4-ab8c345602f4.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900044-c649ae6d-a21c-4298-8716-4e401d63cf4a.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900051-2cfa3780-2a5e-4f74-8d88-b33f7bd2b728.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900060-56af98ce-c27e-4558-8b36-8064c30765e9.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900068-8174523a-9ed0-486c-9d63-3f739632dd23.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900074-7f1bd263-a5df-49fd-aefc-cb7bdd354a11.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900076-562f4af7-0d34-43e7-8483-a7bdd3ffe012.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900077-680c56dd-22db-4f72-abc4-77b50f5ddfb2.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900079-825da805-6040-48e9-b899-704e985220f5.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900082-7429fa18-a2dd-49ca-82c4-8030acfebc83.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900085-ea3874aa-0eeb-4b22-9cc9-7844c4b689d2.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900098-6fcc6122-84a3-4cf5-bd59-05a51156df99.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900113-973e46b2-44f8-451f-8c51-cc8f568ec783.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900127-e8b5c0de-ac29-450a-bdb5-eb660934df94.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900134-211288c8-7363-4020-9d88-fcf0b7cff768.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900144-b43a3291-501c-4365-a104-0bb079b6053b.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900147-b69542e7-fe9e-47aa-ab6d-d4ce96a079b7.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900175-74525c73-6716-4127-8b8e-da9542fda59e.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900192-7e64f83f-df27-43d7-9c02-24670c1ac51a.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900205-e2e0b1d0-0800-4d77-a6a5-149675e9d64a.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900208-f9a1e768-db6d-482c-a990-0734854c23cd.jpg)
+> 守正出奇，跳出来思考，走出去行动
+
+
+![](https://user-images.githubusercontent.com/101486416/206858158-8f5fa576-5a50-4b02-89a2-1b99be7afb8a.png)
+![](https://user-images.githubusercontent.com/101486416/206858172-a3ec63af-b94a-45d0-b79c-93a3e2bb6055.png)
+![](https://user-images.githubusercontent.com/101486416/206858182-8ca292c8-6c36-4cef-8794-8e9b534e2421.png)
+![](https://user-images.githubusercontent.com/101486416/206858186-d0e408e6-77b7-4812-b8da-bafb3c0cce0c.png)
+![](https://user-images.githubusercontent.com/101486416/206858195-0a801e9e-161e-4e90-aea1-8d74fb5cc6bd.png)
+![](https://user-images.githubusercontent.com/101486416/206858205-9366ddae-5072-44f6-a2fa-fd7a6804547a.png)
+![](https://user-images.githubusercontent.com/101486416/206858208-8ac08d7a-2367-490a-aad0-ae24e213bd5f.png)
+![](https://user-images.githubusercontent.com/101486416/206858215-d2d88259-f95e-4c58-86cb-11c59f6bf405.png)
 > [matepad-paper](https://consumer.huawei.com/cn/tablets/matepad-paper/) + [RedmiBook Pro 14锐龙版](https://www.mi.com/shop/buy/detail?product_id=10000297)
 
 ```
@@ -37,9 +70,9 @@
 这种现象称为‘自得其乐的性格’，或许能提供神经学上的解释。”
 ```
 
-![image](https://user-images.githubusercontent.com/101486416/205488081-53dec8ee-9b5b-4db1-9c4a-844759c5f7a8.png)
-![image](https://user-images.githubusercontent.com/101486416/205488087-563fce50-5889-48f6-a17f-83cf75ce23db.png)
-![image](https://user-images.githubusercontent.com/101486416/205488294-034eff56-7bea-4dca-8582-3dd35d0acec1.png)
+![](https://user-images.githubusercontent.com/101486416/205488081-53dec8ee-9b5b-4db1-9c4a-844759c5f7a8.png)
+![](https://user-images.githubusercontent.com/101486416/205488087-563fce50-5889-48f6-a17f-83cf75ce23db.png)
+![](https://user-images.githubusercontent.com/101486416/205488294-034eff56-7bea-4dca-8582-3dd35d0acec1.png)
 > 暂时的、动态的、团队的...驾驭欲望与情绪
 
 ```
@@ -57,21 +90,20 @@
 12. 正确地做正确的事，复利，睡后收入...
 ```
 
-![6e71bd3d13f8831edf33d487832b442](https://user-images.githubusercontent.com/101486416/206841982-4ba7aee1-d5d8-4314-8018-326d2cbcf9de.png)
+![](https://user-images.githubusercontent.com/101486416/206841982-4ba7aee1-d5d8-4314-8018-326d2cbcf9de.png)
 > [1043](https://www.dedao.cn/course/article?id=R2Mo65zY4QZ3Vnm3A7KqEdNAa98jGB) 普朗克长度，是物理学在理论上能够测量的最短距离；光速，是信息传递的最快速度。所以普朗克时间，是任何物理过程，被任何仪器测量感知到所需要的最起码时间。
 
-![b03ea135c7aa66bd9e4de600c026c75](https://user-images.githubusercontent.com/101486416/206827417-c2efcdbf-4693-4d70-a2f9-ce7e707f6dcb.jpg)
-![82a5e8aa64f320eb06c6346def5f718](https://user-images.githubusercontent.com/101486416/206827460-37022003-1aa1-4882-ad61-65386c43f734.jpg)
-![fc2614f96bf27fb86e44f99e0fad5bd](https://user-images.githubusercontent.com/101486416/206827474-5de8a82d-a301-4067-afc1-33ef82323388.jpg)
-![81fd4f3c82d9230ff3cd8e83923636a](https://user-images.githubusercontent.com/101486416/206827483-c6c3c70e-a346-4c9a-92f8-d5d0c45974d3.jpg)
-![af0cf631bbd7cf54d98868bbf1faf97](https://user-images.githubusercontent.com/101486416/206827488-2e191e67-e1a3-45a4-b3ae-efa99cad7a4c.jpg)
+![](https://user-images.githubusercontent.com/101486416/206827417-c2efcdbf-4693-4d70-a2f9-ce7e707f6dcb.jpg)
+![](https://user-images.githubusercontent.com/101486416/206827460-37022003-1aa1-4882-ad61-65386c43f734.jpg)
+![](https://user-images.githubusercontent.com/101486416/206827474-5de8a82d-a301-4067-afc1-33ef82323388.jpg)
+![](https://user-images.githubusercontent.com/101486416/206827483-c6c3c70e-a346-4c9a-92f8-d5d0c45974d3.jpg)
+![](https://user-images.githubusercontent.com/101486416/206827488-2e191e67-e1a3-45a4-b3ae-efa99cad7a4c.jpg)
 > 足球的魅力，拼到最后，不放弃，过程最精彩，最值得品味及回味，坚持就是胜利...
 
-![74980d9af7e682596c418d180667990](https://user-images.githubusercontent.com/101486416/206827549-46f8da6c-a414-458c-8256-94e625e0d880.jpg)
-![58f5c51afc5233318f14f2bb8239308](https://user-images.githubusercontent.com/101486416/206827553-ed31c5f2-d6fd-4b97-8f7f-595662fc3017.jpg)
-![baad8cc2c2d61f74b551ffa81f7ae4c](https://user-images.githubusercontent.com/101486416/206827554-41361b6f-74fc-4eed-aace-3c663ee46e62.jpg)
+![](https://user-images.githubusercontent.com/101486416/206827549-46f8da6c-a414-458c-8256-94e625e0d880.jpg)
+![](https://user-images.githubusercontent.com/101486416/206827553-ed31c5f2-d6fd-4b97-8f7f-595662fc3017.jpg)
+![](https://user-images.githubusercontent.com/101486416/206827554-41361b6f-74fc-4eed-aace-3c663ee46e62.jpg)
 > 一个输入，一个输出，一个书店，终生学习及进化。
-
 
 ![image](https://user-images.githubusercontent.com/101486416/205487821-939bcdee-38f4-451e-b945-388ba3f716c2.png)
 ![image](https://user-images.githubusercontent.com/101486416/205487824-6098737f-e295-4c1e-a94f-5526c4c4e12c.png)
@@ -81,6 +113,13 @@
 ![image](https://user-images.githubusercontent.com/101486416/205487848-dd47c98a-a927-4b0b-9cbd-a7acaf95eddc.png)
 ![image](https://user-images.githubusercontent.com/101486416/205487854-f53eba8f-26e9-4bbe-9cf3-b234d086a71c.png)
 > 兔与龟，虎与羊，金丝猴...
+
+“`我心有猛虎，在细嗅蔷薇。`”在《少年派的奇幻漂流》中，少年派从把老虎视为威胁，到与老虎发展出了一种共生关系，最终相互依靠，共达彼岸。
+
+压力相处之道，正同于此。因为说到底，压力就是我们生活的一部分。我们没有必要，也没有办法逃离。而我们愿意承担压力，是因为我们在不断接受挑战中获得成长，在努力中实现自己的潜能和价值；我们愿意承担压力，是因为总有那些我们爱和爱我们的人，让我们为之奋斗；我们愿意承担压力，是因为压力的背后，正是生活的意义。
+
+与其恐惧，不如拥抱。
+——库珀·埃登斯
 
 1. [“天道酬勤”](https://www.sohu.com/a/304310268_488223)取典于《周易》卦辞“天行健，君子以自强不息”和《尚书》“天道酬勤”，昭示勤奋逆转人生的真谛。
 2. “地道酬善”出自《周易》卦辞“地势坤，君子以厚德载物”，寓意助人行善，逢凶化吉。
