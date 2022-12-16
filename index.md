@@ -1,5 +1,18 @@
 # 啊哈，IP工匠
 
+![](https://user-images.githubusercontent.com/101486416/207994123-39fc82f2-a537-4564-a5c6-10a1ce1bf055.jpg)
+> 黄山云海
+
+```
+迭代三观
+守望初心
+沉浸工作
+聚焦价值
+持续成长
+活在当下
+知足感恩
+```
+
 ![](https://user-images.githubusercontent.com/101486416/206900119-061d421a-cb74-4af8-b43b-63e0e2d4d608.jpg)
 ![](https://user-images.githubusercontent.com/101486416/206900168-654efe69-572e-47f5-b045-59036f5ef0a6.jpg)
 ![](https://user-images.githubusercontent.com/101486416/206900198-01b0a6e3-9f68-4401-85ad-cafc1139841e.jpg)
