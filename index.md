@@ -3,6 +3,13 @@
 ![](https://user-images.githubusercontent.com/101486416/207994123-39fc82f2-a537-4564-a5c6-10a1ce1bf055.jpg)
 > 黄山云海
 
+[20年后，你后悔的是那些没做过的事情。所以解开缆绳吧，从避风港启航，让信风推着你的帆。探索。梦想。发现。](https://minecraft.fandom.com/wiki/End_Poem)
+Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
+
+![image](https://user-images.githubusercontent.com/101486416/208047874-57248347-0240-48f1-8178-d448303f531e.png)
+![](https://user-images.githubusercontent.com/101486416/208048961-b239d920-1c04-4bf7-94d1-d9ac032cd46c.jpg)
+> 中国教材的最大问题，并不是知识点的讲解，而是缺乏得出结论的过程。 -- [《为什么医学教材不好用？》](https://mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653488660&idx=1&sn=d9aeb630ec53aae151ba55c89665f2c5&scene=21#wechat_redirect)
+
 ```
 迭代三观
 守望初心
@@ -17,6 +24,8 @@
 
 ![](https://user-images.githubusercontent.com/101486416/208043648-b149f959-9c93-4ebe-9b1e-5974402e9439.png)
 > 常识
+
+`A day without distractions is a very long day.`
 
 ```
 不借钱消费
@@ -727,6 +736,43 @@
 
 所以，我要用一种形象化的语言说：“[背上一个小小的行囊，去做一些并不起眼的小事情。](https://book.douban.com/subject/36108573/)”
 
+[青年失业率与选择创业](https://mp.weixin.qq.com/s/HkU8KNO4Q4XNQtzD-X_l7Q)
+
+我以前一直赞成创业，但是这几年想法有变化，认为创业有三个条件， 只有满足条件，才适合创业。
+
+我最近读过一篇文章，作者是美国最大的创业孵化器 Y Combinator 的创始人之一杰西卡·利文斯顿（Jessica Livingston）。她是四个创始人里面唯一的女性。
+
+![](https://user-images.githubusercontent.com/101486416/208045668-dac66b2d-b7b5-44d3-b477-86916cf4fe9a.png)
+
+她回忆了自己为什么创业，文章的最后一段，她这样说：
+
+```
+”你是一块特殊形状的拼图。你可以改变自己的形状，适应公司现有的空缺。那是传统的方案。
+但是，还有另一种对你和世界通常都更好的方案：围绕你自己的形状，发展出一幅新的拼图。这就是我所做的，我是一个非常奇怪的形状。”
+```
+
+她的意思是，`你为别人打工，就必须变成别人要求的样子。但这并不是你内心想要的，如果你想顺应自己的内心和天赋，就应该创业。`
+
+这话没错，但是有一个前提才能成立：你已经定型了，很难被外界塑造了。 这个时候，你走自己的路，内心满意度会高一些。我觉得这是创业的第一个条件。
+
+据我观察，`大部分的中国年轻人，达不到这个条件。他们都没有定型，人生观和世界观还在发展中。典型的表现就是，说不出自己想做什么，也不知道自己的竞争力在哪里。`
+
+这种情况下，你不是一块特殊形状的拼图，而是没有自己的形状，还在塑造中。如果这样去创业，你的想法可能随着外界的变化，而不断变化，今天想东，明天想西，这是大忌。
+
+反而是给别人打工，公司明确告诉你成为什么形状，你就往这个方向努力。公司把你塑造成型，适合公司的需求，融合进公司的拼图。这就是`为什么，大部分创业者都是离职后才创业，因为只有到了这个时候，他们才定型。`
+
+创业的第二个条件是，`要有可行的项目， 不能先注册公司，再找项目`。而且，你的项目最好是用户愿意付费的，有的同学的创业项目是拍短视频和直播，我觉得不靠谱。
+
+创业的第三个条件是，`能够承受负的现金流`。 刚开始创业，很可能没有或很少收入，每天却要支出，压力巨大。
+
+只有满足上面三个条件，我认为，才适合创业。
+
+显而易见，刚毕业的学生不容易满足这些条件。前几年，有一种论调鼓励学生创业，这是不正确的。
+
+我的意思不是劝退创业，而是希望大家在`越是困难时刻，越不要盲目`。 面对失业率上升，你要做的第一位的事情，就是`尽快把自己锻造成型，形成稳定的心智和人格，磨练自己的技能`。
+
+
+
 软件工程师和项目主管每周都必须发布代码，否则就要走人。
 项目分析、开发文档、帮助队友......这些都是工作的基础部分，但不能替代编写代码。
 -- [马斯克发给推特员工的邮件](https://www.firstpost.com/tech/news-analysis/musks-latest-twitter-dictum-engineers-to-send-weekly-reports-managers-to-fire-weak-performers-every-week-11725821.html)
@@ -746,9 +792,14 @@ AI 的内容生成，目前就处在这个阶段。为模型搭建一个基本�
 容易内疚的人可能更具有领导潜力，因为具有内疚感倾向的人往往对他人抱有强烈的责任感，这种责任感让其他人信任他们。
 -- [《为什么内疚感可能预示着领导潜力》](https://www.gsb.stanford.edu/insights/why-feelings-guilt-may-signal-leadership-potential)
 
+达芬奇综合症指的是，不停地想学新东西，做了很多新项目，但是实际完成的很少。
+更糟糕的是，你完全没有达芬奇的才华，却得了达芬奇的这种病。
+-- [《达芬奇综合症》](https://thoughtfulatlas.bearblog.dev/leonardo-syndrome/)
+
 ## 参考
 
 1. [与贸易有关的知识产权协定](http://ipr.mofcom.gov.cn/zhuanti/law/conventions/wto/trips.html) 
 2. [秒懂知识产权法](https://book.douban.com/subject/35220294/) 
+3. [使用 ChatGPT 写投诉信](https://mp.weixin.qq.com/s/HkU8KNO4Q4XNQtzD-X_l7Q)
 
 ![Alt](https://repobeats.axiom.co/api/embed/5694f8a5725db3353a697fd63a6a2c34fc8bd3a6.svg "Repobeats analytics image")
