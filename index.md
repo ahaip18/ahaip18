@@ -3,7 +3,8 @@
 ![](https://user-images.githubusercontent.com/101486416/207994123-39fc82f2-a537-4564-a5c6-10a1ce1bf055.jpg)
 > 黄山云海
 
-[20年后，你后悔的是那些没做过的事情。所以解开缆绳吧，从避风港启航，让信风推着你的帆。探索。梦想。发现。](https://minecraft.fandom.com/wiki/End_Poem)
+![](https://user-images.githubusercontent.com/101486416/208052863-3c1b7cc0-6b17-4871-9f3d-46b5429bab79.png)
+> [20年后，你后悔的是那些没做过的事情。所以解开缆绳吧，从避风港启航，让信风推着你的帆。探索。梦想。发现。](https://minecraft.fandom.com/wiki/End_Poem)
 Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
 
 ![image](https://user-images.githubusercontent.com/101486416/208047874-57248347-0240-48f1-8178-d448303f531e.png)
