@@ -118,7 +118,7 @@ Twenty years from now you will be more disappointed by the things that you didn'
 ![image](https://user-images.githubusercontent.com/101486416/208068449-5d61be75-65c9-4276-9d58-93f72c82228b.png)
 > [幸存者偏见](https://www.dedao.cn/course/article?id=5Yejy8dqoQD9Jo9y7KR1r0xpgmWk3v)，它是一种常见的逻辑的谬误。我们只能看到经过某种筛选而产生的结果，并没有意识到筛选的过程，而忽略了一些非常关键的信息。
 
-如何避免幸存者偏见？
+> 如何避免幸存者偏见？
 
 第一，要向失败者学习。
 
