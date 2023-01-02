@@ -3,6 +3,16 @@
 ![](https://user-images.githubusercontent.com/101486416/207994123-39fc82f2-a537-4564-a5c6-10a1ce1bf055.jpg)
 > 黄山云海，本质上，原则只能来自于自己的“痛苦加反思”。正是这一次错误，才让他进行了彻底的反思，让他的思维从认为“我是对的”变成思考“`我怎么知道我是对的`”，让自己变得更加理性。只有从自己的错误中不断反思，把感性的经验总结成理性的总结，才能形成属于自己的原则，成为一个“`专业的犯错者`”。
 
+![](https://user-images.githubusercontent.com/101486416/210191967-9028b1b8-eb92-40f0-82b4-0692fb412856.png)
+![](https://user-images.githubusercontent.com/101486416/210191935-d182f892-0802-4993-959c-f85d6d0bc103.png)
+![](https://user-images.githubusercontent.com/101486416/210191950-ca76880b-d01c-436a-ad68-fd3b7044de50.jpg)
+![](https://user-images.githubusercontent.com/101486416/210191955-002db2d2-3f39-4a86-a335-c0e9fda969ea.jpg)
+![](https://user-images.githubusercontent.com/101486416/210191957-af3e9d74-746f-4b83-bd84-feaa8f7442da.jpg)
+![](https://user-images.githubusercontent.com/101486416/210191959-f522661a-0006-46ed-a944-289a8ba266d4.jpg)
+![](https://user-images.githubusercontent.com/101486416/210191960-4e2b5611-365b-472e-b64d-578a4522f2b8.jpg)
+![](https://user-images.githubusercontent.com/101486416/210191963-9c31057b-1335-44ee-b975-b43cefd1f4e3.jpg)
+> 真善美，正确地做正确的事情，和时间做朋友。
+
 ![image](https://user-images.githubusercontent.com/101486416/208282891-d556bb74-dc6f-446d-a217-7ca6073a8523.png)
 ![](https://user-images.githubusercontent.com/101486416/208282797-71b95c1d-fd62-4bf5-b9ed-ce9a022631f3.png)
 > [不将就，Never Settle](https://www.oneplus.com/cn/brand)，我们承认不完美，但更相信自己的潜能。
