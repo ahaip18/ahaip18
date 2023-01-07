@@ -3,6 +3,28 @@
 ![](https://user-images.githubusercontent.com/101486416/207994123-39fc82f2-a537-4564-a5c6-10a1ce1bf055.jpg)
 > 黄山云海，本质上，原则只能来自于自己的“痛苦加反思”。正是这一次错误，才让他进行了彻底的反思，让他的思维从认为“我是对的”变成思考“`我怎么知道我是对的`”，让自己变得更加理性。只有从自己的错误中不断反思，把感性的经验总结成理性的总结，才能形成属于自己的原则，成为一个“`专业的犯错者`”。
 
+![](https://user-images.githubusercontent.com/101486416/211125739-8c2029e2-bf3b-42bb-95a4-a9d3ef540666.png)
+![](https://user-images.githubusercontent.com/101486416/211126173-7211af0c-3421-42eb-aa1c-8975ec60f96f.png)
+![](https://user-images.githubusercontent.com/101486416/211126178-e80fa3c4-0d89-4944-bb7a-16629afcb433.png)
+![](https://user-images.githubusercontent.com/101486416/211126182-eaffa63f-62ee-44c1-9cad-091066b452e0.png)
+![](https://user-images.githubusercontent.com/101486416/211126184-60791c89-37e5-41b4-be6b-b50c1d854c46.png)
+> [Xiaomi MIX Fold 2](https://www.mi.com/xiaomimixfold2)
+
+
+请问在工作岗位上，什么人会被提拔？这个答案好像明摆着，`第一，能力强；第二，被领导或者组织上信任`，无非是这两个原因。但在现实中，另外一个原因非常非常重要，就是有没有人接替他现在的位置。
+
+很多人是既能干也被信任，之所以迟迟不能提拔，就是因为他要是升官了，他现在的活儿就没人干了，只好等等再说。你可能会说这对他不公平啊。但是，`组织行为从来不是以公平为第一目标的，而是以组织自身的利益为指针的。`
+
+看清这个事实，对于所有职场里的人来说，就可以重新整理一下自己的优先级。拿下当前的工作目标固然重要，不断充实提升自己也很重要。但是，为自己的岗位找到一个能接替自己的人，培养他，给他机会，更重要。
+
+`利他就是利己`，[听起来是鸡汤，但是在现实中，它就是个事实](https://www.dedao.cn/course/article?id=oWZdeMxN5Y4DJl144AXjB62zrR8Obl)
+
+[工作能力就是能分清主次的能力。](https://www.dedao.cn/course/article?id=Pvz6E94NYDg2JjQ44eVL3rAkWQjnwp)
+
+在全局中，分清主次，当下最重要的任务是什么；在一个时间段内能够分清主次，今天上午最该做的工作是什么；在一篇文档里分清主次，我写这篇东西主要得说清什么。
+
+因为现在职场上的残酷性，往往体现为事务主导权的争夺。哪怕你是一个领导，如果你自己不能分清主次，掌控自己的时间表，那你放心，别人就会来把你的时间扯得稀烂。让你的行动模式变成应激反应模式，再有能力，最终也是一事无成。
+
 ![](https://user-images.githubusercontent.com/101486416/210191967-9028b1b8-eb92-40f0-82b4-0692fb412856.png)
 ![](https://user-images.githubusercontent.com/101486416/210191935-d182f892-0802-4993-959c-f85d6d0bc103.png)
 ![](https://user-images.githubusercontent.com/101486416/210191950-ca76880b-d01c-436a-ad68-fd3b7044de50.jpg)
