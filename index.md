@@ -1728,5 +1728,6 @@ wo girls in silk kimonos, bothBeautiful, one a gazelle.
 2. [秒懂知识产权法](https://book.douban.com/subject/35220294/) 
 3. [使用 ChatGPT 写投诉信](https://mp.weixin.qq.com/s/HkU8KNO4Q4XNQtzD-X_l7Q)
 4. [学一门外语=开启另一个人格？说谁的话，决定我们为谁说](https://www.dedao.cn/course/article?id=3bezDG7wBonmJw53xKvQkAg5PyO1x9)
+5. [华为全球知识产权战略布局](https://mp.weixin.qq.com/s?__biz=MzUyODU4NzE2Mg==&mid=2247516671&idx=2&sn=66bf4534031209791935fe291ac2dd22)
 
 ![Alt](https://repobeats.axiom.co/api/embed/5694f8a5725db3353a697fd63a6a2c34fc8bd3a6.svg "Repobeats analytics image")
