@@ -9,13 +9,19 @@ Just do it right now.
 Tomorrow is another day.
 ```
 
+![](https://user-images.githubusercontent.com/101486416/211180129-cf2aaf89-a9c6-43e6-93a9-7c42755ba99a.png)
+> [悲观者往往不会成功](https://www.ruanyifeng.com/blog/2022/02/weekly-issue-194.html)。根据书里的解释，原因是悲观者认定很多做法行不通，不会有结果，所以就不采取行动；乐观者相信未来的回报，所以会动手去做，而社会奖励那些动手去做的人。那么结论就是，成为一个`"行动主义者"`。 你可以是悲观的，但还是要像乐观主义者一样去做事。个人无法影响历史，未来根本不取决于你的看法，不管你乐观还是悲观，历史都会一样地发生。真正影响你的，是个人的成功和失败。个人的出路只能是`积极动手去做，为自己创造一些改变，争取更好一点的处境。`
+
+![image](https://user-images.githubusercontent.com/101486416/211180999-0c407321-578c-4a9f-8de3-cfa75f637e8f.png)
+
 1. 当下、自己、任务（价值创造）/成长
 2. 事情、关系、利益
 3. 利他即利己，专业服务者
 4. 多积累，持有及创造资产，时间复利
 5. 打工人，`同舟共济，共克时艰`，平和平等平常，珍惜缘分
 6. 若无必要，勿增实体，好问题的力量
-7. 一切都会过去，一切都会来到，行动的力量
+7. 一切都会过去，一切都会来到，行动的力量，轻装上阵，再出发
+8. 如果遇到复杂的任务，不妨列出一张清单，按顺序列出每一个步骤，这会大大降低复杂性。
 
 ```
 慢就是快
@@ -44,6 +50,14 @@ Tomorrow is another day.
 放下你的期待，放下你的幻想，不要指望在几天几周内自己发生了天翻地覆的变化。不要有什么热情，也不要有什么兴趣，每天尽量多听多看，变成一种生活习惯。因为你用平常心去看待你的学习，那么你的学习可能会更为自然而持久。当累积达到一定程度时，知识和知识之间的关联会自动出现。而你现在需要做的事情，是在没有任何证据的情况下，尽量相信这件事会发生。话说回来，需要保有的热情和兴趣，大概也不是真热情、真兴趣。
 
 我们不是封禁去除自己的某一部分，也不是扩张强化我们的另外一部分，而是在全面而清楚地认知到自己的前提下，用这个不完美的自己依然能够达成一些美好，并坦然承受相应的代价。于是我们说话行事都是依据本心而来，并不会全然落空，也不会时常遭受自我折磨。至于说我们所做所说的意义，发自本心而行事本身就是意义所在，那就是成为的含义。
+
+随着在家办公的盛行，员工为了让经理看见自己，表演性质的行为也变得盛行，比如始终在通讯软件上显示在线、分享安排得满满的日历、电子邮件的发出时间经常在清晨或下班后。 
+– [《表演行为的兴起》](https://www.economist.com/business/2022/01/08/the-rise-of-performative-work)
+
+[Datawrapper](https://www.datawrapper.de/)
+
+![image](https://user-images.githubusercontent.com/101486416/211179543-2eae9621-2b9e-4f13-8d8d-aa44ffa7aaaf.png)
+> 著名的数据可视化生成工具，只要在网页上提交数据，经过几步配置，就能生成杂志级的可视化图表。不需要注册就可以免费使用。
 
 ![](https://user-images.githubusercontent.com/101486416/207994123-39fc82f2-a537-4564-a5c6-10a1ce1bf055.jpg)
 > 黄山云海，本质上，原则只能来自于自己的“痛苦加反思”。正是这一次错误，才让他进行了彻底的反思，让他的思维从认为“我是对的”变成思考“`我怎么知道我是对的`”，让自己变得更加理性。只有从自己的错误中不断反思，把感性的经验总结成理性的总结，才能形成属于自己的原则，成为一个“`专业的犯错者`”。
@@ -1855,14 +1869,14 @@ wo girls in silk kimonos, bothBeautiful, one a gazelle.
 6. [adaipr](https://adaipr.com/)
 7. [ahasleep](https://ahasleep.com/)
 8. [ahamiss](https://ahamiss.com/)
-9. []()
-10. []()
+9. [ahalaw](https://ahalaw.cn/)
+10. [ahacase](https://ahacase.com/)
 11. []()
-12. []()
+12. [ahafont](https://ahafont.com/)
 13. []()
 14. []()
-15. []()
-16. []()
+15. [ahaleica](https://ahaleica.com/)
+16. [ahamvp](https://ahamvp.com/)
 17. []()
 18. []()
 19. [iprcreator](https://iprcreator.com/)
@@ -1886,12 +1900,13 @@ wo girls in silk kimonos, bothBeautiful, one a gazelle.
 4. [学一门外语=开启另一个人格？说谁的话，决定我们为谁说](https://www.dedao.cn/course/article?id=3bezDG7wBonmJw53xKvQkAg5PyO1x9)
 5. [华为全球知识产权战略布局](https://mp.weixin.qq.com/s?__biz=MzUyODU4NzE2Mg==&mid=2247516671&idx=2&sn=66bf4534031209791935fe291ac2dd22)
 6. [一个程序员的财务独立之路](https://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html)
-7. [PANTONE 公布 2023 年度代表色](https://www.ifanr.com/1525104)
-8. [OPPO「小布」的主动式智能进化](https://www.leiphone.com/category/ai/4SnH7knwPG0otrxB.html)
-9. [摆脱身份之困后，一加要往哪里走？](https://www.leiphone.com/category/weiwu/tXuMZ4xTtlWCCZ1M.html)
-10. [前沿科技·吴军讲5G](https://dedao.cn/course/detail?id=ZWyMAOLnR4xJ1vqs4nX65QaE8YG29k) 
-11. [吴军·信息论40讲](https://dedao.cn/course/detail?id=Y9LnlWEqDj76VzDfwBXmOA4epMBPxa)
-12. [吴军·科技史纲60讲](https://dedao.cn/course/detail?id=alQr3o4dMw8ZKgzfzX7N2xDyWeEq1R)
+7. [如何在自己从事的领域内做到最好？](https://xz.chsi.com.cn/xz/zyts/201710/20171012/1634855646.html)
+8. [PANTONE 公布 2023 年度代表色](https://www.ifanr.com/1525104)
+9. [OPPO「小布」的主动式智能进化](https://www.leiphone.com/category/ai/4SnH7knwPG0otrxB.html)
+10. [摆脱身份之困后，一加要往哪里走？](https://www.leiphone.com/category/weiwu/tXuMZ4xTtlWCCZ1M.html)
+11. [前沿科技·吴军讲5G](https://dedao.cn/course/detail?id=ZWyMAOLnR4xJ1vqs4nX65QaE8YG29k) 
+12. [吴军·信息论40讲](https://dedao.cn/course/detail?id=Y9LnlWEqDj76VzDfwBXmOA4epMBPxa)
+13. [吴军·科技史纲60讲](https://dedao.cn/course/detail?id=alQr3o4dMw8ZKgzfzX7N2xDyWeEq1R)
 
 ## 站内
 
