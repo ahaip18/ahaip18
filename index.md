@@ -1846,6 +1846,17 @@ wo girls in silk kimonos, bothBeautiful, one a gazelle.
 ![image](https://user-images.githubusercontent.com/101486416/211178028-9cb8f562-c968-4240-9d19-1eeef0b8ae7f.png)
 > 沟通是一场无限的游戏，弹性空间…
 
+![](https://user-images.githubusercontent.com/101486416/211184546-f19e92d6-f083-45fe-a496-fed58e7b7789.png)
+> [李延年做思想政治工作](http://www.nnnews.net/yaowen/p/3095780.html)，首重以身作则，次重因人施教，循循善诱。每每以接地气的朴实无华语言，将大道理诠释得通俗易懂，让人入脑入心。
+
+将心比心，以心换心。
+
+产品交换才成商品，商品交换后才有利润，利润累加后投资才形成资本，这才有了著名的《资本论》，马克思是研究交换的大师。
+
+不是商品才依靠交换，人的一切，也需要交换。爱与信任也是如此，只有等价交换，爱与信任才能流通，你无法用假钞买商品，同理，你也无法用不爱与不信任换来爱与信任，至少，这种交换无法长期存在，比如父母师长可能单方面对孩子与学生付出爱与信任，得不到回报，但这种关系注定不健康，消耗很快，持久不了。长期的、健康的人与人的关系，必然是用爱换爱，用信任换信任。
+
+你希望得到什么，你就应该付出什么。而你有，才能付出。就像有钱，才可支付。你没爱，怎么付出爱？你无信用，怎么付出信任？想清楚这层关系，就是“君子求诸己”，你想要的，在你自己身上都有种子，把它养大，结果，付出给那些值得的人，你就会得到，财富、荣誉、信任、尊重、爱，都是这么得到的。你想要，但是自己身上的万有之种却死了，只是索取，那就是“小人求诸人”，只求得来苦。
+
 ![](https://user-images.githubusercontent.com/101486416/211178267-73bb3600-9218-45d5-969c-e5c30a201405.png)
 
 想让 IoT 产品渗透进更深的市场，就要[对场景做更精准的划分](https://www.geekpark.net/news/313353)。在 OPPO 的规划蓝图里，他们定义了`生产、学习、健康、文娱`，四个智慧场景产品体系，将产品代入，便于对接用户需求，也更容易在软件层面优化体验。
@@ -1871,26 +1882,39 @@ wo girls in silk kimonos, bothBeautiful, one a gazelle.
 
 1. [2ipr](https://2ipr.com/)
 2. [3ipr](https://3ipr.com/)
-3. [ahaipr](https://ahaipr.com/)
-4. [coolipr](https://coolipr.com/)
-5. [hazyman](https://hazyman.com/)
-6. [adaipr](https://adaipr.com/)
-7. [ahasleep](https://ahasleep.com/)
-8. [ahamiss](https://ahamiss.com/)
-9. [ahalaw](https://ahalaw.cn/)
-10. [ahalawyer](https://ahalawyer.cn/)
-11. [ahacase](https://ahacase.com/)
-12. []()
-13. [ahafont](https://ahafont.com/)
-14. [ahamarkdown](https://ahamarkdown.com/)
-15. []()
-16. [ahaleica](https://ahaleica.com/)
-17. [ahamvp](https://ahamvp.com/)
-18. []()
-19. []()
-20. [iprcreator](https://iprcreator.com/)
-21. [coolip](https://coolip.cn/)
-22. [iprplayer](https://iprplayer.com/)
+3. [ahaip](https://ahaip.com/)
+4. [ahaipr](https://ahaipr.com/)
+5. [ahasep](https://ahasep.com/)
+6. [ahadomain](https://ahadomain.cn/)
+7. [coolipr](https://coolipr.com/)
+8. [hazyman](https://hazyman.com/)
+9. [adaipr](https://adaipr.com/)
+10. [ahasleep](https://ahasleep.com/)
+11. [ahamiss](https://ahamiss.com/)
+12. [ahalaw](https://ahalaw.cn/)
+13. [ahalawyer](https://ahalawyer.cn/)
+14. [ahacase](https://ahacase.com/)
+15. [ahacontract](https://ahacontract.com/)
+16. [ahaevidence](https://ahaevidence.com/)
+17. [ahafont](https://ahafont.com/)
+18. [ahamarkdown](https://ahamarkdown.com/)
+19. [ahatrust](https://ahatrust.com/)
+20. [ahaleica](https://ahaleica.com/)
+21. [ahamvp](https://ahamvp.com/)
+22. [ahavalue](https://ahavalue.com/)
+23. [ahaview](https://ahaview.cn/)
+24. [ahalogic](https://ahalogic.cn/)
+25. [ahabayes](https://ahabayes.com/)
+26. [ahaorigin](https://ahaorigin.com/)
+27. [ahawar](https://ahawar.com/)
+28. [ahaartist](https://ahaartist.com/)
+29. [ahaimage](https://ahaimage.com/)
+30. [iprcreator](https://iprcreator.com/)
+31. [coolip](https://coolip.cn/)
+32. [iprplayer](https://iprplayer.com/)
+33. [ahatea](https://ahatea.cn/)
+34. [ahagrace](https://ahagrace.com/)
+35. [sillyinvestor](https://sillyinvestor.com/)
 
 ## 资源
 
@@ -1923,6 +1947,8 @@ wo girls in silk kimonos, bothBeautiful, one a gazelle.
 ![image](https://user-images.githubusercontent.com/101486416/211179334-cf9c8ec8-ca07-432d-b5ad-b89a2350be41.png)
 #### [元宇宙](/tech/meta.md)
 #### [字体](/tech/font.md)
+#### [拍照](/tech/camera.md)
+#### [MD](/tech/markdown.md)
 
 
 ![Alt](https://repobeats.axiom.co/api/embed/5694f8a5725db3353a697fd63a6a2c34fc8bd3a6.svg "Repobeats analytics image")
