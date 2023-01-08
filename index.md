@@ -1,15 +1,37 @@
 # 啊哈，IP工匠
 
+人的本质就是一段时间，和时间做朋友，因相信而看见，是爱和信任让生活变得更加美好！有事做，忙一点，挺好，微笑面对，淡然于心。
+
+```
+Think big Do more. Less is more.
+Just do it right now.
+Tomorrow is another day.
+```
+
+1. 当下、自己、任务（价值创造）/成长
+2. 事情、关系、利益
+3. 利他即利己，专业服务者
+4. 多积累，持有及创造资产，时间复利
+5. 打工人，`同舟共济，共克时艰`，平和平等平常，珍惜缘分
+6. 若无必要，勿增实体，好问题的力量
+7. 一切都会过去，一切都会来到，行动的力量
+
 ![](https://user-images.githubusercontent.com/101486416/207994123-39fc82f2-a537-4564-a5c6-10a1ce1bf055.jpg)
 > 黄山云海，本质上，原则只能来自于自己的“痛苦加反思”。正是这一次错误，才让他进行了彻底的反思，让他的思维从认为“我是对的”变成思考“`我怎么知道我是对的`”，让自己变得更加理性。只有从自己的错误中不断反思，把感性的经验总结成理性的总结，才能形成属于自己的原则，成为一个“`专业的犯错者`”。
+
+![](https://user-images.githubusercontent.com/101486416/211178357-1d657c92-33c9-4513-b3ff-8965f519f55d.png)
+> 创造的冲动、改进事物的欲望和解决问题的需求是无法改变的，它们总是存在于工程师的心中。我希望能够鼓励大家，尤其是年轻人，如果可能的话，成为工程师和科学家。如果你已经是工程师和科学家，那就[以足够的勇气和信心去解决世界上的难题](https://www.geekpark.net/news/313310)。如何使用我们的产品，如何最大限度利用科技来优化性能表现，如何切实解决用户关切的问题，对这些底层问题的理解是戴森保持领先的秘诀。
 
 ![](https://user-images.githubusercontent.com/101486416/211125739-8c2029e2-bf3b-42bb-95a4-a9d3ef540666.png)
 ![](https://user-images.githubusercontent.com/101486416/211126173-7211af0c-3421-42eb-aa1c-8975ec60f96f.png)
 ![](https://user-images.githubusercontent.com/101486416/211126178-e80fa3c4-0d89-4944-bb7a-16629afcb433.png)
 ![](https://user-images.githubusercontent.com/101486416/211126182-eaffa63f-62ee-44c1-9cad-091066b452e0.png)
 ![](https://user-images.githubusercontent.com/101486416/211126184-60791c89-37e5-41b4-be6b-b50c1d854c46.png)
-> [Xiaomi MIX Fold 2](https://www.mi.com/xiaomimixfold2)
+![](https://user-images.githubusercontent.com/101486416/211176856-0a61c751-265c-48f4-83a6-e1f67968b216.png)
+> [Xiaomi MIX Fold 2](https://www.mi.com/xiaomimixfold2) [小米折叠旗舰的涅槃重生](https://www.ithome.com/0/634/648.htm)
 
+![](https://user-images.githubusercontent.com/101486416/211178564-fa1ff48e-7f8c-48c5-89e2-cd579611e387.png)
+> [用户对于产品的口碑，最终来源于实际应用](https://www.geekpark.net/news/313065)。炫酷层面的东西，终究是递减的，一块大屏对你的冲击力，在你拿到它的一瞬间就到达巅峰，往后就不断衰减，直到散去。但「品质感」会累积，那些深入细节的优化，让人越用越喜欢，越用越回不去。
 
 请问在工作岗位上，什么人会被提拔？这个答案好像明摆着，`第一，能力强；第二，被领导或者组织上信任`，无非是这两个原因。但在现实中，另外一个原因非常非常重要，就是有没有人接替他现在的位置。
 
@@ -1744,6 +1766,84 @@ wo girls in silk kimonos, bothBeautiful, one a gazelle.
 ![image](https://user-images.githubusercontent.com/101486416/208230681-02143ff7-1a61-4283-9c01-3bc1aa345aed.png)
 > [一个人可能在价值观上是反对歧视的，但是在潜意识里却有偏见](https://www.dedao.cn/course/article?id=Q8dpgOa54NZMVzmjBgKByzxkwYm2Rl)。不要根据顾客的外貌去判断对方，而是要不断告诫自己，每一个走进店里的顾客，买车的概率是相同的。你需要在自己所处的环境中，更多地去接触不同的人群，去了解他们的文化，了解他们积极的一面。你所处的环境变化了，你的潜意识也会随之变化。
 
+## 笔记
+
+![image](https://user-images.githubusercontent.com/101486416/211176492-be5cbfe7-10d4-41fb-a779-f6dfa45105a6.png)
+![image](https://user-images.githubusercontent.com/101486416/211176497-60bff0cc-ca07-4370-a4a1-28f202f29a13.png)
+跳出来思考，走出去行动，立足中国，放眼全球。
+
+[最大的机会来自新技术](https://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html)
+
+上周六是 iPhone 诞生十五周年。 2007年1月9日，乔布斯从口袋里掏出一个小玩意，对着全世界说，今天苹果公司重新发明了电话。
+
+![image](https://user-images.githubusercontent.com/101486416/211176550-39ddc72d-51e3-438e-b4dc-0cf0c02823ac.png)
+
+你还记得那个时刻吗？ 当时谁能想到，这个小玩意对人类社会的改变，将是如此巨大！
+
+过去的十五年，可能是历史上科技变革最快的时期。回忆以前的生活，恍若隔世，没有微信、没有二维码、没有手机付款、网络外卖、手机打车、手机直播…… 短短十五年，智能手机就把这些东西，推广到了城市和乡村的每一个角落。 这带来了极其巨大的商业机会。
+
+十五年前，小米（2010年4月6日成立）、美团（2010年1月成立）、字节跳动（2012年3月成立）、滴滴（2012年6月成立）这些巨头都还不存在。（顺便提一句，比特币的诞生是在2009年1月3日。） 一个革命性的设备出现，能带来这么多机会！
+
+现在回想起来，我多么希望，在乔布斯掏出 iPhone 的那个时刻，我能够意识到它会带来无与伦比的机会，从而转向这个方向发展。那样的话，人生将会多么不同啊。 可惜，当时我完全没有这种意识，只觉得 iPhone 是一个时髦的产品，比黑莓或者塞班手机更好用一些，市场潜力大概跟它们差不多。我就这样错过了机会。
+
+手机革命开始很久以后，我才意识到，自己的眼光有多么局限和短浅。我也由此明白了，五年后、十年后、十五年后，科技带来的巨大变化，是你所无法想象的。 同样地，现在是2022年，你能想象2037年的世界将是什么样吗？可以肯定的是，一定会有新科技，同样巨大地改变人类生活。技术进步还在加速，未来15年依然会产生巨大的机会。只是我们现在还不知道，能够带来最大机会的那个东西是什么。
+
+跟十五年前相比，我自己有一个变化。现在，我意识到了，所有的机会都是新技术带来的， 那些老技术的机会都有大公司赶在你的前头，把树上的果实吃掉一干二净，唯恐他人染指。 你想抓住最大的机会，只能去追踪那些新产品、新技术。
+
+我希望，始终保持对于新事物的敏感，这也是这个周刊的目的之一：当革命性的新产品、新技术出现时，能够识别它、跟上它。
+
+![image](https://user-images.githubusercontent.com/101486416/211178028-9cb8f562-c968-4240-9d19-1eeef0b8ae7f.png)
+> 沟通是一场无限的游戏，弹性空间…
+
+![](https://user-images.githubusercontent.com/101486416/211178267-73bb3600-9218-45d5-969c-e5c30a201405.png)
+
+想让 IoT 产品渗透进更深的市场，就要[对场景做更精准的划分](https://www.geekpark.net/news/313353)。在 OPPO 的规划蓝图里，他们定义了`生产、学习、健康、文娱`，四个智慧场景产品体系，将产品代入，便于对接用户需求，也更容易在软件层面优化体验。
+
+过程中，OPPO 还针对产品做了「分级」。对于智能化需求较低的「周边产品」，比如游戏手柄、麦克风等，OPPO 就保持开放、克制，不过多参与其中，给设备商多留空间；对于那些智能化体验较复杂的「生态产品」，如电脑、显示器，则尝试更主动的策略，与厂商密切合作、赋能，提供更多系统底层功能，最终转化为用户体验的增量。
+
+`通过层级划分，OPPO 既保证了 IoT 业务有足够的发展动力，也标注了明确的商业边界`。这也是为什么，今年 OPPO 高调公布 IoT 配件销售成绩，同时发布潘塔纳尔，两件事并不矛盾。对配件制造商来说，OPPO 的核心智能产品是「入口」而非「终端」，只有入口丰富了，终端体验才能得到更好提升。
+
+而这一切，最终都是为了实现「`全场景智能化`」的愿景。
+
+从「远程控制」，到「自动化」，IoT 系统的终极形态，应该是「智能化」，`即能够分析、学习、预测用户的需要，基于环境场景，实现主动触达。`
+
+为实现这一目标，一方面需要在感知、预测算法上积累技术，另一方面也非常依赖 IoT 设备的广泛普及。通过潘塔纳尔，OPPO 已经在推动一系列的「智能化」功能：比如用户在电视上健身，手表就可以自动开始监控、记录健康数据；通过手机等核心设备，这套系统还能预测用户需求，进行主动的信息、动作推送。
+
+![](https://user-images.githubusercontent.com/101486416/211177659-8e674d53-3d96-47b8-91f3-6a4aaa942dc9.png)
+> [微信公众平台](https://mp.weixin.qq.com/)
+
+## 进化
+
+1. [2ipr](https://2ipr.com/)
+2. [3ipr](https://3ipr.com/)
+3. [ahaipr](https://ahaipr.com/)
+4. [coolipr](https://coolipr.com/)
+5. [hazyman](https://hazyman.com/)
+6. [adaipr](https://adaipr.com/)
+7. [ahasleep](https://ahasleep.com/)
+8. [ahamiss](https://ahamiss.com/)
+9. []()
+10. []()
+11. []()
+12. []()
+13. []()
+14. []()
+15. []()
+16. []()
+17. []()
+18. []()
+19. [iprcreator](https://iprcreator.com/)
+20. 
+
+## 资源
+
+1. [李笑来](http://lixiaolai.com/#/)
+2. [得到](https://www.dedao.cn/)
+3. [ithome](https://www.ithome.com/)
+4. [ifanr](https://www.ifanr.com/)
+5. [雷锋网](https://www.leiphone.com/)
+6. [极客公园](https://www.geekpark.net/)
+
 ## 参考
 
 1. [与贸易有关的知识产权协定](http://ipr.mofcom.gov.cn/zhuanti/law/conventions/wto/trips.html) 
@@ -1751,5 +1851,9 @@ wo girls in silk kimonos, bothBeautiful, one a gazelle.
 3. [使用 ChatGPT 写投诉信](https://mp.weixin.qq.com/s/HkU8KNO4Q4XNQtzD-X_l7Q)
 4. [学一门外语=开启另一个人格？说谁的话，决定我们为谁说](https://www.dedao.cn/course/article?id=3bezDG7wBonmJw53xKvQkAg5PyO1x9)
 5. [华为全球知识产权战略布局](https://mp.weixin.qq.com/s?__biz=MzUyODU4NzE2Mg==&mid=2247516671&idx=2&sn=66bf4534031209791935fe291ac2dd22)
+6. [一个程序员的财务独立之路](https://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html)
+7. [PANTONE 公布 2023 年度代表色](https://www.ifanr.com/1525104)
+8. [OPPO「小布」的主动式智能进化](https://www.leiphone.com/category/ai/4SnH7knwPG0otrxB.html)
+9. [摆脱身份之困后，一加要往哪里走？](https://www.leiphone.com/category/weiwu/tXuMZ4xTtlWCCZ1M.html)
 
 ![Alt](https://repobeats.axiom.co/api/embed/5694f8a5725db3353a697fd63a6a2c34fc8bd3a6.svg "Repobeats analytics image")
