@@ -1889,6 +1889,16 @@ wo girls in silk kimonos, bothBeautiful, one a gazelle.
 7. [PANTONE 公布 2023 年度代表色](https://www.ifanr.com/1525104)
 8. [OPPO「小布」的主动式智能进化](https://www.leiphone.com/category/ai/4SnH7knwPG0otrxB.html)
 9. [摆脱身份之困后，一加要往哪里走？](https://www.leiphone.com/category/weiwu/tXuMZ4xTtlWCCZ1M.html)
-10. 
+10. [前沿科技·吴军讲5G](https://dedao.cn/course/detail?id=ZWyMAOLnR4xJ1vqs4nX65QaE8YG29k) 
+11. [吴军·信息论40讲](https://dedao.cn/course/detail?id=Y9LnlWEqDj76VzDfwBXmOA4epMBPxa)
+12. [吴军·科技史纲60讲](https://dedao.cn/course/detail?id=alQr3o4dMw8ZKgzfzX7N2xDyWeEq1R)
+
+## 站内
+
+### 科技
+![image](https://user-images.githubusercontent.com/101486416/211179334-cf9c8ec8-ca07-432d-b5ad-b89a2350be41.png)
+#### [元宇宙](/tech/meta.md)
+#### [字体](/tech/font.md)
+
 
 ![Alt](https://repobeats.axiom.co/api/embed/5694f8a5725db3353a697fd63a6a2c34fc8bd3a6.svg "Repobeats analytics image")
