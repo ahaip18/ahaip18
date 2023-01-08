@@ -23,6 +23,14 @@ Tomorrow is another day.
 7. 一切都会过去，一切都会来到，行动的力量，轻装上阵，再出发
 8. 如果遇到复杂的任务，不妨列出一张清单，按顺序列出每一个步骤，这会大大降低复杂性。
 
+![image](https://user-images.githubusercontent.com/101486416/211183044-869d0a6c-b180-4bff-93c5-ca34ea1f0b55.png)
+![image](https://user-images.githubusercontent.com/101486416/211183043-d44fc102-0f9d-4aa9-b6d2-821f15f84957.png)
+![image](https://user-images.githubusercontent.com/101486416/211183051-33279ca4-c859-41c4-9e03-bc3b6715b389.png)
+![image](https://user-images.githubusercontent.com/101486416/211183071-2ff993a4-8608-4367-a8c7-d3999a31e328.png)
+![image](https://user-images.githubusercontent.com/101486416/211183080-f26abaef-75be-448e-b52a-93c705da3cb0.png)
+![image](https://user-images.githubusercontent.com/101486416/211183107-b7ac4876-fa2c-4bea-9816-941dd2029775.png)
+
+
 ```
 慢就是快
 快就是慢
@@ -1870,18 +1878,19 @@ wo girls in silk kimonos, bothBeautiful, one a gazelle.
 7. [ahasleep](https://ahasleep.com/)
 8. [ahamiss](https://ahamiss.com/)
 9. [ahalaw](https://ahalaw.cn/)
-10. [ahacase](https://ahacase.com/)
-11. []()
-12. [ahafont](https://ahafont.com/)
-13. []()
-14. []()
-15. [ahaleica](https://ahaleica.com/)
-16. [ahamvp](https://ahamvp.com/)
-17. []()
+10. [ahalawyer](https://ahalawyer.cn/)
+11. [ahacase](https://ahacase.com/)
+12. []()
+13. [ahafont](https://ahafont.com/)
+14. [ahamarkdown](https://ahamarkdown.com/)
+15. []()
+16. [ahaleica](https://ahaleica.com/)
+17. [ahamvp](https://ahamvp.com/)
 18. []()
-19. [iprcreator](https://iprcreator.com/)
-20. [coolip](https://coolip.cn/)
-21. [iprplayer](https://iprplayer.com/)
+19. []()
+20. [iprcreator](https://iprcreator.com/)
+21. [coolip](https://coolip.cn/)
+22. [iprplayer](https://iprplayer.com/)
 
 ## 资源
 
