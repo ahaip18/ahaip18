@@ -3,6 +3,116 @@
 ![](https://user-images.githubusercontent.com/101486416/211178976-f856459e-78cc-4428-bdf1-275bbd70f33b.png)
 > 人的本质就是一段时间，和时间做朋友，因相信而看见，是爱和信任让生活变得更加美好！有事做，忙一点，挺好，微笑面对，淡然于心。
 
+> 所谓“个人财富自由”，是指某个人再也不用为了满足生活必需而出售自己的时间。你必须对两件事深信不疑：
+
+```
+一.用正确的方法做正确的事情,你一定会变得更好
+二.若长期持续使用正确的方法做正确的事情，你的未来一定会很伟大。
+```
+
+高效能人士的七个习惯
+
+```
+积极主动（个人领域）
+以终为始（个人领域）
+要事第一（个人领域）
+双赢思维
+知彼解己
+统合综效
+不断更新
+```
+
+![image](https://user-images.githubusercontent.com/101486416/211189439-3677f4d7-f8bd-44f6-bbf6-3775952f0631.png)
+> 好问题胜于好答案，少有正确及价值…成长就是想到之后做到，没有什么比“践行”更为重要了。人生的终极问题是“什么最重要”。
+
+时间投资到自己的成长上最划算，时间要用在升级自己的操作系统。
+你所拥有的最宝贵的财富是注意力。注意力是你唯一可以随意调用且能有所产出的资源。
+注意力>时间>金钱。若能用时间减少注意力的消耗，那一定不要去节省那个时间。
+无论如何，要把一切可能的注意力都放到自己的成长上去。不应该把注意力放在别人的“错”和“不好”上，若有空闲的注意力，不如关注别人哪里做得好，以便我吸收经验，获得成长。我们是活在未来的人，即使要比较，也要比较未来，而不是当下。
+一个人所要自信的对象，应该是未来的自己，而不是现在的自己，更不是过去的自己。
+人生3大坑，消耗注意力的同时让你毫无产出：`第一是“莫名其妙凑热闹”，第二是“心急火燎地随大流”，第三是“为别人操碎了心”。`
+追求100%的安全感，肯定会把自己困在永恒的当下。我们必须放弃一部分安全感，才能长期、深入地观察和思考。（注意是一部分，不是100%地放弃，要提高自己的思考质量）
+活在未来最朴素的方法就是“用正确的方法做正确的事”。做对的事远比把事情做对重要得多。
+听大多数人的话，参考少数人的意见，最终自己做决定。
+所谓“投资”，无非是用现在的资源换取未来的资源。
+你如何变得更加值钱？成为一个真正有用的人，一个周围世界很需要你的人。
+所谓“融会贯通”，本质上就是在那些“清晰、准确、必要的概念”之间建立“清晰、准确、必要的关联”的过程。
+一切的半途而废/执行力不强，其最合理的科学解释，也是最朴素的解释是：重复与应用的次数不够，内化过程没有完成，大脑皮层沟回构建失败，应该建立的神经元关联不够强以致断掉，回到了原本没有关联的状态。
+
+什么是真问题？真问题通过提问可以看出以下几点：
+
+```
+对问题所对应的相关知识有基本的了解，提问本身体现了这种认知；
+对问题做过一些思考，提问的时候在叙述上存在逻辑关联：因为所以，那么问题来了；
+真问题往往会涉及到事物本质的理解，要求回答者加以廓清或者梳理，帮助提问者看得更清楚；
+真问题也会涉及不同领域的类比，因为提问者想要把一类知识和另一类做连接，融会贯通，但要求帮助确认是否扩大或者扭曲了前提；
+真问题不谈自己，只谈问题本身。真问题不谈感受，只谈理解本身；
+真问题不讨论概念，但在提问时会先做约定；
+真问题有时候会难倒回答者；
+真问题在搜索引擎上难以找到。
+同样的，回答提问的时候，遇见真问题也能让人看得清清楚楚，而且，会让人发自内心地觉得欢喜。因为能问出真问题，代表对方也是同道中人。有些时候，甚至连思路上卡阻的地方都和自己当年一样。与此同时，因为真问题体现了自己的理解，有些甚至提供了自己的思路，这样回答起来就很容易做到有的放矢。
+
+1.假问题之所以假，是因为其实没问题，也没有真疑惑，只有一个硕大无朋的自我顶天立地，还以为别人看不出来。
+2.提问和回答其实就是一种人际关系互动，并不是回答者单方面给予。
+3.当你提问的时候，对方也在通过问题审视着你。
+```
+
+question，problem和puzzle
+
+“问题”这个中文词汇是模糊而多义的。在英文中，至少有三个单词都可以译成“问题”，它们是：question，problem和puzzle。这三个词的区别可不小。
+
+question往往是表述模糊的问题，它反映了尚未界定清晰的困惑，而一个困惑中的人所问的问题常常不等同于其背后那个真正的、连提问者都还没意识到的问题。question型问题的模糊性意味着可以从多种不同的角度去“回答（answer）”，却难以真正地获得“解答（solve）”。比如，“人生的道路该如何走”这样的问题并不是一个精确的问题，也许提问者的困惑是无比真实的，他确实困惑于这个问题，每天为之烦恼，但其实他并不知道他要问的是什么。
+
+而problem指的是可以明确界定下来的问题，因而是可以解答的。心理学里有一个分支叫“问题解决心理学（psychology of problem solving）”，用的就是problem这个词。但是，problem依然是开放式的问题，解决方案可以是多种多样的，而且很难判断其中哪个是最优的方案。比如一家公司今年的利润下滑，这对于这家公司的管理层来说，或许是一个可以厘清的问题，但是怎么解决利润下滑的问题，可以从不同角度去分析，也会有多种多样的方法，但管理层可能无法知道最佳的方法是什么。
+
+那么puzzle是什么呢？在puzzle中问题是非常清晰的，是“定义良好”的问题。在清晰的问题之下，判断一个答案是不是最佳答案也变得容易。迷宫图案是puzzle，灯谜是puzzle，数独也是puzzle，乃至我们在中小学时做的绝大部分题目本质上也都是puzzle（但作文不是puzzle）。而实际上，描绘出基本遗传物质的结构也是一个puzzle，所以沃森和克里克的成就正在于他们解谜成功，只不过他们解的谜是亿万个谜中极端重要的那批之一。托马斯·库恩就在他的科学哲学名著《科学革命的结构》中，把科学研究活动的大部分归纳为“解谜”活动。同样为了与其他两个词汇相区分，我把puzzle用“谜题”来表示。
+
+在刚才谈到的太空望远镜的问题里，原本这个问题是模糊的，但是经由TRIZ中的矛盾分析法而变得清晰。
+
+“如何设计一款太空望远镜”是一个question，
+“如何解决太空望远镜的口径大小和运输可行性的矛盾”就收窄成了一个problem，而“如何借鉴折纸的方法，设计一款太空望远镜的可折叠结构”，这就进一步缩窄成让折纸艺术家设计某个造型的任务了，成了一个不折不扣的puzzle。
+从question到problem再到puzzle，意味着问题越来越明确，因此也越来越可能被真正地解决。而TRIZ告诉我们抓住问题中的主要矛盾，不要管其他次要的、枝节的问题，正是促成这种转变的一个可操作的方法。
+
+经常有人会说，因为我没有钱，所以什么都做不了；有人会说，我的时间不够用，所以没法做自己喜欢的事。但是当这些限制统统解除以后，你确定自己真的知道想要什么、能做什么吗？也许此时，有无数个念头会冒出，有太多的愿望可以罗列，不过有很大的可能你还是会很困惑。是啊，如果有一天我变得无所不能，那么我还想要什么呢？
+
+限制会让我们难受，但是恰恰是这种难受，会让我们思考，会让我们去想这个世界到底是什么样的，为什么会有这么多限制，这些限制的意义又在哪里。
+
+由限制而引发的麻烦是不可避免的。一个人不论走到何处，都会遇到诸多限制。再放大了看，每一个人遇到的最大限制就是死亡。在海德格尔看来，正是因为死亡不可避免，生命的活力才能被激发，人的精神力量才能被最大程度地唤醒，人才会拼尽全力活出精彩而不凡的一生。从这个意义上来说，“向死而生”便是限制和创造之间关系的最好证明吧。
+
+这就是限制能带给我们的第一个好处：限制能激发新的可能性。
+
+因为牌烂，所以能打得精彩
+
+大家一般的想法是，限制就是限制，它一定是阻碍我们的东西，必须除之而后快。而在这里，我恳求大家做一次思维的逆转，掉过头来去思考限制的价值。尝试着（哪怕暂时地）去接受限制、利用限制甚至喜欢限制，去跟限制做朋友，也许，你真会收获一些意想不到的东西。
+
+我之前介绍过名厨江振诚。他训练手下的厨师时就擅长利用“限制”来做文章。其中一个经常采用的练习是，给每个人随机分配三种常见食材，对，只有三种，然后让他们以此做一道好吃的菜出来。
+
+开始做这个练习的人都感觉很为难，一是原本以为做菜都是有菜谱的，有套路可循，这回是即兴创作，临场发挥；二是因为一道好菜总要各种东西搭配才好，只有三种食材，而且是随机组合，要想做得好吃，难度可想而知。 可是在江振诚看来，只有在这样的限制条件之下，才能迫使厨师们去深入挖掘常见食材中还未显露出的味道，让他们去思考不同的食材还有什么潜力可以挖掘。就拿胡萝卜来说，我们知道胡萝卜有几种常见的做法，这些已经成为惯常的套路，但是它一定还有我们尚不知道的其他做法，一定还有我们没有吃过的味道，那么这些未知之味就可以通过这种限制性的练习来探索。
+
+厨师手中的食材，就像一个牌手手中摸到的牌。如果摸到一副烂牌，怎么打？这才是考验功力的时刻。有人说，自己的人生也好像是拿了一手烂牌，不知道如何打下去，那么就想想江振诚的这个练习。我知道，很多时候固然很难，但是这些至暗时刻也未尝不是激发我们潜能的一个契机。
+
+如果我们在生活中需要应对的永远是稀松平常、很好打发的事，那么我们根本不必努力做啥，只有当障碍出现时，我们才会被刺痛，才会一跃而起，我们才会思考以前没有意识到的可能性，从惯常的轨道中偏离出来。 自由固然是可贵的，但是恰恰是限制，最有可能激发起我们的创造力，人与物的潜能在限制的刺激下方能迸发出来。
+
+日本有一位大厨叫早乙女哲哉，在东京开了一家山居天妇罗专门店，他与“寿司之神”小野二郎、“鳗鱼之神”金本兼次郎并称为“江户前料理三神”。他说：“光是面对一种天妇罗食材，我大概就能萌生出200到300种不同的想法。”为什么呢？在一般人眼里，一种食材就是一个元件而已；而在他眼里，一种食材还能向下分，分成不同的组成部分，也就是说，在他眼里，真正的元件是在更细小的层次上。
+
+就拿炸虾来说，一只虾一定要切成半，分开炸，一为虾头，一为虾身。因为虾头的壳硬，需要炸久一点；而虾身壳薄，不能炸久。根据早乙女哲哉的长期摸索，他发现炸虾身天妇罗，只需要炸24到25秒，刚刚好，这时捞出，虾肉里有一种甘甜味，时间再久就没有了。
+
+炸鱼块天妇罗也一样，每块鱼肉其实都不尽相同，一是鱼肉有厚薄之分，厚一点的要炸久一点，薄一点的要炸快一点。还有，一块鱼肉往往一面是鱼皮，一面是鱼肉，鱼皮有韧性，比鱼肉更难熟，但是这一块鱼又是一个整体，怎么同时让鱼皮和鱼肉都熟度正好呢？早乙女哲哉想出的办法，就是在鱼皮上抹的面粉少一些甚至不抹，鱼肉上抹的面粉多一些，这样同样一块鱼下油锅后，不同部位的受热强度是不一样的，就做到了鱼肉和鱼皮两者兼顾。
+
+在我看来，天妇罗之神早乙女哲哉代表了这样一群人，他们在自己擅长的领域里，能做到极致的精细度。在一个更细小的颗粒度上，他以模块化的方式去精进他的厨艺，这是非常令人惊叹的。
+
+![image](https://user-images.githubusercontent.com/101486416/211189452-a8b301f9-5a79-4c6d-90f9-2b38b8ee6d8c.png)
+![image](https://user-images.githubusercontent.com/101486416/211189463-8b93a015-1574-440d-a348-29bd09c18156.png)
+![image](https://user-images.githubusercontent.com/101486416/211189474-09ff95cf-24ac-435f-8641-82f17ed5a46e.png)
+![image](https://user-images.githubusercontent.com/101486416/211189484-d27cd3c5-8873-40d3-8269-ea7cb4a419ef.png)
+![image](https://user-images.githubusercontent.com/101486416/211189492-b70c775e-0115-4f59-be4e-44ed5d1d6bbc.png)
+![image](https://user-images.githubusercontent.com/101486416/211189495-218dbe3d-3a3a-40e2-b4b5-63ee5e5a124f.png)
+![image](https://user-images.githubusercontent.com/101486416/211189512-2684a5f9-33e1-43c5-accb-78e8b3e0b494.png)
+![image](https://user-images.githubusercontent.com/101486416/211189519-98a693dc-575b-4ff1-98df-4e2d1218e472.png)
+![image](https://user-images.githubusercontent.com/101486416/211189526-f4a3d0b2-456a-4579-b52a-1efba10d42b9.png)
+![image](https://user-images.githubusercontent.com/101486416/211189608-45dddb12-e273-4da9-83b7-c79d5684514e.png)
+> 首先，你要选择你追求什么，即你的目标。对目标的选择将决定你的方向。当你追求目标时，你将遇到问题，一些问题将迫使你直面自己的缺点。如何应对由此带来的痛苦，取决于你自己。要想实现目标，你必须沉着冷静，以便准确地诊断你的问题，进而规划一个方案来解决问题，然后做一切必要的事来践行方案，实现成果。然后你考察自己取得的这些新成果，并重复上述过程。为了快速进化，你必须迅速、持续地这么做，不断设定更高的目标。
+
 ```
 Think big Do more. Less is more.
 Just do it right now.
@@ -1885,36 +1995,45 @@ wo girls in silk kimonos, bothBeautiful, one a gazelle.
 3. [ahaip](https://ahaip.com/)
 4. [ahaipr](https://ahaipr.com/)
 5. [ahasep](https://ahasep.com/)
-6. [ahadomain](https://ahadomain.cn/)
-7. [coolipr](https://coolipr.com/)
-8. [hazyman](https://hazyman.com/)
-9. [adaipr](https://adaipr.com/)
-10. [ahasleep](https://ahasleep.com/)
-11. [ahamiss](https://ahamiss.com/)
-12. [ahalaw](https://ahalaw.cn/)
-13. [ahalawyer](https://ahalawyer.cn/)
-14. [ahacase](https://ahacase.com/)
-15. [ahacontract](https://ahacontract.com/)
-16. [ahaevidence](https://ahaevidence.com/)
-17. [ahafont](https://ahafont.com/)
-18. [ahamarkdown](https://ahamarkdown.com/)
-19. [ahatrust](https://ahatrust.com/)
-20. [ahaleica](https://ahaleica.com/)
-21. [ahamvp](https://ahamvp.com/)
-22. [ahavalue](https://ahavalue.com/)
-23. [ahaview](https://ahaview.cn/)
-24. [ahalogic](https://ahalogic.cn/)
-25. [ahabayes](https://ahabayes.com/)
-26. [ahaorigin](https://ahaorigin.com/)
-27. [ahawar](https://ahawar.com/)
-28. [ahaartist](https://ahaartist.com/)
-29. [ahaimage](https://ahaimage.com/)
-30. [iprcreator](https://iprcreator.com/)
-31. [coolip](https://coolip.cn/)
-32. [iprplayer](https://iprplayer.com/)
-33. [ahatea](https://ahatea.cn/)
-34. [ahagrace](https://ahagrace.com/)
-35. [sillyinvestor](https://sillyinvestor.com/)
+6. [ahapatent](https://ahapatent.com/)
+7. [ahacopyright](https://ahacopyright.com/)
+8. [ahatrademark](https://ahatrademark.com/)
+9. [ahadomain](https://ahadomain.cn/)
+10. [ahadesign](https://ahadesign.cn/)
+11. [aharight](https://aharight.com/)
+12. [ahasecret](https://ahasecret.com/)
+13. [finepatent](https://finepatent.com/)
+14. [coolipr](https://coolipr.com/)
+15. [hazyman](https://hazyman.com/)
+16. [adaipr](https://adaipr.com/)
+17. [ahasleep](https://ahasleep.com/)
+18. [ahamiss](https://ahamiss.com/)
+19. [ahalaw](https://ahalaw.cn/)
+20. [ahalawyer](https://ahalawyer.cn/)
+21. [ahacase](https://ahacase.com/)
+22. [ahacontract](https://ahacontract.com/)
+23. [ahaevidence](https://ahaevidence.com/)
+24. [ahafont](https://ahafont.com/)
+25. [ahamarkdown](https://ahamarkdown.com/)
+26. [ahatrust](https://ahatrust.com/)
+27. [ahaleica](https://ahaleica.com/)
+28. [ahamvp](https://ahamvp.com/)
+29. [ahahabit](https://ahahabit.com/)
+30. [ahavalue](https://ahavalue.com/)
+31. [ahaview](https://ahaview.cn/)
+32. [ahalogic](https://ahalogic.cn/)
+33. [ahabayes](https://ahabayes.com/)
+34. [ahaorigin](https://ahaorigin.com/)
+35. [ahawar](https://ahawar.com/)
+36. [ahaartist](https://ahaartist.com/)
+37. [ahaimage](https://ahaimage.com/)
+38. [iprcreator](https://iprcreator.com/)
+39. [coolip](https://coolip.cn/)
+40. [iprplayer](https://iprplayer.com/)
+41. [ahatea](https://ahatea.cn/)
+42. [ahagrace](https://ahagrace.com/)
+43. [sillyinvestor](https://sillyinvestor.com/)
+44. [ahaenglish](https://ahaenglish.cn/)
 
 ## 资源
 
@@ -1943,12 +2062,15 @@ wo girls in silk kimonos, bothBeautiful, one a gazelle.
 
 ## 站内
 
+
 ### 科技
-![image](https://user-images.githubusercontent.com/101486416/211179334-cf9c8ec8-ca07-432d-b5ad-b89a2350be41.png)
 #### [元宇宙](/tech/meta.md)
 #### [字体](/tech/font.md)
 #### [拍照](/tech/camera.md)
 #### [MD](/tech/markdown.md)
+![image](https://user-images.githubusercontent.com/101486416/211179334-cf9c8ec8-ca07-432d-b5ad-b89a2350be41.png)
 
+### 生活
+#### [问题](/life/problem.md)
 
 ![Alt](https://repobeats.axiom.co/api/embed/5694f8a5725db3353a697fd63a6a2c34fc8bd3a6.svg "Repobeats analytics image")
