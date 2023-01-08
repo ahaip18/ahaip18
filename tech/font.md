@@ -87,5 +87,6 @@
 ## 参考
 
 1. [Windows 控制面板的演变](https://www.versionmuseum.com/history-of/all-windows-control-panels)
+2. [北京冬奥会、冬残奥会专用字体背后的设计团队](https://www.logonews.cn/2022021004254541.html)
 
 [返回主页](/)
