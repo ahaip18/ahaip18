@@ -40,6 +40,14 @@
 所谓“融会贯通”，本质上就是在那些“清晰、准确、必要的概念”之间建立“清晰、准确、必要的关联”的过程。
 一切的半途而废/执行力不强，其最合理的科学解释，也是最朴素的解释是：重复与应用的次数不够，内化过程没有完成，大脑皮层沟回构建失败，应该建立的神经元关联不够强以致断掉，回到了原本没有关联的状态。
 
+![image](https://user-images.githubusercontent.com/109413096/179348361-423d875d-c70a-4cab-acc2-8b4fa8d2a9dd.png)
+![image](https://user-images.githubusercontent.com/109413096/179348366-6706f5c0-4b2c-466f-b780-d97c1fb8e17b.png)
+![image](https://user-images.githubusercontent.com/109413096/179348383-a76615a8-73f5-4e54-9c8f-49e3d1b42565.png)
+![image](https://user-images.githubusercontent.com/109413096/179348450-fff0003d-dd8f-47e6-a991-9ee67772a260.png)
+![image](https://user-images.githubusercontent.com/109413096/179348440-df171124-4fd2-47c3-9fa0-612267b1ef0f.png)
+![image](https://user-images.githubusercontent.com/109413096/179348451-692784e7-48ca-48d5-b816-ba20fb93c394.png)
+> ahaip: 发现美，记录美及创造美...
+
 什么是真问题？真问题通过提问可以看出以下几点：
 
 ```
@@ -2018,23 +2026,24 @@ wo girls in silk kimonos, bothBeautiful, one a gazelle.
 25. [ahamarkdown](https://ahamarkdown.com/)
 26. [ahatrust](https://ahatrust.com/)
 27. [ahaleica](https://ahaleica.com/)
-28. [ahamvp](https://ahamvp.com/)
-29. [ahahabit](https://ahahabit.com/)
-30. [ahavalue](https://ahavalue.com/)
-31. [ahaview](https://ahaview.cn/)
-32. [ahalogic](https://ahalogic.cn/)
-33. [ahabayes](https://ahabayes.com/)
-34. [ahaorigin](https://ahaorigin.com/)
-35. [ahawar](https://ahawar.com/)
-36. [ahaartist](https://ahaartist.com/)
-37. [ahaimage](https://ahaimage.com/)
-38. [iprcreator](https://iprcreator.com/)
-39. [coolip](https://coolip.cn/)
-40. [iprplayer](https://iprplayer.com/)
-41. [ahatea](https://ahatea.cn/)
-42. [ahagrace](https://ahagrace.com/)
-43. [sillyinvestor](https://sillyinvestor.com/)
-44. [ahaenglish](https://ahaenglish.cn/)
+28. [ahazeiss](https://ahazeiss.com/)
+29. [ahamvp](https://ahamvp.com/)
+30. [ahahabit](https://ahahabit.com/)
+31. [ahavalue](https://ahavalue.com/)
+32. [ahaview](https://ahaview.cn/)
+33. [ahalogic](https://ahalogic.cn/)
+34. [ahabayes](https://ahabayes.com/)
+35. [ahaorigin](https://ahaorigin.com/)
+36. [ahawar](https://ahawar.com/)
+37. [ahaartist](https://ahaartist.com/)
+38. [ahaimage](https://ahaimage.com/)
+39. [iprcreator](https://iprcreator.com/)
+40. [coolip](https://coolip.cn/)
+41. [iprplayer](https://iprplayer.com/)
+42. [ahatea](https://ahatea.cn/)
+43. [ahagrace](https://ahagrace.com/)
+44. [sillyinvestor](https://sillyinvestor.com/)
+45. [ahaenglish](https://ahaenglish.cn/)
 
 ## 资源
 
@@ -2060,6 +2069,7 @@ wo girls in silk kimonos, bothBeautiful, one a gazelle.
 11. [前沿科技·吴军讲5G](https://dedao.cn/course/detail?id=ZWyMAOLnR4xJ1vqs4nX65QaE8YG29k) 
 12. [吴军·信息论40讲](https://dedao.cn/course/detail?id=Y9LnlWEqDj76VzDfwBXmOA4epMBPxa)
 13. [吴军·科技史纲60讲](https://dedao.cn/course/detail?id=alQr3o4dMw8ZKgzfzX7N2xDyWeEq1R)
+14. [吴军·数学通识50讲](https://www.dedao.cn/course/detail?id=lQr3o4dMw8ZKgdasrEV7N2xDyWeEq1) 
 
 ## 站内
 
