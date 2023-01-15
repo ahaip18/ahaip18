@@ -2099,6 +2099,45 @@ wo girls in silk kimonos, bothBeautiful, one a gazelle.
 
 ## 进化
 
+![image](https://user-images.githubusercontent.com/101486416/212541367-723e38f8-3f32-485d-8e0e-5229e4c2f183.png)
+![image](https://user-images.githubusercontent.com/101486416/212542602-99356986-1263-4a7d-823c-043eeb278610.png)
+![image](https://user-images.githubusercontent.com/101486416/212542659-5d854b0c-ea30-45b4-a3a1-44e744c847b1.png)
+![image](https://user-images.githubusercontent.com/101486416/212542700-6c289e21-0d9c-432a-b0ce-b6941538c4f9.png)
+![image](https://user-images.githubusercontent.com/101486416/212542707-d522f192-3390-45a0-8aa7-099d85c16768.png)
+![image](https://user-images.githubusercontent.com/101486416/212542720-3f2fcf00-d4bb-413d-94e7-9c61c2582421.png)
+![image](https://user-images.githubusercontent.com/101486416/212543101-3298ca74-86f4-4497-8169-93d0780c2d90.png)
+![image](https://user-images.githubusercontent.com/101486416/212543120-2a321be8-b268-47d3-b7a7-28ae259c7eac.png)
+![image](https://user-images.githubusercontent.com/101486416/212543106-b880a7a4-9662-423e-99b6-2ec6b0809c40.png)
+![image](https://user-images.githubusercontent.com/101486416/212543118-d1243550-925a-4234-bf72-bb7141d5c2ca.png)
+![image](https://user-images.githubusercontent.com/101486416/212543134-6f8ddd67-ec55-4693-b2ae-9f22493a8616.png)
+![image](https://user-images.githubusercontent.com/101486416/212543144-fc18744d-0206-40ce-9770-59955287e6d1.png)
+![image](https://user-images.githubusercontent.com/101486416/212543116-d56afb23-b0ac-45df-9123-4eb0bce5243d.png)
+> [vivo X90 系列旗舰手机正式发布](https://www.ithome.com/0/655/853.htm)，[X90 Pro+](https://www.vivo.com.cn/vivo/x90proplus/#t0dnc-pc-peise-screen)，[超越眼之所见](https://www.vivo.com.cn/vivo/vivozeiss)，[originos3](https://www.vivo.com.cn/originos)
+
+[vivo是一家以设计驱动创造伟大产品，以智能终端和智慧服务为核心的科技公司。](https://www.vivo.com.cn/brand/about)vivo 价值观中最核心的理念是[“本分”](https://www.vivo.com.cn/vivo/sustainability)，强调的是“做正确的事，并把事情做正确”。
+
+愿景：成为更健康、更长久的世界一流企业
+核心价值观：本分、用户导向、设计驱动、学习、团队
+使命：为用户，创造伟大的产品；为员工，营造快乐进取的氛围；为伙伴，建立互信共赢的平台；为股东，提供长期稳健的回报。
+
+T* 指 “Transmission Layer” 通光层，蔡司 T* 镀膜可增强可见光通过率，提高画质且准确还原物体色彩，同时降低反射率，减轻鬼影杂散光等负面效果。
+杜⽐视界是杜⽐实验室推出的⼀种专有的动态 HDR 标准。该格式的视频拥有更⼤的动态范围，更好的⾊彩和亮度效果。杜⽐视界是⽬前市⾯上对参数指标要求最⾼的 HDR 的视频标准。
+
+![image](https://user-images.githubusercontent.com/101486416/212541685-3ec987e8-8f3d-4a5d-bc7c-adea32ba5561.png)
+![image](https://user-images.githubusercontent.com/101486416/212541900-34fc2089-7b79-4e03-b08c-37abc70ac7cd.png)
+![image](https://user-images.githubusercontent.com/101486416/212541934-c90c0a1e-5639-4d12-8cb8-ea029b7c57a9.png)
+![image](https://user-images.githubusercontent.com/101486416/212541958-ff4b6c3c-ecb2-4358-9716-5d866e22ef51.png)
+![image](https://user-images.githubusercontent.com/101486416/212541970-004126e1-20b7-43df-b627-309bfb635994.png)
+> [vivo蔡司联合影像实验室正式挂牌](https://www.vivo.com.cn/brand/news/detail?id=909&type=2)，ZEISS，ZEISS 标识，是卡尔蔡司的注册商标。[蔡司创立于1846年，拥有超过175年的历史](https://www.vivo.com.cn/vivo/vivozeiss)，致力于塑造技术领域的未来，在半导体制造技术、工业质量与研究、医疗技术和消费品领域均有卓越建树，是世界公认的光学先驱。
+
+为了能够让手机比肩专业影像设备，vivo打造了光学感知系统、臻彩还原引擎、超清画质引擎、算力加速引擎的四大影像技术模块。从光线捕捉开始，高效地记录和处理图像的色彩、影调和画质信息，从而实现优秀的基础成像。
+为了让手机比肩专业摄影团队，vivo通过环境理解技术，将专业摄影师的环境理解能力赋予手机，使之能够对场景色温、光照等信息进行识别，自动判断与分析最佳的拍摄方式。
+最后，vivo围绕人像和夜景这两个核心场景，集中构建了超感人像系统和苍穹夜景系统，实现了精确的语义提取和优化，极大提升了场景表现力，让产品具备了比肩专业后期的能力。
+基于对用户日常摄影需求的场景出发，vivo将技术落地于用户最为关注的风光、人像、视频三大核心场景，通过软件与硬件两方面技术的研究和开发，为影像创作者覆盖更全面的体验场景，带来更优质的影像体验。
+
+![image](https://user-images.githubusercontent.com/101486416/212542638-6d049862-a717-4ee5-895e-27bf410892d2.png)
+> [手机摄影大赛](https://visionplus.vivo.com/)
+
 1. [2ipr](https://2ipr.com/)
 2. [3ipr](https://3ipr.com/)
 3. [ahaip](https://ahaip.com/)
@@ -2153,6 +2192,10 @@ wo girls in silk kimonos, bothBeautiful, one a gazelle.
 4. [ifanr](https://www.ifanr.com/)
 5. [雷锋网](https://www.leiphone.com/)
 6. [极客公园](https://www.geekpark.net/)
+7. [vivo总裁沈炜新年致辞：埋头种因，基业长青](https://www.vivo.com.cn/brand/news/detail?id=1132&type=0)
+8. [vivo 胡柏山：2022 年是信心奠定之年，逐步缩小与苹果高端份额差距](https://www.ithome.com/0/660/024.htm) 
+9. [vivo X90 Pro+ 上手体验：影像的狂，旗舰的王](https://www.ithome.com/0/658/367.htm)
+10. [vivo X90 Pro+十年积累 终成影像旗舰？](https://tech.ifeng.com/c/8Li33AJKQub)
 
 ## 参考
 
