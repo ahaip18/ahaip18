@@ -116,5 +116,7 @@ T* 指 “Transmission Layer” 通光层，蔡司 T* 镀膜可增强可见光�
 2. [vivo 胡柏山：2022 年是信心奠定之年，逐步缩小与苹果高端份额差距](https://www.ithome.com/0/660/024.htm) 
 3. [vivo X90 Pro+ 上手体验：影像的狂，旗舰的王](https://www.ithome.com/0/658/367.htm)
 4. [vivo X90 Pro+十年积累 终成影像旗舰？](https://tech.ifeng.com/c/8Li33AJKQub)
-
+5. [PANTONE 公布 2023 年度代表色](https://www.ifanr.com/1525104)
+6. [OPPO「小布」的主动式智能进化](https://www.leiphone.com/category/ai/4SnH7knwPG0otrxB.html)
+7. [摆脱身份之困后，一加要往哪里走？](https://www.leiphone.com/category/weiwu/tXuMZ4xTtlWCCZ1M.html)
 
