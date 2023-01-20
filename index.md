@@ -92,6 +92,15 @@ Tomorrow is another day.
 ```
 
 
+![](https://user-images.githubusercontent.com/101486416/210191967-9028b1b8-eb92-40f0-82b4-0692fb412856.png)
+![](https://user-images.githubusercontent.com/101486416/210191935-d182f892-0802-4993-959c-f85d6d0bc103.png)
+![](https://user-images.githubusercontent.com/101486416/210191950-ca76880b-d01c-436a-ad68-fd3b7044de50.jpg)
+![](https://user-images.githubusercontent.com/101486416/210191955-002db2d2-3f39-4a86-a335-c0e9fda969ea.jpg)
+![](https://user-images.githubusercontent.com/101486416/210191957-af3e9d74-746f-4b83-bd84-feaa8f7442da.jpg)
+![](https://user-images.githubusercontent.com/101486416/210191959-f522661a-0006-46ed-a944-289a8ba266d4.jpg)
+![](https://user-images.githubusercontent.com/101486416/210191960-4e2b5611-365b-472e-b64d-578a4522f2b8.jpg)
+![](https://user-images.githubusercontent.com/101486416/210191963-9c31057b-1335-44ee-b975-b43cefd1f4e3.jpg)
+> 真善美，正确地做正确的事情，和时间做朋友。
 
 ![image](https://user-images.githubusercontent.com/101486416/193951825-2d74ffae-cefe-4531-a394-72c99aebb646.png)
 > “一个人生命中最大的幸运，莫过于在他的人生中途，即在他年富力强的时候发现了自己的使命”。 ——茨威格，《人类群星闪耀时》
