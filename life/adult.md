@@ -47,7 +47,29 @@
 ![image](https://user-images.githubusercontent.com/101486416/205487854-f53eba8f-26e9-4bbe-9cf3-b234d086a71c.png)
 > 兔与龟，虎与羊，金丝猴...
 
-
+![](https://user-images.githubusercontent.com/101486416/206900037-9d8cbe42-a5a8-4366-8917-90763e364fc1.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900041-0475d178-f9b4-468f-9ae4-ab8c345602f4.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900044-c649ae6d-a21c-4298-8716-4e401d63cf4a.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900051-2cfa3780-2a5e-4f74-8d88-b33f7bd2b728.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900060-56af98ce-c27e-4558-8b36-8064c30765e9.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900068-8174523a-9ed0-486c-9d63-3f739632dd23.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900074-7f1bd263-a5df-49fd-aefc-cb7bdd354a11.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900076-562f4af7-0d34-43e7-8483-a7bdd3ffe012.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900077-680c56dd-22db-4f72-abc4-77b50f5ddfb2.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900079-825da805-6040-48e9-b899-704e985220f5.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900082-7429fa18-a2dd-49ca-82c4-8030acfebc83.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900085-ea3874aa-0eeb-4b22-9cc9-7844c4b689d2.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900098-6fcc6122-84a3-4cf5-bd59-05a51156df99.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900113-973e46b2-44f8-451f-8c51-cc8f568ec783.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900127-e8b5c0de-ac29-450a-bdb5-eb660934df94.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900134-211288c8-7363-4020-9d88-fcf0b7cff768.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900144-b43a3291-501c-4365-a104-0bb079b6053b.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900147-b69542e7-fe9e-47aa-ab6d-d4ce96a079b7.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900175-74525c73-6716-4127-8b8e-da9542fda59e.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900192-7e64f83f-df27-43d7-9c02-24670c1ac51a.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900205-e2e0b1d0-0800-4d77-a6a5-149675e9d64a.jpg)
+![](https://user-images.githubusercontent.com/101486416/206900208-f9a1e768-db6d-482c-a990-0734854c23cd.jpg)
+> 守正出奇，跳出来思考，走出去行动
 
 生存法则很简单
 就是忍人所不忍
