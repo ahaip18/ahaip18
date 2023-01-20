@@ -352,3 +352,13 @@ AI 的内容生成，目前就处在这个阶段。为模型搭建一个基本�
 ![](https://user-images.githubusercontent.com/101486416/208052863-3c1b7cc0-6b17-4871-9f3d-46b5429bab79.png)
 > [20年后，你后悔的是那些没做过的事情。所以解开缆绳吧，从避风港启航，让信风推着你的帆。探索。梦想。发现。](https://minecraft.fandom.com/wiki/End_Poem)
 Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
+
+
+![image](https://user-images.githubusercontent.com/101486416/208230905-5325b7f9-4f38-4428-a16e-1802c2d0bba2.png)
+![image](https://user-images.githubusercontent.com/101486416/208230910-3cc2601f-2079-4db3-b6c1-f5dd75855849.png)
+![image](https://user-images.githubusercontent.com/101486416/208230915-bcd5d47d-50cc-4eea-9b44-ed2018ac41ab.png)
+![image](https://user-images.githubusercontent.com/101486416/208230924-12cf3e67-7a9e-4788-9360-010bc040813d.png)
+![image](https://user-images.githubusercontent.com/101486416/208230928-326157b5-2d01-44b5-a741-1b63371601ce.png)
+![image](https://user-images.githubusercontent.com/101486416/208230931-6ad0ae21-5445-49da-9baa-f3a95d0b6fc7.png)
+![image](https://user-images.githubusercontent.com/101486416/208230938-9aa1ec06-37ba-4ede-8c66-52514516270a.png)
+> [投资者偏误](https://www.dedao.cn/course/article?id=bqzNakylrn9WVav0NJ7DOop10vZwLG)
