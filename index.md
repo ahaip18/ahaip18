@@ -6,6 +6,14 @@
 ![image](https://user-images.githubusercontent.com/101486416/213588648-6c89c7eb-4964-4dc8-b62d-d0efa1534710.png)
 > 多阅历，多经历及多创造价值...`多用键盘少用鼠标，多用脑思考少动嘴表达`...
 
+![image](https://user-images.githubusercontent.com/101486416/213594122-67191e03-6fda-4f54-b5bd-0f4ac84617d7.png)
+![image](https://user-images.githubusercontent.com/101486416/213594140-399a45e2-ad1f-49c8-9ed0-e6583eda74b4.png)
+![image](https://user-images.githubusercontent.com/101486416/213594168-fe17948b-6507-4785-b9eb-0f24ced13069.png)
+![image](https://user-images.githubusercontent.com/101486416/213594175-9ac37e3f-942e-4c18-8a51-373ada61760d.png)
+![image](https://user-images.githubusercontent.com/101486416/213594196-65d78e83-66ed-41e6-a95e-799f11180922.png)
+![image](https://user-images.githubusercontent.com/101486416/213594210-4b7115f0-f503-43a7-8098-0950b7f446fa.png)
+![image](https://user-images.githubusercontent.com/101486416/213594215-136b0c4a-effe-4d34-be93-6f61c7b4f01d.png)
+
 ```
 顺序：个人、家人、亲戚、朋友、同事、熟人...
 底层逻辑：
@@ -134,10 +142,9 @@ Tomorrow is another day.
 …
 ```
 
-![image](https://user-images.githubusercontent.com/101486416/212511354-383f6a7c-a257-4d50-9025-cbef3cf3ea7b.png)
-![image](https://user-images.githubusercontent.com/101486416/212511409-483f1fa2-88b5-434f-8ae2-54ec1bf4f23f.png)
 
-[Dunning-Kruger effect](https://www.sohu.com/a/337133984_815382) / “邓宁-克鲁格效应”
+![image](https://user-images.githubusercontent.com/101486416/212511409-483f1fa2-88b5-434f-8ae2-54ec1bf4f23f.png)
+> [Dunning-Kruger effect](https://www.sohu.com/a/337133984_815382) / “邓宁-克鲁格效应”
 
 自信曲线经历四个阶段：`愚昧山峰、绝望之谷、“开悟”之路和自信“高原”`。
 认知水平经历从巨婴到大师的四个阶段，分别是：不知道自己不知道、知道自己不知道、知道自己知道、不知道自己知道。
@@ -249,7 +256,6 @@ Tomorrow is another day.
 ![image](https://user-images.githubusercontent.com/101486416/212517500-0a927bb5-2cab-46ed-bd2a-5227df4d2cad.png)
 ![image](https://user-images.githubusercontent.com/101486416/212517799-7b73898e-b698-42ad-bacb-1ae0ccfad6c0.png)
 ![image](https://user-images.githubusercontent.com/101486416/212517959-cf41e624-ae70-45f9-b976-faba91bb3d4e.png)
-![image](https://user-images.githubusercontent.com/101486416/212519443-231e5cba-c6b3-4e88-b626-b84d4345e8e8.png)
 ![image](https://user-images.githubusercontent.com/101486416/212519460-69b5b2aa-124b-4f3a-84ed-24824d2921a6.png)
 ![image](https://user-images.githubusercontent.com/101486416/212519509-3a359962-7aaf-41a1-acd0-dbe7d7f9accf.png)
 ![image](https://user-images.githubusercontent.com/101486416/212519513-874eac75-f101-4386-a285-8c8ccfb1da9e.png)
@@ -269,7 +275,6 @@ Tomorrow is another day.
 ![image](https://user-images.githubusercontent.com/101486416/212520270-cc61756d-d1ab-41a6-9d97-85a512b541f6.png)
 ![image](https://user-images.githubusercontent.com/101486416/212520272-0b408fc8-a2a9-4dee-9b6d-bda41d325e1a.png)
 ![image](https://user-images.githubusercontent.com/101486416/212520274-ef704582-f136-436f-9508-0553c05d07d0.png)
-
 
 
 ![image](https://user-images.githubusercontent.com/101486416/211189452-a8b301f9-5a79-4c6d-90f9-2b38b8ee6d8c.png)
@@ -351,7 +356,6 @@ Tomorrow is another day.
 [一个普通人，如何定义“思考”和“偏见”呢？](https://www.dedao.cn/course/article?id=zl12vGeNAM0YVpP6P8VdmxjOQBP5oL)
 > 如果你一定要那么问，一定要穷究字词的差别，那我想这么对你说：所有的思考都源自于偏见，区别只是在于思考对应了开放的心态，敢于面对任何挑战，也勇于在事实面前修正先前的结论。而重点在于，你是否能够用不偏不倚的眼光去看待事实。偏见同样是思考的结果，同样也是一种个人见地，但它是有选择地接受事实。当事实支持自己的观点时，就加以吸收承认，用于强化观点。当事实不支持自己的观点时，就采取抗拒和回避的态度，无视事实而去维护自己先前的观点。因此，偏见看起来也像是思考，但是在思考之前结论就已经出现了，那么思考就是装饰性的，并没有任何实际意义。
 
-![](https://user-images.githubusercontent.com/101486416/208227134-8f950ef2-fd26-43a6-b58c-0113a248fa47.png)
 > [不会过时的领导力原则](https://www.dedao.cn/course/article?id=oezW9aA7r8pGX8b31VlY4jRMdvmbEO)
 
 第一，接受现实。拒绝让人不愉快的真相是人之常情，但成功都是在现实基础上发展起来的，谁也不能否认现实。因此，不要自欺欺人，要提倡批判性思维。
@@ -366,7 +370,6 @@ Tomorrow is another day.
 
 第六，别贴标签。类似极端主义分子、温和派这样简单粗暴的标签，往往会加深人与人之间的隔阂。标签的背后是价值判断，把人进行分类会导致偏见。任何形式的偏见都不利于多样性，扼杀了真正的好想法。
 
-![image](https://user-images.githubusercontent.com/101486416/208227159-e0e229c6-f011-44d5-8c49-1ed3d0a41a6b.png)
 > 每个人都有很多面，我也是。“只对行动反应，不被态度激怒。” 理性的三要素是，[有知识，无偏见，合乎逻辑](https://www.dedao.cn/course/article?id=qzk8vQM4oYjrXm5D3Xw6bEOLl5GPxN)
 
 人也是这样。每个人都有很多很多的属性，相当于是“标签”，而没有哪个标签能代表这个人的本质。
@@ -515,7 +518,6 @@ WHY，比WHAT有价值感；HOW，比WHY有价值感。写作之前，你要想�
 
 
 ![](https://user-images.githubusercontent.com/101486416/208214678-d77285fc-482d-4c51-97f9-efab7a5de863.jpg)
-![](https://user-images.githubusercontent.com/101486416/208214726-d039d5e2-6eb0-40ac-b3bb-3a582e0b5814.jpg)
 ![](https://user-images.githubusercontent.com/101486416/208214727-7446774b-607e-4d50-93c9-faeb55428dab.jpg)
 ![](https://user-images.githubusercontent.com/101486416/208214728-aefd7cef-bd26-4ab9-b01c-b584b0076ce7.jpg)
 ![](https://user-images.githubusercontent.com/101486416/208216284-70cc5b1b-d6c0-4aab-9a21-382aeea2eddb.png)
@@ -753,33 +755,8 @@ WHY，比WHAT有价值感；HOW，比WHY有价值感。写作之前，你要想�
 
 第四种偏误，叫“`居中趋势`”。比如说，有很多下属我们并不是很熟悉，但我们在评价打分的时候，一般都不太会把人搞得太惨，所以，我们在给人评价的时候，也不愿意给太低的分。在这种情况下，就会影响优秀员工的心理感受。我前面讲过的开平方乘以十，其实最后就形成了一种评价上的“居中趋势”，我深切地体会过这种心理感受。
 
-
 [心流的成因和特征。](https://www.bjnews.com.cn/detail/163497866114609.html)
 米哈里说：“开始时靠目标证明努力的必要，到后来却变成靠努力证明目标的重要性。”“登上山顶之所以重要，只因它证明了我们爬过山，爬山的过程才是真正的目标。”
-
-![](https://user-images.githubusercontent.com/101486416/206900037-9d8cbe42-a5a8-4366-8917-90763e364fc1.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900041-0475d178-f9b4-468f-9ae4-ab8c345602f4.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900044-c649ae6d-a21c-4298-8716-4e401d63cf4a.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900051-2cfa3780-2a5e-4f74-8d88-b33f7bd2b728.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900060-56af98ce-c27e-4558-8b36-8064c30765e9.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900068-8174523a-9ed0-486c-9d63-3f739632dd23.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900074-7f1bd263-a5df-49fd-aefc-cb7bdd354a11.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900076-562f4af7-0d34-43e7-8483-a7bdd3ffe012.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900077-680c56dd-22db-4f72-abc4-77b50f5ddfb2.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900079-825da805-6040-48e9-b899-704e985220f5.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900082-7429fa18-a2dd-49ca-82c4-8030acfebc83.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900085-ea3874aa-0eeb-4b22-9cc9-7844c4b689d2.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900098-6fcc6122-84a3-4cf5-bd59-05a51156df99.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900113-973e46b2-44f8-451f-8c51-cc8f568ec783.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900127-e8b5c0de-ac29-450a-bdb5-eb660934df94.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900134-211288c8-7363-4020-9d88-fcf0b7cff768.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900144-b43a3291-501c-4365-a104-0bb079b6053b.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900147-b69542e7-fe9e-47aa-ab6d-d4ce96a079b7.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900175-74525c73-6716-4127-8b8e-da9542fda59e.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900192-7e64f83f-df27-43d7-9c02-24670c1ac51a.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900205-e2e0b1d0-0800-4d77-a6a5-149675e9d64a.jpg)
-![](https://user-images.githubusercontent.com/101486416/206900208-f9a1e768-db6d-482c-a990-0734854c23cd.jpg)
-> 守正出奇，跳出来思考，走出去行动
 
 [《爱的艺术》](https://book.douban.com/subject/5991872/)
 ![](https://user-images.githubusercontent.com/101486416/206902086-e7bb57d3-1b63-47bb-b754-036f49f84a11.png)
@@ -1022,15 +999,6 @@ WHY，比WHAT有价值感；HOW，比WHY有价值感。写作之前，你要想�
 
 所以，要真正避免偏见，最重要的是保持一个人的独立思考、理性思考和反思自己观点的能力。尤其是当我们听到的都是和自己同样的声音，这时我们要特别警惕，很可能这并不意味着我们是正确的，而是有可能会让我们产生偏见、固化偏见。
 
-![image](https://user-images.githubusercontent.com/101486416/208230905-5325b7f9-4f38-4428-a16e-1802c2d0bba2.png)
-![image](https://user-images.githubusercontent.com/101486416/208230910-3cc2601f-2079-4db3-b6c1-f5dd75855849.png)
-![image](https://user-images.githubusercontent.com/101486416/208230915-bcd5d47d-50cc-4eea-9b44-ed2018ac41ab.png)
-![image](https://user-images.githubusercontent.com/101486416/208230924-12cf3e67-7a9e-4788-9360-010bc040813d.png)
-![image](https://user-images.githubusercontent.com/101486416/208230928-326157b5-2d01-44b5-a741-1b63371601ce.png)
-![image](https://user-images.githubusercontent.com/101486416/208230931-6ad0ae21-5445-49da-9baa-f3a95d0b6fc7.png)
-![image](https://user-images.githubusercontent.com/101486416/208230938-9aa1ec06-37ba-4ede-8c66-52514516270a.png)
-> [投资者偏误](https://www.dedao.cn/course/article?id=bqzNakylrn9WVav0NJ7DOop10vZwLG)
-
 ![image](https://user-images.githubusercontent.com/101486416/208230681-02143ff7-1a61-4283-9c01-3bc1aa345aed.png)
 > [一个人可能在价值观上是反对歧视的，但是在潜意识里却有偏见](https://www.dedao.cn/course/article?id=Q8dpgOa54NZMVzmjBgKByzxkwYm2Rl)。不要根据顾客的外貌去判断对方，而是要不断告诫自己，每一个走进店里的顾客，买车的概率是相同的。你需要在自己所处的环境中，更多地去接触不同的人群，去了解他们的文化，了解他们积极的一面。你所处的环境变化了，你的潜意识也会随之变化。
 
@@ -1140,7 +1108,6 @@ WHY，比WHAT有价值感；HOW，比WHY有价值感。写作之前，你要想�
 #### [字体](/tech/font.md)
 #### [拍照](/tech/camera.md)
 #### [MD](/tech/markdown.md)
-![image](https://user-images.githubusercontent.com/101486416/211179334-cf9c8ec8-ca07-432d-b5ad-b89a2350be41.png)
 
 ### 商业
 #### [投资](/business/investment.md)
