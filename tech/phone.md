@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/101486416/213703026-9a814fa7-98ec-42df-8fb1-67e9bf05cad7.png)
+![image](https://user-images.githubusercontent.com/101486416/213703027-3b2aca07-8f2e-426c-bb1e-8e2d829a1f0f.png)
+> [utools](https://u.tools)
+
 [最大的机会来自新技术](https://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html)
 
 上周六是 iPhone 诞生十五周年。 2007年1月9日，乔布斯从口袋里掏出一个小玩意，对着全世界说，今天苹果公司重新发明了电话。
@@ -96,17 +100,6 @@ T* 指 “Transmission Layer” 通光层，蔡司 T* 镀膜可增强可见光�
 
 ![](https://user-images.githubusercontent.com/101486416/211178564-fa1ff48e-7f8c-48c5-89e2-cd579611e387.png)
 > [用户对于产品的口碑，最终来源于实际应用](https://www.geekpark.net/news/313065)。炫酷层面的东西，终究是递减的，一块大屏对你的冲击力，在你拿到它的一瞬间就到达巅峰，往后就不断衰减，直到散去。但「品质感」会累积，那些深入细节的优化，让人越用越喜欢，越用越回不去。
-
-
-![](https://user-images.githubusercontent.com/101486416/210191967-9028b1b8-eb92-40f0-82b4-0692fb412856.png)
-![](https://user-images.githubusercontent.com/101486416/210191935-d182f892-0802-4993-959c-f85d6d0bc103.png)
-![](https://user-images.githubusercontent.com/101486416/210191950-ca76880b-d01c-436a-ad68-fd3b7044de50.jpg)
-![](https://user-images.githubusercontent.com/101486416/210191955-002db2d2-3f39-4a86-a335-c0e9fda969ea.jpg)
-![](https://user-images.githubusercontent.com/101486416/210191957-af3e9d74-746f-4b83-bd84-feaa8f7442da.jpg)
-![](https://user-images.githubusercontent.com/101486416/210191959-f522661a-0006-46ed-a944-289a8ba266d4.jpg)
-![](https://user-images.githubusercontent.com/101486416/210191960-4e2b5611-365b-472e-b64d-578a4522f2b8.jpg)
-![](https://user-images.githubusercontent.com/101486416/210191963-9c31057b-1335-44ee-b975-b43cefd1f4e3.jpg)
-> 真善美，正确地做正确的事情，和时间做朋友。
 
 ![image](https://user-images.githubusercontent.com/101486416/208282891-d556bb74-dc6f-446d-a217-7ca6073a8523.png)
 ![](https://user-images.githubusercontent.com/101486416/208282797-71b95c1d-fd62-4bf5-b9ed-ce9a022631f3.png)
