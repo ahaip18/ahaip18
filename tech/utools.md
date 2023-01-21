@@ -146,7 +146,6 @@ uTools 为商业软件，暂无开源计划。
 <br/>
 
 # 参考
-
 1. [知乎 hi utools](https://www.zhihu.com/column/c_1048180329566838784)
 2. [uTools 插件介绍 | 色彩助手](https://zhuanlan.zhihu.com/p/333645024)
 3. [这些 uTools 内置功能你知道嘛？](https://zhuanlan.zhihu.com/p/328460063)
