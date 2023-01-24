@@ -1139,6 +1139,7 @@ WHY，比WHAT有价值感；HOW，比WHY有价值感。写作之前，你要想�
 
 ### 生活
 #### [手机](/life/phone.md)
+#### [写作](/life/write.md)
 #### [问题](/life/problem.md)
 #### [成年人](/life/adult.md)
 
