@@ -4,7 +4,7 @@
 > 人的本质就是一段时间，和时间做朋友，因相信而看见，是爱和信任让生活变得更加美好！有事做，忙一点，挺好，微笑面对，淡然于心，`当下自己理性沉浸`...
 
 ![image](https://user-images.githubusercontent.com/101486416/213588648-6c89c7eb-4964-4dc8-b62d-d0efa1534710.png)
-> 多阅历，多经历及多创造价值...`多用键盘少用鼠标，多用脑思考少动嘴表达`...
+> 多阅历，多经历及多创造价值...`多用键盘少用鼠标，多用脑思考少动嘴表达`...实事求是，具体情况具体分析...
 
 ![image](https://user-images.githubusercontent.com/101486416/213594122-67191e03-6fda-4f54-b5bd-0f4ac84617d7.png)
 ![image](https://user-images.githubusercontent.com/101486416/213594140-399a45e2-ad1f-49c8-9ed0-e6583eda74b4.png)
@@ -25,7 +25,8 @@ HWPM、
 第三选择（协作共赢）、
 人生算法（MVP、概率思维）、
 刻意练习、
-飞轮效应
+飞轮效应、
+定位（结构洞）
 ```
 
 ![image](https://user-images.githubusercontent.com/101486416/213916089-2e59c6b2-efe1-4dde-ba6b-f9fad50b25aa.png)
@@ -64,6 +65,13 @@ Tomorrow is another day.
 理不足则多辩
 情不足则多仪
 ```
+
+![image](https://user-images.githubusercontent.com/101486416/214183701-e8d4aa9f-1701-4b78-b44f-f86a6e265513.png)
+![image](https://user-images.githubusercontent.com/101486416/214183714-0dda870b-560c-4a56-bb72-52388f594fe6.png)
+![image](https://user-images.githubusercontent.com/101486416/214183741-73941b03-5865-43e2-993d-b0181105dec4.png)
+![image](https://user-images.githubusercontent.com/101486416/214183774-a872fb9b-4930-4dfa-8186-7560b00dd6e9.png)
+![image](https://user-images.githubusercontent.com/101486416/214183865-e4aec6e8-ab7d-459a-94a5-7fe037c56c7f.png)
+![image](https://user-images.githubusercontent.com/101486416/214183943-176a0a20-6b71-4c12-ade9-50d1bc399361.png)
 
 
 ```
