@@ -1132,6 +1132,7 @@ WHY，比WHAT有价值感；HOW，比WHY有价值感。写作之前，你要想�
 ### 科技
 #### [手机](/tech/phone.md)
 #### [手表](/tech/watch.md)
+#### [Mac配件](/tech/magic.md)
 #### [元宇宙](/tech/meta.md)
 #### [字体](/tech/font.md)
 #### [拍照](/tech/camera.md)
