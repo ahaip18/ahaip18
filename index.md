@@ -31,6 +31,9 @@ HWPM、
 定位（结构洞）
 ```
 
+![image](https://user-images.githubusercontent.com/101486416/214523595-a1b4b5d9-fb73-4fe2-94cf-ce1918c1840b.png)
+> 有限生命，无限游戏，好好`玩`...
+
 ![image](https://user-images.githubusercontent.com/101486416/213916089-2e59c6b2-efe1-4dde-ba6b-f9fad50b25aa.png)
 
 1. 当下、自己、任务（价值创造）/成长；
