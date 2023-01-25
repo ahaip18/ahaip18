@@ -24,12 +24,10 @@
 ![image](https://user-images.githubusercontent.com/101486416/214457481-0562d342-150d-4d86-8194-de69f9aaf070.png)
 ![image](https://user-images.githubusercontent.com/101486416/214457487-4405fc9c-4e57-4913-81a2-4022d0a5c29e.png)
 ![image](https://user-images.githubusercontent.com/101486416/214457475-336413ee-279f-42f5-a787-f3648fe8b792.png)
+> [售价 2999 元 / 1999 元起，苹果官方解读 Apple Watch Series 8 和新款 Apple Watch SE](https://www.ithome.com/0/639/679.htm)
 
 ![image](https://user-images.githubusercontent.com/101486416/214481260-cef0722b-3200-45ef-816f-d21635f6fd01.png)
 ![image](https://user-images.githubusercontent.com/101486416/214481490-97e490b8-ec5a-4d2e-a330-e0c12ef133e8.png)
-![Uploading image.png…]()
-![Uploading image.png…]()
-> [售价 2999 元 / 1999 元起，苹果官方解读 Apple Watch Series 8 和新款 Apple Watch SE](https://www.ithome.com/0/639/679.htm)
 
 ## 参考
 
