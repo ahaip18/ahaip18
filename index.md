@@ -5,6 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/101486416/213588648-6c89c7eb-4964-4dc8-b62d-d0efa1534710.png)
 ![image](https://user-images.githubusercontent.com/101486416/214266611-f1c92500-2049-4614-8cb6-cab2846e4353.png)
+![image](https://user-images.githubusercontent.com/101486416/214475814-758ea9aa-88ed-4ce6-a607-54cccc35e86e.png)
 > 多阅历，多经历及多创造价值...`多用键盘少用鼠标，多用脑思考少动嘴表达`...实事求是，具体情况具体分析...`人事分离，就事论事，对事不对人，实事求是`...
 
 ![image](https://user-images.githubusercontent.com/101486416/213594122-67191e03-6fda-4f54-b5bd-0f4ac84617d7.png)
