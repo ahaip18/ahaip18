@@ -25,9 +25,13 @@
 ![image](https://user-images.githubusercontent.com/101486416/214457487-4405fc9c-4e57-4913-81a2-4022d0a5c29e.png)
 ![image](https://user-images.githubusercontent.com/101486416/214457475-336413ee-279f-42f5-a787-f3648fe8b792.png)
 
-![Uploading image.png…]()
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/101486416/214481260-cef0722b-3200-45ef-816f-d21635f6fd01.png)
+![image](https://user-images.githubusercontent.com/101486416/214481490-97e490b8-ec5a-4d2e-a330-e0c12ef133e8.png)
 ![Uploading image.png…]()
 ![Uploading image.png…]()
 > [售价 2999 元 / 1999 元起，苹果官方解读 Apple Watch Series 8 和新款 Apple Watch SE](https://www.ithome.com/0/639/679.htm)
 
+## 参考
+
+1. [Apple Watch必装的十款APP](https://zhuanlan.zhihu.com/p/361431397?ivk_sa=1024320u&utm_id=0)
+2. [空气投篮](https://www.zhihu.com/question/29824961/answers/updated)
