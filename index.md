@@ -1154,4 +1154,12 @@ WHY，比WHAT有价值感；HOW，比WHY有价值感。写作之前，你要想�
 #### [问题](/life/problem.md)
 #### [成年人](/life/adult.md)
 
+![image](https://user-images.githubusercontent.com/101486416/215028909-2f32d5ec-392e-43da-8c27-245c4b524022.png)
+![image](https://user-images.githubusercontent.com/101486416/215028930-54267a59-c22d-42df-95ca-a024c219fc01.png)
+![image](https://user-images.githubusercontent.com/101486416/215028973-79abc6f5-c673-41dd-b96e-72abe8f9c146.png)
+![image](https://user-images.githubusercontent.com/101486416/215029004-7d1fd21f-da0d-4de4-bcbb-446474193508.png)
+![image](https://user-images.githubusercontent.com/101486416/215029029-b872e0f1-495c-439a-bee1-a2b8310d926a.png)
+![image](https://user-images.githubusercontent.com/101486416/215029043-49c32603-7428-4faa-afc0-62e6b4f42db4.png)
+> ahaip: `keep running...`
+
 ![Alt](https://repobeats.axiom.co/api/embed/5694f8a5725db3353a697fd63a6a2c34fc8bd3a6.svg "Repobeats analytics image")
