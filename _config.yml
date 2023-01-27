@@ -4,3 +4,77 @@ theme: jekyll-theme-minimal
 # logo: https://user-images.githubusercontent.com/101486416/194176094-b3d50290-fc24-44db-a27b-08ff39099a96.png
 logo: https://user-images.githubusercontent.com/101486416/213594975-24a1ea1e-8a9b-4485-9973-63d9b9f335c8.png
 
+# Name of website
+title: Aha, IP.
+
+# Name of your site (displayed in the header)
+name: Aha, IP.
+
+# Short bio or description (displayed in the header)
+description: Aha, IP.
+
+# Your name to show in the footer
+author: AhaIP
+
+# Site Author
+author:
+  name             : AhaIP
+  avatar           : https://user-images.githubusercontent.com/101486416/213594975-24a1ea1e-8a9b-4485-9973-63d9b9f335c8.png
+  bio              : Player
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: https://user-images.githubusercontent.com/101486416/213594975-24a1ea1e-8a9b-4485-9973-63d9b9f335c8.png
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: true
+
+# Small icon of Your site | 站点小图标地址
+# favicon: img/favicon.png
+
+# avatar: https://cdn.jsdelivr.net/gh/code-13/cloudimage/images/avatar.jpg # 网站 Logo
+background: # 既是博客的背景，又是文章默认头图
+  path: https://cdn.jsdelivr.net/gh/code-13/cloudimage/images/20200708225124.png
+  width: 1440
+  height: 960
+favicon:
+  href: https://cdn.jsdelivr.net/gh/code-13/cloudimage/images/avatar.jpg # 网站图标
+  type: image/x-icon # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
+
+# copyright: '<strong>版权声明：</strong>本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh" target="_blank">CC BY-NC-SA 3.0 CN</a> 协议进行许可'
+# copyTip: "著作权归作者所有。\n商业转载请联系作者获得授权，非商业转载请注明出处。\n来源：%url" # 自定义复制版权文案,使用 %url 代替当前页面URL, 修改为false禁用
+
+# Whether to activate the copyright information of the blog and author when copying the post content.
+# minCharNumber: Approve copyright information by copying at least how many characters.
+# 是否激活复制文章时追加博客和作者的版权信息.
+copyright:
+  enable: true
+  minCharNumber: 120 # 至少复制多少个字符就追加版权信息.
+  description: 本文章著作权归作者所有，任何形式的转载都请注明出处。
+
+# Select the social network links that you want to show in the footer.
+# Uncomment the links you want to show and add your information to each one.
+social-network-links:
+  email: "someone@example.com"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  
+# If you want your website to generate an RSS feed, provide a description
+# The URL for the feed will be https://<your_website>/feed.xml
+rss-description: aha, ip.
+
+# Personalize the colours in your website. Colour values can be any valid CSS colour
+
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
+
+# 参考 https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
+# 参考 https://github.com/mhart/blog/blob/master/_blog.config.yml
