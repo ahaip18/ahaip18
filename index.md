@@ -1132,6 +1132,9 @@ WHY，比WHAT有价值感；HOW，比WHY有价值感。写作之前，你要想�
 ### 法律
 #### [知识产权](/law/ipr.md)
 #### [公共关系](/law/pr.md)
+#### [趋势](/law/trend.md)
+#### [SEP](/law/SEP.md)
+
 
 ### 科技
 #### [手机](/tech/phone.md)
