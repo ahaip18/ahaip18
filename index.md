@@ -1160,6 +1160,7 @@ WHY，比WHAT有价值感；HOW，比WHY有价值感。写作之前，你要想�
 ![image](https://user-images.githubusercontent.com/101486416/215029004-7d1fd21f-da0d-4de4-bcbb-446474193508.png)
 ![image](https://user-images.githubusercontent.com/101486416/215029029-b872e0f1-495c-439a-bee1-a2b8310d926a.png)
 ![image](https://user-images.githubusercontent.com/101486416/215029043-49c32603-7428-4faa-afc0-62e6b4f42db4.png)
+![image](https://user-images.githubusercontent.com/101486416/215030074-bde6223a-f3fb-4e89-b29f-72d807f6c693.png)
 > ahaip: `keep running...`
 
 ![Alt](https://repobeats.axiom.co/api/embed/5694f8a5725db3353a697fd63a6a2c34fc8bd3a6.svg "Repobeats analytics image")
