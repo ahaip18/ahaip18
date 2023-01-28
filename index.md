@@ -1,7 +1,11 @@
 # AhaIP
 
 ![](https://user-images.githubusercontent.com/101486416/211178976-f856459e-78cc-4428-bdf1-275bbd70f33b.png)
-> 人的本质就是一段时间，和时间做朋友，因相信而看见，是爱和信任让生活变得更加美好！有事做，忙一点，挺好，微笑面对，淡然于心，`当下自己理性沉浸`...
+> 人的本质就是一段时间，和时间做朋友，因相信而看见，是爱和信任让生活变得更加美好！有事做，忙一点，挺好，微笑面对，淡然于心...
+
+![image](https://user-images.githubusercontent.com/101486416/215253581-39ef3ea2-8e26-4726-9f64-23db1f95a7e3.png)
+![image](https://user-images.githubusercontent.com/101486416/215253577-477d8f2b-a4e4-4f3a-9ed7-dde7c6bff291.png)
+> `当下自己理性沉浸`...
 
 ![image](https://user-images.githubusercontent.com/101486416/213588648-6c89c7eb-4964-4dc8-b62d-d0efa1534710.png)
 ![image](https://user-images.githubusercontent.com/101486416/214266611-f1c92500-2049-4614-8cb6-cab2846e4353.png)
