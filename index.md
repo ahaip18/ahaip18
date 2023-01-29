@@ -8,7 +8,6 @@
 > `当下自己理性沉浸`...
 
 ![image](https://user-images.githubusercontent.com/101486416/213588648-6c89c7eb-4964-4dc8-b62d-d0efa1534710.png)
-![image](https://user-images.githubusercontent.com/101486416/214266611-f1c92500-2049-4614-8cb6-cab2846e4353.png)
 ![image](https://user-images.githubusercontent.com/101486416/214475814-758ea9aa-88ed-4ce6-a607-54cccc35e86e.png)
 > 多阅历，多经历及多创造价值...`多用键盘少用鼠标，多用脑思考少动嘴表达`...实事求是，具体情况具体分析...`人事分离，就事论事，对事不对人，实事求是`...
 
@@ -115,8 +114,6 @@ Tomorrow is another day.
 12. 正确地做正确的事，复利，睡后收入...
 ```
 
-
-![](https://user-images.githubusercontent.com/101486416/210191967-9028b1b8-eb92-40f0-82b4-0692fb412856.png)
 ![](https://user-images.githubusercontent.com/101486416/210191935-d182f892-0802-4993-959c-f85d6d0bc103.png)
 ![](https://user-images.githubusercontent.com/101486416/210191950-ca76880b-d01c-436a-ad68-fd3b7044de50.jpg)
 ![](https://user-images.githubusercontent.com/101486416/210191955-002db2d2-3f39-4a86-a335-c0e9fda969ea.jpg)
@@ -352,23 +349,6 @@ Tomorrow is another day.
 最后结果价值
 不争一时高低
 ```
-
-底层逻辑/原则
-
-![](https://user-images.githubusercontent.com/101486416/208214678-d77285fc-482d-4c51-97f9-efab7a5de863.jpg)
-![](https://user-images.githubusercontent.com/101486416/208214727-7446774b-607e-4d50-93c9-faeb55428dab.jpg)
-![](https://user-images.githubusercontent.com/101486416/208214728-aefd7cef-bd26-4ab9-b01c-b584b0076ce7.jpg)
-![](https://user-images.githubusercontent.com/101486416/208216284-70cc5b1b-d6c0-4aab-9a21-382aeea2eddb.png)
-![](https://user-images.githubusercontent.com/101486416/208216461-4dd770bd-2798-4563-a18f-7be21be2e109.jpg)
-![](https://user-images.githubusercontent.com/101486416/208216465-818e3ae6-b59e-49f2-83ce-78fe6dddf05f.jpg)
-![](https://user-images.githubusercontent.com/101486416/208216470-234332f1-7745-4f08-8b33-f502df2922a4.jpg)
-![](https://user-images.githubusercontent.com/101486416/208216473-f7a6e420-fdbb-4d28-9845-200b0464b123.jpg)
-> 要想达成目标，最重要的是拥有一种以原则为基础的工作和生活方式，用绝对理性的态度来应对这个复杂的世界。本质上，原则只能来自于自己的“痛苦加反思”。正是这一次错误，才让他进行了彻底的反思，让他的思维从认为“我是对的”变成思考“我怎么知道我是对的”，让自己变得更加理性。只有从自己的错误中不断反思，把感性的经验总结成理性的总结，才能形成属于自己的原则，成为一个“专业的犯错者”。
-
-![](https://user-images.githubusercontent.com/101486416/205488081-53dec8ee-9b5b-4db1-9c4a-844759c5f7a8.png)
-![](https://user-images.githubusercontent.com/101486416/205488087-563fce50-5889-48f6-a17f-83cf75ce23db.png)
-![](https://user-images.githubusercontent.com/101486416/205488294-034eff56-7bea-4dca-8582-3dd35d0acec1.png)
-> 暂时的、动态的、团队的...驾驭欲望与情绪
 
 ![](https://user-images.githubusercontent.com/101486416/206841982-4ba7aee1-d5d8-4314-8018-326d2cbcf9de.png)
 > [1043](https://www.dedao.cn/course/article?id=R2Mo65zY4QZ3Vnm3A7KqEdNAa98jGB) 普朗克长度，是物理学在理论上能够测量的最短距离；光速，是信息传递的最快速度。所以普朗克时间，是任何物理过程，被任何仪器测量感知到所需要的最起码时间。
