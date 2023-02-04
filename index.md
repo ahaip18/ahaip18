@@ -1,7 +1,14 @@
 # AhaIP
 
 ![](https://user-images.githubusercontent.com/101486416/211178976-f856459e-78cc-4428-bdf1-275bbd70f33b.png)
+![](https://user-images.githubusercontent.com/101486416/216754660-aed411e4-2763-4810-8be1-c13656a3fb05.png)
 > 人的本质就是一段时间，和时间做朋友，因相信而看见，是爱和信任让生活变得更加美好！有事做，忙一点，挺好，微笑面对，淡然于心...
+
+![](https://user-images.githubusercontent.com/101486416/216754529-b3c99fdd-1d4b-417d-ac71-e4b3237326a4.png)
+> 在一个充满不确定性的世界中，我们需要寻求一定的确定性，这是人的本性，我们愿意为此付出代价。但是，这种确定性终究是短暂的，这是世界的本性。过分追逐不可能的确定性，会让我们陷入“[成功剧场](https://maimai.cn/article/detail?fid=1652896824&efid=U8LzYin3CnuGi-VhBYV_Vg)”的坑里，也难以抓住面向未来的机会。因此，`不能用确定性的思路，来解决不确定性的问题`。——《[熄灯：傲慢、妄想和通用电气的没落](https://book.douban.com/subject/35158946/)》（Lights Out: Pride, Delusion, and the Fall of General Electric）
+
+![](https://user-images.githubusercontent.com/101486416/216755348-e1ca4fc8-56e7-46c0-b6cf-147a931b5227.png)
+> 实事求是、暴露问题、直面问题、解决问题，让企业的表、里两个故事尽可能接近，走上真正的长期主义道路。
 
 ![image](https://user-images.githubusercontent.com/101486416/215253581-39ef3ea2-8e26-4726-9f64-23db1f95a7e3.png)
 ![sea4](https://user-images.githubusercontent.com/101486416/216751229-1368e801-ddab-424c-9f85-775c84526d1f.jpg)
@@ -77,7 +84,27 @@
 
 [价值](https://wiki.mbalib.com/wiki/%E4%BB%B7%E5%80%BC)是凝结在商品中的无差别的人类劳动或抽象的人类劳动。
 
-![image](https://user-images.githubusercontent.com/101486416/216754142-9b9f6ee2-6369-43a9-9b7a-1ac65004c80f.png)
+![](https://user-images.githubusercontent.com/101486416/216754814-3cac7c43-bc0a-4a4f-be2a-a237be006cf3.png)
+> 现代京剧[《风华正茂》](https://www.sohu.com/a/491411092_120005162)
+
+[My first big takeaway](https://finance.sina.com.cn/stock/usstock/c/2021-06-19/doc-ikqciyzk0619282.shtml) is that one of GE’s greatest apparent strengths was actually one of its greatest weaknesses． For many years， investors loved GE’s stock because the GE management team always “made their numbers”—that is， the company produced earnings per share at least as large as what Wall Street analysts predicted． It turns out that culture of making the numbers at all costs gave rise to “`success theater`” and “chasing earnings．” In Gryta and Mann’s words， “`Problems were hidden for the sake of preserving performance， thus allowing small problems to become big problems before they were detected．`”
+
+我的第一个重大领悟是：通用电气最大的优势之一，实际上也是它最大的弱点之一。多年来，投资人都青睐通用电气的股票，因为它的管理团队总是能“说到做到”——也就是说，通用电气的每股收益总是能符合、甚至超出华尔街分析师的预测。这种不惜一切代价保住数字的企业文化，催生了粉饰业绩的“`成功剧场`”和对收益的盲目追求。用格里塔和曼恩的话来说，“`为了维持表面的光鲜亮丽，问题被掩盖起来，使得小问题在被发现之前演变成了大问题。`”
+
+![](https://user-images.githubusercontent.com/101486416/216754142-9b9f6ee2-6369-43a9-9b7a-1ac65004c80f.png)
+
+[当企业有两个不同故事时](https://maimai.cn/article/detail?fid=1652896824&efid=U8LzYin3CnuGi-VhBYV_Vg)，一定会在未来的某个时点，两个故事需要“对簿公堂”。当“审判日”那一天到来时，把业绩放在能力建设之前、由结果倒推“表面能力”的公司，就得把以前欠的都补上。而把能力建设放在业绩之前、由真实能力产生结果的公司，每一年都会心里有底。当我们说长期主义的时候，就是指后者。
+投资者会给确定性付一定的溢价，但如果企业追求没有能力支撑的、虚幻出来的确定性，反而会持续累积不确定性，最终会以戏剧性的方式爆发收场，就像烟花一样幻灭。
+在了解了这两个故事后，我们再看《熄灯》一书中提到的“成功剧场”，对于为什么这是一个极其有害的事情，就会有更深的理解。
+
+> 成功剧场，是指`在工作中演戏、报喜不报忧、看破不说破、博印象分`。这个词是《精益创业》一书的作者埃里克·莱斯提出的，是指那些为了`让我们看起来成功但实际上并非如此的行动和投入`。比如，为了证明自己正确，选择性地采用那些证明自己对的数据，而忽视那些“不利”的数据。这么做的时候，关注的不是实事求是、解决问题，而是`自我催眠、印象管理，背后的驱动力其实是恐惧`。
+
+在一个不管如何都要满足资本市场预期的企业中，在一个执行文化根深蒂固的组织中，使命必达是必须的，否则就得换人。在这种大环境里，本来应该讨论战略、制定策略的会议，往往变成上传下达、明确目标的会议；本来应该各抒己见、开放讨论的氛围，往往变成强调达成共识、单向宣贯的氛围；本来有正面价值的不同意见，被当成负面的不同心同德。这个场景听起来熟悉，是因为它是跨文化、跨时代的，哪个国家都有、哪个年代都有，是普世的。这样的企业，随着时间的推移，内外两个故事的距离越来越远，以后“对簿公堂”的时候就会越动荡。
+我没有和杰克·韦尔奇或杰夫·伊梅尔特开过会，但是和他们曾经的长期顾问拉姆·查兰开过几次。十几年前我就读了一些查兰的管理畅销书，比如《执行》、《领导梯队》等，对他非常尊敬。因此，几年前参加查兰主持的战略研讨会时，我有很大的期待。他的方式是，先提出一些问题，请大家思考后每个人轮流表达自己的观点，然后总结并进一步推进。
+这个方式本身没有什么问题，但我逐渐发现查兰其实是有预设答案的。他会在大家提出的观点中，寻找与预设答案一致的那些而忽视其他。对于更为细致的一些基于数据的分析，也选择视而不见。同时，如果对他的答案有反对意见的，则会使用各种方式说服和解决，来达成“共识”。
+当时我的感觉很不好。这种讨论方式，让我一度认为查兰缺乏认知上的理智诚实（intellectual honesty），是有意识的行为。直到我知道GE的“成功剧场”后，才理解背后的道理。
+查兰的会议讨论方式，其实就是在导演一个成功剧场。在那里，共识的假象比真正的探讨更重要。我们以前在会议中通过开放讨论甚至激烈争论，以此来提高决策质量；而同样称之为战略研讨的会议，在成功剧场中则变成了一场表演。
+现在想来，也许查兰并不认为这是表演，只是真诚地认为好的战略会议就应该那样开，是`一种无意识的习惯`。在《熄灯》一书中，类似的场景比比皆是。
 
 
 ## 闭环
