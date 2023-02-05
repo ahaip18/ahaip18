@@ -2,7 +2,8 @@
 
 ![](https://user-images.githubusercontent.com/101486416/211178976-f856459e-78cc-4428-bdf1-275bbd70f33b.png)
 ![](https://user-images.githubusercontent.com/101486416/216754660-aed411e4-2763-4810-8be1-c13656a3fb05.png)
-> 人的本质就是一段时间，和时间做朋友，因相信而看见，是爱和信任让生活变得更加美好！有事做，忙一点，挺好，微笑面对，淡然于心...
+> 人的本质就是一段时间，和时间做朋友，因相信而看见，是`爱和信任`让生活变得更加美好！有事做，忙一点，挺好，微笑面对，淡然于心...
+> `当下自己理性沉浸，身先士卒，沟通、执行及协作，聚焦价值创造及闭环`...
 
 ![](https://user-images.githubusercontent.com/101486416/216754529-b3c99fdd-1d4b-417d-ac71-e4b3237326a4.png)
 > 在一个充满不确定性的世界中，我们需要寻求一定的确定性，这是人的本性，我们愿意为此付出代价。但是，这种确定性终究是短暂的，这是世界的本性。过分追逐不可能的确定性，会让我们陷入“[成功剧场](https://maimai.cn/article/detail?fid=1652896824&efid=U8LzYin3CnuGi-VhBYV_Vg)”的坑里，也难以抓住面向未来的机会。因此，`不能用确定性的思路，来解决不确定性的问题`。——《[熄灯：傲慢、妄想和通用电气的没落](https://book.douban.com/subject/35158946/)》（Lights Out: Pride, Delusion, and the Fall of General Electric）
@@ -12,10 +13,6 @@
 ![](https://user-images.githubusercontent.com/101486416/216798044-d83df4d5-4da6-4c3b-a2cc-8fdc44faa3f5.png)
 ![](https://user-images.githubusercontent.com/101486416/213594168-fe17948b-6507-4785-b9eb-0f24ced13069.png)
 > 实事求是、暴露问题、直面问题、解决问题，让企业的表、里两个故事尽可能接近，走上真正的长期主义道路。
-
-![image](https://user-images.githubusercontent.com/101486416/215253581-39ef3ea2-8e26-4726-9f64-23db1f95a7e3.png)
-![sea4](https://user-images.githubusercontent.com/101486416/216751229-1368e801-ddab-424c-9f85-775c84526d1f.jpg)
-> `当下自己理性沉浸，身先士卒，沟通、执行及协作，聚焦价值创造及闭环`...
 
 ## 定位
 
@@ -123,6 +120,9 @@
 [PDCA循环](https://baike.baidu.com/item/PDCA%E5%BE%AA%E7%8E%AF/5091521)是美国质量管理专家沃特·阿曼德·休哈特（Walter A. Shewhart）首先提出的，由戴明采纳、宣传，获得普及，所以又称戴明环。`全面质量管理的思想基础和方法依据就是PDCA循环`。PDCA循环的含义是将质量管理分为四个阶段，即Plan（计划）、Do（执行）、Check（检查）和 Act（处理）。在质量管理活动中，要求把各项工作按照作出计划、计划实施、检查实施效果，然后将成功的纳入标准，不成功的留待下一循环去解决。这一工作方法是质量管理的基本方法，也是企业管理各项工作的一般规律。
 
 ## 简洁
+
+![](https://user-images.githubusercontent.com/101486416/215253581-39ef3ea2-8e26-4726-9f64-23db1f95a7e3.png)
+![](https://user-images.githubusercontent.com/101486416/216751229-1368e801-ddab-424c-9f85-775c84526d1f.jpg)
 
 [简明扼要](https://baike.baidu.com/item/%E7%AE%80%E6%98%8E%E6%89%BC%E8%A6%81/4656975)，抓住要点，指简单明了。
 毛泽东《党委会的工作方法》：“讲话、演说、写文章和写决议案，都应当简明扼要。”
