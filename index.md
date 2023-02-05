@@ -8,6 +8,9 @@
 > 在一个充满不确定性的世界中，我们需要寻求一定的确定性，这是人的本性，我们愿意为此付出代价。但是，这种确定性终究是短暂的，这是世界的本性。过分追逐不可能的确定性，会让我们陷入“[成功剧场](https://maimai.cn/article/detail?fid=1652896824&efid=U8LzYin3CnuGi-VhBYV_Vg)”的坑里，也难以抓住面向未来的机会。因此，`不能用确定性的思路，来解决不确定性的问题`。——《[熄灯：傲慢、妄想和通用电气的没落](https://book.douban.com/subject/35158946/)》（Lights Out: Pride, Delusion, and the Fall of General Electric）
 
 ![](https://user-images.githubusercontent.com/101486416/216755348-e1ca4fc8-56e7-46c0-b6cf-147a931b5227.png)
+![](https://user-images.githubusercontent.com/101486416/216798042-ef7d1304-d092-40ff-8132-da71a2f06892.png)
+![](https://user-images.githubusercontent.com/101486416/216798044-d83df4d5-4da6-4c3b-a2cc-8fdc44faa3f5.png)
+![](https://user-images.githubusercontent.com/101486416/213594168-fe17948b-6507-4785-b9eb-0f24ced13069.png)
 > 实事求是、暴露问题、直面问题、解决问题，让企业的表、里两个故事尽可能接近，走上真正的长期主义道路。
 
 ![image](https://user-images.githubusercontent.com/101486416/215253581-39ef3ea2-8e26-4726-9f64-23db1f95a7e3.png)
@@ -132,7 +135,6 @@
 
 ![image](https://user-images.githubusercontent.com/101486416/213594122-67191e03-6fda-4f54-b5bd-0f4ac84617d7.png)
 ![image](https://user-images.githubusercontent.com/101486416/213594140-399a45e2-ad1f-49c8-9ed0-e6583eda74b4.png)
-![image](https://user-images.githubusercontent.com/101486416/213594168-fe17948b-6507-4785-b9eb-0f24ced13069.png)
 ![image](https://user-images.githubusercontent.com/101486416/213594175-9ac37e3f-942e-4c18-8a51-373ada61760d.png)
 ![image](https://user-images.githubusercontent.com/101486416/213594196-65d78e83-66ed-41e6-a95e-799f11180922.png)
 ![image](https://user-images.githubusercontent.com/101486416/213594210-4b7115f0-f503-43a7-8098-0950b7f446fa.png)
