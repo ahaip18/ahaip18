@@ -10,7 +10,6 @@
 ![image](https://user-images.githubusercontent.com/101486416/218291408-3cd48a18-029d-432b-a12d-d181140cf6f9.jpeg)
 ![image](https://user-images.githubusercontent.com/101486416/218291426-78c02026-bb44-489f-b1a8-47180c261d16.jpeg)
 ![image](https://user-images.githubusercontent.com/101486416/218291433-b3b6b955-9c8c-4db5-8452-2b74ba2b19c6.jpeg)
-
 > 乔布斯的营销方法，从来不侧重于产品规格，而是侧重于产品对人们的价值。-- David Perell
 
 ![](https://user-images.githubusercontent.com/101486416/216754529-b3c99fdd-1d4b-417d-ac71-e4b3237326a4.png)
@@ -21,6 +20,12 @@
 ![](https://user-images.githubusercontent.com/101486416/216798044-d83df4d5-4da6-4c3b-a2cc-8fdc44faa3f5.png)
 ![](https://user-images.githubusercontent.com/101486416/213594168-fe17948b-6507-4785-b9eb-0f24ced13069.png)
 > 实事求是、暴露问题、直面问题、解决问题，让企业的表、里两个故事尽可能接近，走上真正的长期主义道路。
+
+![image](https://user-images.githubusercontent.com/101486416/218301149-2702d503-c9c4-4f2a-9f29-6cb02ff8d14e.jpeg)
+![image](https://user-images.githubusercontent.com/101486416/218301171-e0f0f649-5841-4eb1-9215-e8a832b63dd4.jpeg)
+![image](https://user-images.githubusercontent.com/101486416/218301210-c7fcdaad-9e7e-4ce1-af11-cbcbdad104e2.jpeg)
+![image](https://user-images.githubusercontent.com/101486416/218301247-39cf0580-d65b-4985-93f6-65bc1b53d530.jpeg)
+
 
 ## 定位
 
