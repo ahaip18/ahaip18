@@ -5,6 +5,14 @@
 > 人的本质就是一段时间，和时间做朋友，因相信而看见，是`爱和信任`让生活变得更加美好！有事做，忙一点，挺好，微笑面对，淡然于心...
 > `当下自己理性沉浸，身先士卒，沟通、执行及协作，聚焦价值创造及闭环`...
 
+![image](https://user-images.githubusercontent.com/101486416/218291362-acd1244b-880a-4ad9-a353-4409b9ec74f2.jpeg)
+![image](https://user-images.githubusercontent.com/101486416/218291375-773e9ce3-1914-466d-bdb2-aeaf300b45cf.jpeg)
+![image](https://user-images.githubusercontent.com/101486416/218291408-3cd48a18-029d-432b-a12d-d181140cf6f9.jpeg)
+![image](https://user-images.githubusercontent.com/101486416/218291426-78c02026-bb44-489f-b1a8-47180c261d16.jpeg)
+![image](https://user-images.githubusercontent.com/101486416/218291433-b3b6b955-9c8c-4db5-8452-2b74ba2b19c6.jpeg)
+
+> 乔布斯的营销方法，从来不侧重于产品规格，而是侧重于产品对人们的价值。-- David Perell
+
 ![](https://user-images.githubusercontent.com/101486416/216754529-b3c99fdd-1d4b-417d-ac71-e4b3237326a4.png)
 > 在一个充满不确定性的世界中，我们需要寻求一定的确定性，这是人的本性，我们愿意为此付出代价。但是，这种确定性终究是短暂的，这是世界的本性。过分追逐不可能的确定性，会让我们陷入“[成功剧场](https://maimai.cn/article/detail?fid=1652896824&efid=U8LzYin3CnuGi-VhBYV_Vg)”的坑里，也难以抓住面向未来的机会。因此，`不能用确定性的思路，来解决不确定性的问题`。——《[熄灯：傲慢、妄想和通用电气的没落](https://book.douban.com/subject/35158946/)》（Lights Out: Pride, Delusion, and the Fall of General Electric）
 
@@ -28,6 +36,18 @@
 
 所谓定位，在对本产品和竞争产品进行深入分析，对消费者的需求进行准确判断的基础上，`确定产品与众不同的优势及与此相联系的在消费者心中的独特地位，并将它们传达给目标消费者的动态过程`。
 ---《[定位](https://book.douban.com/subject/27155161/)》艾·里斯和杰克·特劳特
+
+没人在乎你
+当你离开学校，踏入社会，就会发现没人在乎你。
+没有人关心你是谁、你知道什么、你在做什么。每个人都忙于自己的生活，他们的注意力都在自己那里。
+```
+你唱了世界上最烂的歌？没人在乎。
+你花了两年时间写小说？没人在乎。
+你开发了一个出色的软件，解决了一个大问题？没人在乎。
+```
+这就是推销的用武之地了。
+当你意识到，社会上的人们不会像你的父母那样关注你，你就会明白，推销是一种合理的行为。没有推销，别人不会关注到你。
+`推销自己的产品是你的职责，让别人在乎你是你自己要解决的问题。`
 
 ## 当下
 ![](https://user-images.githubusercontent.com/101486416/216751135-c8115c39-1dad-4370-a0ce-9c26fb723265.jpg)
