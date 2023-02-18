@@ -5,6 +5,10 @@
 > 人的本质就是一段时间，和时间做朋友，因相信而看见，是`爱和信任`让生活变得更加美好！有事做，忙一点，挺好，微笑面对，淡然于心...
 > `当下自己理性沉浸，身先士卒，沟通、执行及协作，聚焦价值创造及闭环`...
 
+![image](https://user-images.githubusercontent.com/101486416/219836323-4a6fe5a1-dcfa-45bd-bf2c-fc6accfe06d1.jpeg)
+![image](https://user-images.githubusercontent.com/101486416/219836440-281096c8-fd8c-4d0d-a279-b636a039c5a8.jpeg)
+> 用脚步丈量世界
+
 ![image](https://user-images.githubusercontent.com/101486416/218291362-acd1244b-880a-4ad9-a353-4409b9ec74f2.jpeg)
 ![image](https://user-images.githubusercontent.com/101486416/218291375-773e9ce3-1914-466d-bdb2-aeaf300b45cf.jpeg)
 ![image](https://user-images.githubusercontent.com/101486416/218291408-3cd48a18-029d-432b-a12d-d181140cf6f9.jpeg)
