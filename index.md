@@ -579,4 +579,13 @@ Tomorrow is another day.
 ![image](https://user-images.githubusercontent.com/101486416/215030074-bde6223a-f3fb-4e89-b29f-72d807f6c693.png)
 > ahaip: `keep running...`
 
+![image](https://user-images.githubusercontent.com/101486416/221342341-e141c310-6f3f-475b-81f6-f3d416523b64.jpeg)
+![image](https://user-images.githubusercontent.com/101486416/221342361-2957f106-887b-4aa6-8454-4f12bacc3aa5.jpeg)
+
+
+[chatahaip](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-243.html)
+这个时代的学习，不是一个人的知识灌输到另一个人的头脑，一个人学习做另外一个人。
+这个时代的学习，是把别人的生命、智慧、经历，当做一盏灯悬挂在你自己的路上。挂的灯越多，你自己的路就越亮。
+课程的本质是激发禀赋，教育的本质是人点亮人。
+
 ![Alt](https://repobeats.axiom.co/api/embed/5694f8a5725db3353a697fd63a6a2c34fc8bd3a6.svg "Repobeats analytics image")
