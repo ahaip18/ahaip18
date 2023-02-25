@@ -3,13 +3,16 @@
 ![image](https://user-images.githubusercontent.com/101486416/221344260-5b22db1d-c665-4b12-a963-6017bcd794c1.png)
 > 我们像蝴蝶，只飞翔一天，便以为那是永恒。-- 卡尔萨根，美国科普作家
 
+![image](https://user-images.githubusercontent.com/101486416/221349318-3fdb2b18-89ff-4ef9-9e18-f5f12ee4c572.jpeg)
+![image](https://user-images.githubusercontent.com/101486416/221349338-e8adfbd4-fa8b-43af-b327-8a4fcb5d709e.jpeg)
+![image](https://user-images.githubusercontent.com/101486416/221349353-f1777fd3-c0c1-456f-ae25-b5a23d58329a.jpeg)
+![image](https://user-images.githubusercontent.com/101486416/221349387-3890501a-4fee-496f-9889-77831e7ec0e7.jpeg)
+> 自己先做起来，不是劝导他人的重要途径，而是唯一途径；与其恐惧，不如拥抱。——库珀·埃登斯
+
 ![](https://user-images.githubusercontent.com/101486416/211178976-f856459e-78cc-4428-bdf1-275bbd70f33b.png)
 ![](https://user-images.githubusercontent.com/101486416/216754660-aed411e4-2763-4810-8be1-c13656a3fb05.png)
 > 人的本质就是一段时间，和时间做朋友，因相信而看见，是`爱和信任`让生活变得更加美好！有事做，忙一点，挺好，微笑面对，淡然于心...
 > `当下、自己、理性、沉浸，身先士卒，沟通、执行及协作，聚焦价值创造及闭环`...
-
-与其恐惧，不如拥抱。
-——库珀·埃登斯
 
 ![image](https://user-images.githubusercontent.com/101486416/219836323-4a6fe5a1-dcfa-45bd-bf2c-fc6accfe06d1.jpeg)
 ![image](https://user-images.githubusercontent.com/101486416/219836440-281096c8-fd8c-4d0d-a279-b636a039c5a8.jpeg)
