@@ -1,5 +1,8 @@
 # AhaIP
 
+![image](https://user-images.githubusercontent.com/101486416/221344260-5b22db1d-c665-4b12-a963-6017bcd794c1.png)
+> 我们像蝴蝶，只飞翔一天，便以为那是永恒。-- 卡尔萨根，美国科普作家
+
 ![](https://user-images.githubusercontent.com/101486416/211178976-f856459e-78cc-4428-bdf1-275bbd70f33b.png)
 ![](https://user-images.githubusercontent.com/101486416/216754660-aed411e4-2763-4810-8be1-c13656a3fb05.png)
 > 人的本质就是一段时间，和时间做朋友，因相信而看见，是`爱和信任`让生活变得更加美好！有事做，忙一点，挺好，微笑面对，淡然于心...
@@ -621,6 +624,11 @@ Tomorrow is another day.
 这还凸显了`平时多保留相关材料、多记录自己想法的重要性`。否则，将来你想建个聊天机器人留给亲人，都找不到训练材料。
 其实，孔子也是这样，要不是他的弟子整理出版了上课笔记，今天根本不可能做出他的聊天机器人。
 
-
+现在各种软件纷纷加入 AI 相关的功能，在底层调用 OpenAI 的 API。
+下面就是网友投稿的作品。
+GitHub code review bot：每次提交代码，ChatGPT 自动 review。
+cz-git：使用 OpenAI 生成 git commit 提交信息。
+ChatBot Feishu：将 ChatGPT 接入飞书。
+AI 换头像：微信小程序，输入文字描述，自动生成头像图片。
 
 ![Alt](https://repobeats.axiom.co/api/embed/5694f8a5725db3353a697fd63a6a2c34fc8bd3a6.svg "Repobeats analytics image")
