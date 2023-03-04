@@ -604,8 +604,17 @@ GitHub code review bot：每次提交代码，ChatGPT 自动 review。
 cz-git：使用 OpenAI 生成 git commit 提交信息。
 ChatBot Feishu：将 ChatGPT 接入飞书。
 AI 换头像：微信小程序，输入文字描述，自动生成头像图片。
+
 ![IMG_0585](https://user-images.githubusercontent.com/101486416/222871633-d489f17c-c1b0-4163-92f3-27aa5aa728ee.jpeg)
-[AI 时装表演](https://mymodernmet.com/malik-afegbua-fashion-show-for-elders/)
-一位非洲艺术家使用 AI 生成了一场时装表演。
+> [AI 时装表演](https://mymodernmet.com/malik-afegbua-fashion-show-for-elders/)一位非洲艺术家使用 AI 生成了一场时装表演。以后肯定有很多时装展示，会用 AI 生成。这对于时尚行业也许会产生很大的冲击，谁能想到，AI 还能影响到模特儿的生计。
+
+一些科学家像鸟，从鸟瞰的角度看待问题，注重面前的广阔风景，不需要太多细节。另一些科学家像青蛙，只盯着眼前的事物，喜欢深入细节。
+-- 《物理学的鸟和青蛙》
+
+你应该开始写博客，如果不知道写什么，就写你学到的东西，以及写下你创造或建立的东西。
+-- 《博客写什么》
+
+世界隐藏的终极真相是，这个世界是我们创造出来的东西，而且可以很容易地做出不同的样子。
+-- Hacker News 读者
 
 ![Alt](https://repobeats.axiom.co/api/embed/5694f8a5725db3353a697fd63a6a2c34fc8bd3a6.svg "Repobeats analytics image")
