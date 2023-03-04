@@ -1,6 +1,6 @@
 # AhaIP
 
-![image](https://user-images.githubusercontent.com/101486416/221344260-5b22db1d-c665-4b12-a963-6017bcd794c1.png)
+![image](https://user-images.githubusercontent.com/101486416/222871486-255760f1-6742-4a83-baee-44d05d1962c2.jpeg)
 > 我们像蝴蝶，只飞翔一天，便以为那是永恒。-- 卡尔萨根，美国科普作家
 
 ![image](https://user-images.githubusercontent.com/101486416/221349318-3fdb2b18-89ff-4ef9-9e18-f5f12ee4c572.jpeg)
@@ -604,5 +604,8 @@ GitHub code review bot：每次提交代码，ChatGPT 自动 review。
 cz-git：使用 OpenAI 生成 git commit 提交信息。
 ChatBot Feishu：将 ChatGPT 接入飞书。
 AI 换头像：微信小程序，输入文字描述，自动生成头像图片。
+![IMG_0585](https://user-images.githubusercontent.com/101486416/222871633-d489f17c-c1b0-4163-92f3-27aa5aa728ee.jpeg)
+[AI 时装表演](https://mymodernmet.com/malik-afegbua-fashion-show-for-elders/)
+一位非洲艺术家使用 AI 生成了一场时装表演。
 
 ![Alt](https://repobeats.axiom.co/api/embed/5694f8a5725db3353a697fd63a6a2c34fc8bd3a6.svg "Repobeats analytics image")
