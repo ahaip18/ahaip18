@@ -1,5 +1,22 @@
 # AhaIP
 
+![image](https://user-images.githubusercontent.com/101486416/227715954-3f47ce72-f82e-44b3-94e1-8171c8877a54.png)
+> Show Me the patent portfolio.
+--AhaIP
+
+![image](https://user-images.githubusercontent.com/101486416/227715786-cc4d8d89-17ae-4e6e-9434-39fc5ab5dce6.png)
+> 亚马逊创始人贝佐斯禁止在公司使用 Powerpoint，他觉得这种方式太低效了。以前，每当有人站在他面前演示幻灯片，刚说了开头几句，贝佐斯就要那个人直接切换到最后一张幻灯片，展示他的结论。
+--[《压缩你的观点》](https://www.eugenewei.com/blog/2017/5/11/jpeg-your-ideas)
+
+![image](https://user-images.githubusercontent.com/101486416/227715834-535e3273-1692-43e8-89e6-122957ca8b2d.png)
+> 苹果公司的招聘理念就是两点。
+
+```
+（1）优秀人才是自我管理的，但需要领导者为大家提供一个共同目标。
+（2） 只有某个人看到 Macintosh 电脑感到无比兴奋，我们才会雇佣他。
+```
+-- [乔布斯](https://www.youtube.com/watch?v=fj0hpsJvrko)
+
 ![image](https://user-images.githubusercontent.com/101486416/222871486-255760f1-6742-4a83-baee-44d05d1962c2.jpeg)
 > 我们像蝴蝶，只飞翔一天，便以为那是永恒。-- 卡尔萨根，美国科普作家
 
