@@ -4,6 +4,10 @@
 > Show Me the patent portfolio.
 --AhaIP
 
+![image](https://user-images.githubusercontent.com/101486416/232196579-0bc75353-f975-408a-84f5-35e9a0c1417e.png)
+![image](https://user-images.githubusercontent.com/101486416/232196594-177e4a00-89bb-4520-b9c9-cb0e3bb60cea.png)
+> 成事第一，要事第一...
+
 ![image](https://user-images.githubusercontent.com/101486416/232183848-365d29a3-2878-4f02-b32f-73c6f1f3ba19.png)
 ![image](https://user-images.githubusercontent.com/101486416/232183854-2d09a1e4-9b9c-49ab-a141-0e9c0e8aa59b.png)
 ![image](https://user-images.githubusercontent.com/101486416/232183860-64e75620-3188-49ec-a4f8-a25a34f6d74e.png)
