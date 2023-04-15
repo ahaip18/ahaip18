@@ -4,6 +4,17 @@
 > Show Me the patent portfolio.
 --AhaIP
 
+![image](https://user-images.githubusercontent.com/101486416/232183848-365d29a3-2878-4f02-b32f-73c6f1f3ba19.png)
+![image](https://user-images.githubusercontent.com/101486416/232183854-2d09a1e4-9b9c-49ab-a141-0e9c0e8aa59b.png)
+![image](https://user-images.githubusercontent.com/101486416/232183860-64e75620-3188-49ec-a4f8-a25a34f6d74e.png)
+![image](https://user-images.githubusercontent.com/101486416/232183864-bf4f200f-cef5-456f-bf2c-da9c3e696599.png)
+![image](https://user-images.githubusercontent.com/101486416/232183866-d4609d2b-4e72-4d45-a97e-7cf030389e19.png)
+![image](https://user-images.githubusercontent.com/101486416/232183876-932967f5-100a-4d3b-9de8-3f4e6e06bef4.png)
+![image](https://user-images.githubusercontent.com/101486416/232183879-056b6232-0c3b-4d99-9d83-27813a57fafe.png)
+![image](https://user-images.githubusercontent.com/101486416/232183882-f46a84c6-dd03-4b97-a756-599b5be80897.png)
+![image](https://user-images.githubusercontent.com/101486416/232183884-08ec0840-2cd6-48c1-a263-6540e3de3078.png)
+> aha, 人性...
+
 ![image](https://user-images.githubusercontent.com/101486416/227715786-cc4d8d89-17ae-4e6e-9434-39fc5ab5dce6.png)
 > 亚马逊创始人贝佐斯禁止在公司使用 Powerpoint，他觉得这种方式太低效了。以前，每当有人站在他面前演示幻灯片，刚说了开头几句，贝佐斯就要那个人直接切换到最后一张幻灯片，展示他的结论。
 --[《压缩你的观点》](https://www.eugenewei.com/blog/2017/5/11/jpeg-your-ideas)
