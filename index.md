@@ -4,6 +4,13 @@
 > Show Me the patent portfolio.
 --AhaIP
 
+```
+1. 我能为你做点什么？
+2. 我们在一起，能够做点什么？
+3. 每一次找你，都是信任，每一个问题，就是机会；
+4. 实战出真知，具体情况具体分析...
+```
+
 ![image](https://user-images.githubusercontent.com/101486416/232196579-0bc75353-f975-408a-84f5-35e9a0c1417e.png)
 ![image](https://user-images.githubusercontent.com/101486416/232196594-177e4a00-89bb-4520-b9c9-cb0e3bb60cea.png)
 > 成事第一，要事第一...
