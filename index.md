@@ -7,7 +7,9 @@
 ![image](https://user-images.githubusercontent.com/101486416/236652457-1b07c508-e417-4fe2-ae3f-3903fea022ea.png)
 > 要成为优秀程序员，请编写大量代码；要成为顶级程序员，请阅读大量代码。
 -- [《请编写 CRISP 代码》](https://bitfieldconsulting.com/golang/crisp-code)
-大多数人都认为，手下的人比自己聪明，是没有问题的。一般来说，领导人都要聘请比自己聪明的顾问和幕僚。
+
+![image](https://user-images.githubusercontent.com/101486416/236653106-905257d5-cc4d-4cf7-983f-4e8004b180d8.png)
+> 大多数人都认为，手下的人比自己聪明，是没有问题的。一般来说，领导人都要聘请比自己聪明的顾问和幕僚。
 那么，当你的手下变成了比你聪明的 AI 模型时，人们为什么会感到受威胁呢？
 -- [Yann LeCun，Meta 首席 AI 科学家](https://twitter.com/ylecun/status/1647533059212812289)
 
