@@ -13,6 +13,8 @@
 那么，当你的手下变成了比你聪明的 AI 模型时，人们为什么会感到受威胁呢？
 -- [Yann LeCun，Meta 首席 AI 科学家](https://twitter.com/ylecun/status/1647533059212812289)
 
+![image](https://user-images.githubusercontent.com/101486416/236653147-38821813-ae66-411f-b37c-c422e8e539e8.png)
+![image](https://user-images.githubusercontent.com/101486416/236653151-c245ec2d-0878-4345-a2ae-833a4d23e454.png)
 
 ![image](https://user-images.githubusercontent.com/101486416/236652666-607221da-3e80-403c-a398-fd8f9ed94c23.png)
 ![image](https://user-images.githubusercontent.com/101486416/236652667-82662520-7731-47be-b529-93a5eeb19e71.png)
