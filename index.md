@@ -4,6 +4,35 @@
 > Show Me the patent portfolio.
 --AhaIP
 
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/ff4d6a4c-1ae7-4f7b-8368-7d7858e8db82)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/5abb12ce-c9a0-4db3-b378-cf79a418e2a0)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/491c6c16-f2a8-4fe0-ad65-c2b4d5d36da9)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/d3d06844-bf39-4106-972d-6dac58fa55d2)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/1c9d7cab-c30b-4a9d-8c44-b4db9322f6af)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/db6d3248-5275-4bb6-9a9e-7ab32115a47a)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/df78e096-81eb-43f8-a0bc-5acb1b47e236)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/d946bc7b-2447-4a1c-b599-2c9f9c6f1a8f)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/d670756b-40b8-47fd-84ae-5927a6b0f3ed)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/35b04947-c611-483b-8bcb-c05f1a68e9ac)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/6d2aa0ff-449c-4c88-b8d4-a61ef4db0f9a)
+> Illumination Moment
+```
+1、当下、理性及沉浸
+2、事情、关系及利益
+3、擅长、热爱及价值
+4、从T到π，无节假日概念
+5、从短板理论到长板理论
+6、量变质变，天道酬勤
+7、主动性、自驱力、简洁美
+8、全局视野，长期主义
+9、风险对冲，科学常识
+10、睡眠、运动、饮食及心态
+11、利己到利他，帮他即帮己
+12、HWPM、3A、MVP
+```
+
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/36f00e3a-6b4d-4d90-a42c-34e3411483f7)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/5fcf65fc-f276-4ea4-8822-2de2bea59a10)
 ![image](https://user-images.githubusercontent.com/101486416/236652457-1b07c508-e417-4fe2-ae3f-3903fea022ea.png)
 > 要成为优秀程序员，请编写大量代码；要成为顶级程序员，请阅读大量代码。
 -- [《请编写 CRISP 代码》](https://bitfieldconsulting.com/golang/crisp-code)
@@ -120,6 +149,9 @@
 这就是推销的用武之地了。
 当你意识到，社会上的人们不会像你的父母那样关注你，你就会明白，推销是一种合理的行为。没有推销，别人不会关注到你。
 `推销自己的产品是你的职责，让别人在乎你是你自己要解决的问题。`
+
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/e4c3eff4-2593-4eee-917f-ff2215481116)
+
 
 ## 当下
 ![](https://user-images.githubusercontent.com/101486416/216751135-c8115c39-1dad-4370-a0ce-9c26fb723265.jpg)
