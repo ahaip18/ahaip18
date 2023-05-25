@@ -29,7 +29,17 @@
 10、睡眠、运动、饮食及心态
 11、利己到利他，帮他即帮己
 12、HWPM、3A、MVP
+13、自己的时间、体验、生命、事业、人生
+14、积极主动、化繁为简
+15、健康、家人、朋友、事业
+16、少就是多，慢就是快
 ```
+
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/2414401f-c808-4dfb-adfe-ebc9747801f5)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/868759c7-0eae-4693-af9a-9ea931807ca2)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/86b65506-5406-41e1-ac01-bc6d8d6a227d)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/3e70a5d9-ede5-4e05-a17e-c6919f338b4d)
+> 欢乐海岸
 
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/36f00e3a-6b4d-4d90-a42c-34e3411483f7)
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/5fcf65fc-f276-4ea4-8822-2de2bea59a10)
