@@ -1,6 +1,10 @@
 # AhaIP
 
 ![image](https://user-images.githubusercontent.com/101486416/227715954-3f47ce72-f82e-44b3-94e1-8171c8877a54.png)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/7d2abbb2-01ad-4255-ba66-42c9597372b1)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/9d29260d-42ce-46bc-9da1-8e5724168bac)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/0b4c279f-f4c4-4e1c-8361-7ad67a14621c)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/f3ca5495-07e8-402f-bc12-4a12857cfdf6)
 > Show Me the patent portfolio.
 --AhaIP
 
@@ -33,7 +37,15 @@
 14、积极主动、化繁为简
 15、健康、家人、朋友、事业
 16、少就是多，慢就是快
+17、控制、影响及关注
 ```
+
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/3b3e2ccb-6938-4469-b16e-05dd32d069d0)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/2aecd5fb-0b52-4087-b564-f2d7187ffb4a)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/a5d50a97-8cd6-4a73-b725-efd86d171660)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/ee333be5-1156-4b3b-82e5-92da6d8fc5c7)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/a1ec6465-d1c1-4c7f-8412-537254e52e97)
+> 欲戴王冠必承其重
 
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/2414401f-c808-4dfb-adfe-ebc9747801f5)
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/868759c7-0eae-4693-af9a-9ea931807ca2)
@@ -1431,6 +1443,7 @@ AI 换头像：微信小程序，输入文字描述，自动生成头像图片�
 ![IMG_0959](https://user-images.githubusercontent.com/101486416/236677296-2500467e-9fcf-43f1-9ef5-d01c2b53da41.jpeg)
 ![IMG_0960](https://user-images.githubusercontent.com/101486416/236677297-80763c0c-e95f-40a1-9520-fd909f15a7ce.jpeg)
 ![IMG_0961](https://user-images.githubusercontent.com/101486416/236677299-ed12b594-c0be-449f-9eb2-6802c0fa5d33.jpeg)
+
 
 
 ![Alt](https://repobeats.axiom.co/api/embed/5694f8a5725db3353a697fd63a6a2c34fc8bd3a6.svg "Repobeats analytics image")
