@@ -8,6 +8,8 @@
 > Show Me the patent portfolio.
 --AhaIP
 
+> 阳光、大海、书店、音乐、沉浸...
+
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/ff4d6a4c-1ae7-4f7b-8368-7d7858e8db82)
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/5abb12ce-c9a0-4db3-b378-cf79a418e2a0)
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/491c6c16-f2a8-4fe0-ad65-c2b4d5d36da9)
