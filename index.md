@@ -6,9 +6,42 @@
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/0b4c279f-f4c4-4e1c-8361-7ad67a14621c)
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/f3ca5495-07e8-402f-bc12-4a12857cfdf6)
 > Show Me the patent portfolio.
---AhaIP
+--AhaIP 阳光、大海、书店、音乐、沉浸...
 
-> 阳光、大海、书店、音乐、沉浸...
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/df157ebb-8130-4ce0-b5e8-51e51ca035af)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/1a9a241f-a393-4483-9a6a-357f90cfa2af)
+> 亲爱的上帝，请赐给我雅量从容的接受不可改变的事，赐给我勇气去改变应该改变的事，并赐给我[智慧去分辨什么是可以改变的，什么是不可以改变的](https://zh.wikipedia.org/wiki/%E5%AF%A7%E9%9D%9C%E7%A6%B1%E6%96%87#cite_note-1)。
+
+史蒂芬柯维的《高效能人士的七个习惯》，但他只区分了影响圈和关注圈，安德烈斯·马丁·阿苏埃罗在《重建自我》中更进一步明确了控制圈
+
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/9f86ed94-2d39-4ca0-8a3a-c1bab93dcaa4)
+
+把时间和精力花在控制圈的人，一般都很积极主动。他们大多目标明确，行动迅速，执行力强，能发现问题，想办法解决问题，优化方法，改进流程，愿意和其他人协作。
+> 他们的思维模式是：我们还能做些什么？
+因为聚焦的事情高度可控，思考和行动也能带来相应的改变，所以也更能获得积极反馈，这些积极反馈又会反过来强化思考和行动，开启工作与成长的良性循环，由此获得复利。
+
+而把时间花在关注圈内的人，一般都是消极被动的人。关注无法控制的事情，比如谁谁谁出了问题？他哪里没有做好？出了问题归结于客观环境和他人的原因。而要做好这些事情解决这些问题，又超出了他的能力范围，所以常常会把精力浪费无谓的抱怨或争论上。
+因为聚焦的事情是不可控的，思考和行动常常没有反馈，甚至是带来负反馈，但是人又通常会有意无意忽视、不愿意面对、不愿意承认自己的问题，所以带来的只会是空虚、无聊、和抱怨。
+> 因此，他们的思维模式是：不是我的问题。
+
+```
+做精控制圈，就是尽职尽责、极致交付、挑战极限。
+扩大影响圈，就是发挥主人翁精神，做正向输出，帮助公司与伙伴发现问题解决问题。
+缩小关注圈，找到和利用大牛的经验总结和案例分析，帮助我们扩展眼界，提升认知，掌握规律。
+```
+
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/cabc0ee7-eb99-40af-ba26-597c87fa4800)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/035fa6eb-880e-4ae8-8298-a796b64a4a98)
+> [做最好的自己](https://www.cnblogs.com/Leo_wl/archive/2010/01/28/1658473.html)
+
+```
+以勇气指导自己追寻理想
+以自信培养、发现兴趣
+以自省指导有效执行
+以积极的态度努力学习
+以同理心指导人际交流
+以胸怀促进团队合作与相互沟通
+```
 
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/ff4d6a4c-1ae7-4f7b-8368-7d7858e8db82)
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/5abb12ce-c9a0-4db3-b378-cf79a418e2a0)
@@ -22,6 +55,7 @@
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/35b04947-c611-483b-8bcb-c05f1a68e9ac)
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/6d2aa0ff-449c-4c88-b8d4-a61ef4db0f9a)
 > Illumination Moment
+
 ```
 1、当下、理性及沉浸
 2、事情、关系及利益
