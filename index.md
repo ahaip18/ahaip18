@@ -12,6 +12,8 @@
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/1a9a241f-a393-4483-9a6a-357f90cfa2af)
 > 亲爱的上帝，请赐给我雅量从容的接受不可改变的事，赐给我勇气去改变应该改变的事，并赐给我[智慧去分辨什么是可以改变的，什么是不可以改变的](https://zh.wikipedia.org/wiki/%E5%AF%A7%E9%9D%9C%E7%A6%B1%E6%96%87#cite_note-1)。
 
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/0d450788-bcd6-42b5-8e77-f9e0fefe8897)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/55363617-d313-42d9-b7d4-c8f4f521973e)
 史蒂芬柯维的《高效能人士的七个习惯》，但他只区分了影响圈和关注圈，安德烈斯·马丁·阿苏埃罗在《重建自我》中更进一步明确了控制圈
 
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/9f86ed94-2d39-4ca0-8a3a-c1bab93dcaa4)
