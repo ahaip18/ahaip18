@@ -8,6 +8,17 @@
 > Show Me the patent portfolio.
 --AhaIP 阳光、大海、书店、音乐、沉浸...
 
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/220d97b9-7023-4b33-81f2-ddf208be9bd2)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/cddd6d7b-a260-4c56-b25a-27dcc7bc4c79)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/ecb3c709-06f1-4182-bb86-fa1123ccde11)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/33d176bd-2f75-4922-b222-de732f03cdcc)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/49e5c099-5101-4dc8-ab54-d5962bd66c53)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/4381f001-3616-413c-8ba3-85b52f91717f)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/23bfbd52-cb56-4e0b-bf3b-0932037273fa)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/c64961c8-6c5e-4a71-a859-c0ef15d0d0e9)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/0bff4d18-2a33-4ef2-9036-455e89c22ccf)
+> 强者示弱，弱者逞强。
+
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/df157ebb-8130-4ce0-b5e8-51e51ca035af)
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/1a9a241f-a393-4483-9a6a-357f90cfa2af)
 > 亲爱的上帝，请赐给我雅量从容的接受不可改变的事，赐给我勇气去改变应该改变的事，并赐给我[智慧去分辨什么是可以改变的，什么是不可以改变的](https://zh.wikipedia.org/wiki/%E5%AF%A7%E9%9D%9C%E7%A6%B1%E6%96%87#cite_note-1)。
