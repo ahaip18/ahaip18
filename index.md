@@ -8,18 +8,47 @@
 > Show Me the patent portfolio.
 --AhaIP 阳光、大海、书店、音乐、沉浸...
 
----
-1. 人生是个体验过程，是场旅行，也是修行，珍惜感恩，知足常乐；
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/96399721-8d75-49e1-a59a-363bafacb729)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/468ac7a0-7e27-43ba-9e6e-8773ec1336f7)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/9e672380-cb1f-4f8b-bf78-b9a1a8c5b6f5)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/621779eb-4853-4668-9d78-82eb51e4d871)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/41f64fe3-60e6-47ae-8343-f9f738910397)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/1355a7f5-7935-4f6a-9fa1-5cf76c453855)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/a8d2fe9c-5381-42d4-8995-b2cbe4023dac)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/2c8ccd4c-2e52-46e9-815e-7f459444c393)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/1df17da9-844c-4e1d-a450-7d7d11c2e517)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/074b9998-3e9c-4b31-acea-ab14cc93b70e)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/9674668d-4e97-4f89-93a3-8a3d17a2e052)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/ecfb8d55-e3d8-4e3c-803b-f9299d4c9bbc)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/07344110-0dcc-40a8-b7e4-84a9c5f1ec26)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/d402d709-484f-4948-a884-a2f845dd076d)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/c6eea07e-e9b1-4b96-ac18-e691d6d19e54)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/5c192262-5a60-4c15-a885-235e01a62cc6)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/bd66e2c1-dc87-4af2-9cf9-619a6e4b6639)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/47bcb0ff-561c-41c3-8945-051cabfb5f5b)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/1c1e7585-c094-401c-accd-89326b2dd251)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/4eaa7f3f-13e2-49cb-8fc9-73f07240c6a8)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/c076b7c1-1baa-4198-97a4-64567b43d074)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/a32ed174-aaee-48c3-9504-c59a92b6bfc1)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/85c1a746-d1ad-4751-a055-5e2d7f38b22c)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/a9840eb6-b839-46a5-bb91-bd6f016c210e)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/a872c267-4555-4703-a5f4-37b79353199f)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/c978ed6c-d14a-4b49-a16b-2c27285fecaa)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/cad7933e-962f-44de-8a2c-c5a866839232)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/7f5a99c6-93a8-4e9c-9952-83f2295e4d9c)
+
+```
+1. 体验而已，人生是个体验过程，是场旅行，也是修行，珍惜感恩，知足常乐；
 2. 工作和生活，只要生命不息，就会持续不断，二八原则，三七原则，一二七原则；
-3. 你永远不是一个人在战斗，相信自己，信任团队；
-4. 解决别人的问题，才能最终解决自己的问题，利他即利己；
+3. 为结果负责，但不独行，你永远不是一个人在战斗，相信自己，信任团队，协作共赢；
+4. 先解决别人的问题，才能最终解决自己的问题，利他即利己，当下，自己，理性及沉浸，坚持做真实的自己；
 5. 钥匙不在问题的锁头上，跳出来思考，走出去行动，事情、关系及利益；
-6. 化整为零，各个击破，厚积薄发，量变质变，天道酬勤；
-7. 做正确且难的事情，核心竞争力，从t到π，少有、正确及价值之旅；
+6. 化整为零，各个击破，厚积薄发，量变质变，天道酬勤，唯一能控制的仅自己，只能也只需为自己的选择和行为负责；
+7. 做正确且难的事情，核心竞争力，从t到π，少有、正确及价值之旅，HWPM、MVP；
 8. 投资理财，开源节流，积少成多，相信科学，尊重常识；
 9. 断舍离，将军赶路，不打小鬼，成年人，聚焦核心价值及目标，守望初心，方得始终；
-10. 健康及家人第一，基因传承、品质生活及价值意义，三十而立，四十不惑。
----
+10. 健康及家人第一，基因传承、品质生活及价值意义，年少轻狂，三十而立，四十不惑。
+```
 
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/220d97b9-7023-4b33-81f2-ddf208be9bd2)
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/cddd6d7b-a260-4c56-b25a-27dcc7bc4c79)
