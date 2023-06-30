@@ -3,15 +3,13 @@
 ![image](https://user-images.githubusercontent.com/101486416/227715954-3f47ce72-f82e-44b3-94e1-8171c8877a54.png)
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/7d2abbb2-01ad-4255-ba66-42c9597372b1)
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/9d29260d-42ce-46bc-9da1-8e5724168bac)
-![image](https://github.com/ahaip18/ahaip18/assets/101486416/0b4c279f-f4c4-4e1c-8361-7ad67a14621c)
-![image](https://github.com/ahaip18/ahaip18/assets/101486416/f3ca5495-07e8-402f-bc12-4a12857cfdf6)
-> Show Me the patent portfolio.
+> Show Me the Patent.
 --AhaIP 阳光、大海、书店、音乐、沉浸...
 
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/ad2f86de-490a-4f3b-a7ae-a8f854fcf2d2)
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/d989bfe6-db02-4cab-bd8c-2ed15ab21cfb)
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/ffd586eb-0a5d-4823-b2e0-9bd0fd9492ae)
-> ahaip  沉浸当下，理想应对，整合资源，解决问题，创造价值...
+> ahaip  沉浸当下，理性应对，躬身入局，整合资源，解决问题，创造价值...
 
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/96399721-8d75-49e1-a59a-363bafacb729)
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/468ac7a0-7e27-43ba-9e6e-8773ec1336f7)
@@ -41,6 +39,8 @@
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/c978ed6c-d14a-4b49-a16b-2c27285fecaa)
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/cad7933e-962f-44de-8a2c-c5a866839232)
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/7f5a99c6-93a8-4e9c-9952-83f2295e4d9c)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/0b4c279f-f4c4-4e1c-8361-7ad67a14621c)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/f3ca5495-07e8-402f-bc12-4a12857cfdf6)
 
 ```
 1. 体验而已，人生是个体验过程，是场旅行，也是修行，珍惜感恩，知足常乐；
