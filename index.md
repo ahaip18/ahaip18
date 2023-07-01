@@ -11,6 +11,14 @@
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/ffd586eb-0a5d-4823-b2e0-9bd0fd9492ae)
 > ahaip  沉浸当下，理性应对，躬身入局，整合资源，解决问题，创造价值...
 
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/d392b724-864d-4b4e-9bc1-be9dbebe1756)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/e06da83c-3df2-4944-ad97-f9bf41e5e1c9)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/7e39cde8-f2d4-447e-8c58-e689705eccd7)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/19470ef7-ea6b-4187-aa0b-edd0dd79107a)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/46040ca3-b741-40ea-bc5c-7587320754c3)
+![image](https://github.com/ahaip18/ahaip18/assets/101486416/3cef4316-de52-4911-a900-95323609ea21)
+> 理性沉浸当下 
+
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/96399721-8d75-49e1-a59a-363bafacb729)
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/468ac7a0-7e27-43ba-9e6e-8773ec1336f7)
 ![image](https://github.com/ahaip18/ahaip18/assets/101486416/9e672380-cb1f-4f8b-bf78-b9a1a8c5b6f5)
